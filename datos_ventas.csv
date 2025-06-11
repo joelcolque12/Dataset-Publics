@@ -1,0 +1,1321 @@
+id,edad,precio,cantidad,categoria,genero,descuento,satisfaccion,comprado,fecha_compra,metodo_pago,ubicacion_tienda,tiempo_entrega,cliente_recurrente,valoracion_producto
+749,22.0,481.57,4.0,Libros,Femenino,48.6,8.5,True,2023-01-06,Tarjeta de débito,Zaragoza,23.0,True,2.2
+1034,71.0,169.57,1.0,Juguetes,Masculino,45.2,6.8,False,2022-11-20,Criptomoneda,Barcelona,6.0,False,3.9
+385,78.0,339.87,5.0,Belleza,Prefiero no decir,23.6,8.5,True,2022-03-10,Tarjeta de crédito,Valencia,9.0,True,2.8
+286,59.0,302.32,2.0,Mascotas,Prefiero no decir,0.8,6.5,True,2023-02-19,Tarjeta de débito,Barcelona,16.0,False,5.0
+347,65.0,230.84,8.0,Mascotas,No binario,40.5,6.5,True,2022-01-06,Criptomoneda,Madrid,17.0,True,1.4
+442,40.0,414.22,9.0,Belleza,No binario,15.7,7.5,False,2023-07-19,Tarjeta de débito,Málaga,18.0,True,3.7
+334,34.0,158.14,76.0,Alimentos,Femenino,34.1,0.9,True,2022-05-28,Contra reembolso,,24.0,True,4.8
+894,55.0,40.22,6.0,Belleza,Prefiero no decir,14.4,2.3,True,2023-04-11,Transferencia,Las Palmas,25.0,True,4.8
+340,40.0,30.31,97.0,Alimentos,Masculino,13.4,8.6,True,2023-01-18,Tarjeta de crédito,Palma,1.0,False,4.4
+824,83.0,85.54,4.0,Alimentos,No binario,15.2,4.1,True,2023-09-16,Transferencia,Bilbao,2.0,True,2.2
+587,29.0,489.6,9.0,Alimentos,No binario,47.4,3.0,True,2022-05-02,Contra reembolso,Murcia,9.0,True,3.2
+509,37.0,490.47,6.0,Belleza,Prefiero no decir,,4.9,True,2023-11-07,PayPal,Málaga,6.0,False,2.4
+67,41.0,233.84,4.0,Electrónica,No binario,18.3,5.7,True,2024-02-11,Transferencia,Zaragoza,26.0,True,3.1
+1038,53.0,322.66,2.0,Libros,No binario,32.4,4.8,True,2023-11-22,Transferencia,Valencia,13.0,False,1.4
+513,66.0,288.9,5.0,Deportes,Femenino,41.7,6.1,True,2023-05-11,Transferencia,Palma,14.0,False,1.6
+533,58.0,153.2,2.0,Juguetes,Prefiero no decir,15.0,8.1,False,2022-02-17,Tarjeta de crédito,Las Palmas,4.0,False,1.3
+1023,57.0,156.85,1.0,Mascotas,Masculino,26.5,1.1,False,2023-05-30,Contra reembolso,Las Palmas,3.0,,2.2
+393,60.0,458.73,8.0,Mascotas,Femenino,45.0,7.0,True,2023-01-01,Contra reembolso,,7.0,True,2.9
+677,81.0,72.62,10.0,Alimentos,Prefiero no decir,14.7,8.9,True,2023-05-03,Criptomoneda,Murcia,11.0,,1.1
+59,51.0,274.05,,Libros,Masculino,26.7,0.1,False,2023-12-01,Tarjeta de débito,Zaragoza,19.0,False,3.7
+506,38.0,248.7,7.0,Deportes,Masculino,34.5,,True,2022-07-03,,Madrid,8.0,False,3.6
+517,18.0,427.71,7.0,Deportes,Masculino,31.7,8.5,True,2024-02-19,PayPal,Murcia,12.0,False,2.1
+751,27.0,186.01,8.0,Alimentos,,3.6,1.8,True,2022-06-08,PayPal,Barcelona,3.0,False,
+1104,56.0,420.7,6.0,Libros,Prefiero no decir,33.6,8.7,True,2023-07-30,Tarjeta de crédito,Sevilla,22.0,True,
+697,69.0,66.56,6.0,Belleza,Femenino,8.5,3.0,True,,Contra reembolso,Zaragoza,5.0,True,2.0
+102,31.0,482.42,6.0,,No binario,,4.6,True,2024-02-01,Transferencia,Valencia,15.0,True,2.1
+978,114.0,283.23,7.0,Libros,Femenino,,6.5,True,2022-09-05,Tarjeta de débito,Palma,2.0,True,4.0
+956,84.0,55.75,10.0,Ropa,Masculino,19.4,3.8,True,2023-11-21,Efectivo,Valencia,21.0,True,3.4
+489,56.0,66.79,7.0,Jardín,Masculino,12.8,3.9,True,2023-06-07,Criptomoneda,Zaragoza,15.0,False,3.0
+658,53.0,252.7,9.0,Electrónica,Femenino,11.0,3.4,False,2023-09-03,Criptomoneda,Barcelona,28.0,False,
+948,51.0,,5.0,Electrónica,Masculino,37.4,4.5,True,2023-07-03,PayPal,Bilbao,,True,1.6
+312,75.0,288.16,7.0,Deportes,Masculino,,0.2,,2023-09-14,Transferencia,Madrid,10.0,False,2.1
+426,79.0,482.19,10.0,Ropa,Prefiero no decir,1.1,9.7,True,2024-01-28,Tarjeta de débito,Murcia,10.0,False,4.4
+443,33.0,492.09,28.0,Electrónica,Femenino,4.2,7.8,False,2022-04-22,Tarjeta de crédito,Zaragoza,11.0,True,3.4
+937,55.0,404.31,7.0,Mascotas,No binario,33.3,4.0,True,2023-10-11,PayPal,Palma,22.0,False,1.4
+738,18.0,117.98,4.0,Belleza,Masculino,33.6,4.6,True,2023-06-20,Criptomoneda,Málaga,15.0,False,1.4
+240,44.0,153.46,7.0,Hogar,No binario,24.7,9.7,True,2023-07-01,Criptomoneda,Murcia,26.0,True,1.1
+794,68.0,397.61,,Mascotas,Masculino,14.0,6.0,True,2022-04-13,Tarjeta de crédito,Barcelona,26.0,True,2.1
+825,27.0,284.72,,Libros,Femenino,1.2,3.2,True,2022-02-08,PayPal,Sevilla,26.0,True,3.7
+253,34.0,293.49,1.0,Jardín,Femenino,29.4,1.0,True,2023-07-05,Efectivo,Las Palmas,27.0,True,4.1
+912,45.0,383.95,7.0,Libros,Femenino,43.1,3.0,True,2023-07-05,,Sevilla,22.0,True,1.1
+500,61.0,190.79,2.0,Juguetes,No binario,35.9,2.2,True,2022-06-19,PayPal,Sevilla,20.0,False,5.0
+957,76.0,259.36,6.0,Alimentos,Prefiero no decir,16.2,7.9,True,2024-02-06,PayPal,,13.0,False,1.2
+490,18.0,398.13,3.0,Libros,Prefiero no decir,40.0,3.4,True,2022-04-03,PayPal,Barcelona,28.0,,1.2
+640,78.0,196.89,10.0,Mascotas,No binario,31.5,1.4,True,2024-04-30,Tarjeta de crédito,Murcia,6.0,True,2.2
+74,82.0,232.32,4.0,Belleza,Prefiero no decir,20.4,3.1,False,2023-09-23,PayPal,Murcia,23.0,False,1.6
+295,53.0,74.31,7.0,Mascotas,No binario,23.0,5.2,False,2023-10-19,Tarjeta de crédito,Barcelona,24.0,False,4.6
+567,20.0,263.68,7.0,Belleza,Prefiero no decir,32.8,3.6,True,,Transferencia,Las Palmas,11.0,False,2.1
+1098,24.0,12.62,,Deportes,Prefiero no decir,42.5,6.6,True,2024-01-08,Transferencia,Las Palmas,7.0,True,2.6
+1083,25.0,159.89,2.0,Jardín,,18.8,6.8,True,2022-07-20,Contra reembolso,Bilbao,23.0,False,3.6
+708,79.0,159.37,7.0,Mascotas,Masculino,25.1,2.9,True,2024-03-19,Efectivo,Barcelona,26.0,True,3.4
+314,66.0,150.28,6.0,Alimentos,Prefiero no decir,4.6,7.2,True,2022-10-16,Efectivo,,12.0,True,2.1
+1152,,460.78,3.0,,Femenino,30.8,7.6,False,2022-03-22,Criptomoneda,Las Palmas,24.0,False,3.4
+160,19.0,414.98,10.0,Juguetes,Prefiero no decir,16.0,1.4,True,2024-03-19,Tarjeta de crédito,Bilbao,25.0,True,1.4
+359,46.0,298.86,5.0,Alimentos,,48.6,8.4,True,2022-12-19,Contra reembolso,Valencia,19.0,True,2.5
+641,39.0,318.19,7.0,Libros,Masculino,37.4,7.0,True,2023-02-25,PayPal,Murcia,,True,2.4
+1128,116.0,11.8,2.0,Hogar,,34.5,4.1,True,2022-12-19,Criptomoneda,Bilbao,27.0,True,2.2
+1138,79.0,0.37,2.0,Libros,Femenino,,7.3,True,2023-10-28,Efectivo,Madrid,1.0,False,1.0
+477,36.0,200.59,8.0,Libros,Prefiero no decir,7.4,8.6,True,2024-03-04,PayPal,Valencia,8.0,False,3.1
+1049,72.0,38.41,5.0,Alimentos,No binario,27.5,,False,2022-09-27,Transferencia,,30.0,True,3.2
+323,22.0,249.31,6.0,Litros,Femenino,47.8,6.9,True,2022-06-10,Tarjeta de débito,Sevilla,16.0,False,3.7
+1102,65.0,,5.0,Belleza,Masculino,17.7,1.3,True,2022-11-04,Efectivo,Zaragoza,8.0,True,3.6
+190,40.0,258.76,77.0,Libros,Femenino,30.2,0.8,True,2024-02-10,Tarjeta de crédito,Sevilla,11.0,False,4.4
+595,31.0,295.0,5.0,Ropa,Masculino,11.0,1.7,False,2023-05-09,,Madrid,6.0,,
+352,80.0,40.15,9.0,Libros,Femenino,3.5,0.6,True,2023-07-15,Tarjeta de débito,Zaragoza,21.0,,4.3
+524,41.0,257.66,,Juguutes,Femenino,22.0,3.0,True,2022-02-13,Criptomoneda,Murcia,17.0,False,3.6
+814,50.0,480.27,2.0,Juguetes,No binario,39.9,5.7,True,2022-05-29,Transferencia,Sevilla,27.0,False,1.2
+819,74.0,241.07,7.0,Juguetes,Prefiero no decir,24.1,4.8,True,2022-03-07,Criptomoneda,Valencia,8.0,True,2.3
+980,46.0,250.65,3.0,Deportes,Prefiero no decir,25.4,3.6,True,2022-07-31,Criptomoneda,Madrid,15.0,False,2.0
+291,30.0,130.92,7.0,Deportes,Prefiero no decir,10.2,8.6,,2023-11-21,Efectivo,Las Palmas,,False,3.1
+557,80.0,43.44,53.0,Mascotas,Femenino,24.5,8.9,True,,Contra reembolso,Palma,9.0,False,4.9
+258,54.0,416.53,1.0,Deportes,Masculino,15.7,0.8,True,2023-03-22,Efectivo,,15.0,False,2.2
+1199,49.0,415.14,10.0,Juguetes,No binario,40.3,6.5,True,2024-02-01,PayPal,Barcelona,17.0,False,2.6
+1199,49.0,415.14,10.0,Juguetes,No binario,40.3,6.5,True,2024-02-01,PayPal,Barcelona,17.0,False,2.6
+453,35.0,382.14,3.0,Electrónica,Prefiero no decir,43.6,4.3,True,2022-09-27,Criptomoneda,Murcia,,False,2.7
+34,,30.87,8.0,Electrónica,Femenino,23.4,7.2,True,2023-08-08,,,29.0,True,2.1
+928,62.0,405.59,7.0,Libros,Prefiero no decir,26.8,1.0,True,2023-11-29,Contra reembolso,Málaga,13.0,False,1.5
+537,34.0,109.3,5.0,Jardín,Masculino,,8.4,True,2022-04-16,Contra reembolso,Bilbao,9.0,True,2.0
+646,63.0,334.86,10.0,Mascotas,No binario,23.6,1.8,True,2024-04-20,PayPal,Sevilla,14.0,True,4.6
+202,26.0,454.06,6.0,Libros,Prefiero no decir,14.5,7.6,False,2023-04-02,PayPal,Madrid,23.0,True,2.9
+702,76.0,299.59,8.0,Juguetes,Prefiero no decir,18.8,7.5,,2023-12-16,Tarjeta de crédito,Palma,26.0,False,
+1062,78.0,244.1,9.0,Electrónica,Femenino,19.1,6.9,True,2024-02-10,Tarjeta de débito,Zaragoza,13.0,True,3.7
+33,24.0,1.14,2.0,Hogar,Masculino,2.5,,False,2023-08-20,Efectivo,Barcelona,71.0,True,3.0
+42,19.0,284.84,7.0,Belleza,Femenino,17.9,0.1,False,2023-03-09,Transferencia,Zaragoza,2.0,True,3.3
+1195,67.0,259.93,7.0,Ropa,Prefiero no decir,0.7,8.2,True,2024-01-16,Contra reembolso,Málaga,6.0,False,2.0
+1197,34.0,181.66,9.0,Deportes,No binario,48.6,1.3,False,2023-11-09,Transferencia,Las Palmas,8.0,True,3.2
+986,28.0,17.47,9.0,Mascotas,Masculino,,4.3,True,2022-06-09,Tarjeta de crédito,Madrid,19.0,False,3.0
+375,,290.71,10.0,Ropa,No binario,,8.9,True,2023-08-04,Contra reembolso,Murcia,1.0,False,2.8
+169,55.0,227.92,7.0,Deportes,Masculino,22.7,8.3,False,2022-08-14,Efectivo,Murcia,28.0,True,4.2
+19,66.0,37.36,8.0,Mascotas,Masculino,,3.1,True,2023-12-29,Transferencia,Zaragoza,12.0,True,2.2
+753,19.0,101.94,9.0,Juguetes,Prefiero no decir,37.2,3.9,False,2023-10-30,Tarjeta de débito,Valencia,23.0,False,4.8
+233,76.0,52.78,6.0,Deportes,No binario,6.2,4.0,True,2022-11-25,Transferencia,Las Palmas,5.0,True,2.7
+11,55.0,134.54,6.0,Jardín,No binario,14.5,5.2,,2022-08-03,,Bilbao,16.0,True,4.5
+376,41.0,26.65,4.0,Alimentos,No binario,14.4,4.6,True,2022-02-25,Criptomoneda,Málaga,26.0,True,4.2
+838,64.0,52.22,8.0,Hogar,No binario,6.5,6.8,False,2022-06-29,PayPal,Murcia,16.0,False,3.3
+157,71.0,232.34,8.0,Deportes,Prefiero no decir,34.8,2.8,False,2023-11-09,PayPal,Bilbao,25.0,False,1.3
+339,,320.02,6.0,Jardín,Femenino,5.2,6.9,True,,,Zaragoza,119.0,,1.1
+1029,43.0,38.83,9.0,Belleza,Prefiero no decir,,9.1,False,2023-04-14,Tarjeta de crédito,Barcelona,16.0,False,2.0
+181,37.0,344.73,10.0,Hogar,Masculino,40.3,9.8,True,2022-12-24,PayPal,Sevilla,30.0,True,4.0
+1200,30.0,395.7,1.0,Electrónica,Prefiero no decir,2.9,1.6,True,2023-12-19,Criptomoneda,Valencia,25.0,True,3.8
+968,54.0,431.54,4.0,Juguetes,No binario,25.7,1.0,False,2022-10-03,Contra reembolso,Málaga,,True,3.9
+1193,78.0,158.35,10.0,Deportes,No binario,46.2,8.2,False,2022-01-24,Tarjeta de crédito,Valencia,24.0,False,2.3
+574,68.0,41.09,6.0,Juguetes,Prefiero no decir,30.2,7.8,True,2022-08-24,Tarjeta de débito,Barcelona,28.0,False,1.6
+852,40.0,378.36,10.0,Libros,Masculino,27.5,6.3,True,2023-06-07,Criptomoneda,Zaragoza,25.0,True,4.7
+53,71.0,264.08,4.0,Electrónica,Prefiero no decir,20.6,1.7,False,2022-07-24,Criptomoneda,Palma,12.0,False,2.4
+34,,30.65,8.0,Electrónica,Femenino,23.4,7.2,True,2023-08-08,,,29.0,True,2.1
+485,30.0,269.03,9.0,Hogar,Prefiero no decir,42.4,0.3,True,2022-10-25,Transferencia,Murcia,9.0,True,4.3
+779,31.0,252.8,6.0,HogaT,Prefiero no decir,29.3,1.4,True,2023-08-15,Tarjeta de crédito,Valencia,5.0,True,3.1
+406,75.0,176.21,9.0,Alimentos,,25.4,7.3,True,2022-12-03,PayPal,Zaragoza,21.0,True,1.1
+985,37.0,195.26,9.0,Deportes,No binario,11.3,,False,2022-12-31,Contra reembolso,Las Palmas,29.0,True,5.0
+299,25.0,243.61,8.0,Belleza,No binario,44.3,2.6,False,2024-02-14,Transferencia,Málaga,104.0,,4.1
+17,75.0,227.62,8.0,Ropa,Prefiero no decir,30.9,4.5,True,2023-11-20,Tarjeta de crédito,Las Palmas,11.0,False,4.9
+179,84.0,339.71,6.0,Jardín,Prefiero no decir,39.8,3.9,False,2023-02-18,Efectivo,Palma,29.0,True,1.0
+444,74.0,147.76,3.0,Jardín,No binario,34.3,3.2,True,2022-06-29,Contra reembolso,Bilbao,24.0,False,2.7
+185,56.0,117.45,8.0,Electrónica,No binario,29.4,3.3,True,2022-12-06,,Zaragoza,3.0,False,2.3
+469,55.0,247.0,2.0,Ropa,Femenino,41.3,9.6,False,2022-08-06,Contra reembolso,Valencia,10.0,False,4.7
+1076,78.0,137.36,9.0,Juguetes,Prefiero no decir,45.4,2.0,False,2024-01-09,Tarjeta de crédito,,25.0,False,2.8
+236,11.0,237.04,6.0,Libros,Prefiero no decir,16.1,7.7,True,,Tarjeta de débito,Málaga,10.0,True,4.0
+1164,29.0,216.66,3.0,Juguetes,Masculino,13.3,0.1,True,2023-10-09,Tarjeta de débito,Palma,14.0,False,4.9
+949,72.0,476.35,6.0,Mascotas,Prefiero no decir,,7.5,False,2022-01-10,Efectivo,Valencia,14.0,False,4.2
+1142,73.0,412.38,7.0,Libros,Masculino,3.7,9.8,True,2024-03-10,Tarjeta de crédito,Bilbao,16.0,False,4.7
+889,,297.61,3.0,Hogar,Prefiero no decir,,1.3,True,2024-04-15,,Málaga,,True,1.9
+477,36.0,200.59,9.0,Libros,Prefiero no decir,7.4,8.6,True,2024-03-04,PayPal,Valencia,8.0,False,3.1
+969,71.0,140.67,7.0,Hogar,Masculino,16.5,7.4,True,2022-07-07,Tarjeta de crédito,Bilbao,5.0,False,2.1
+341,26.0,132.52,6.0,,Masculino,26.0,3.0,False,2022-01-12,Criptomoneda,Madrid,16.0,True,1.6
+1126,83.0,439.35,4.0,Mascotas,,19.6,9.3,True,2024-04-09,Tarjeta de crédito,Palma,27.0,True,2.7
+94,10.0,455.06,4.0,Ropa,Prefiero no decir,40.7,9.0,True,2023-02-01,PayPal,,21.0,True,3.9
+818,55.0,85.03,2.0,Belleza,No binario,14.2,7.1,False,2022-04-01,Efectivo,Murcia,11.0,True,2.3
+405,85.0,445.6,10.0,Belleza,No binario,40.2,0.5,False,2023-04-07,Tarjeta de débito,Las Palmas,8.0,True,1.8
+682,61.0,200.59,4.0,Electrónica,No binario,0.1,6.0,True,2023-06-29,PayPal,Madrid,15.0,True,1.7
+597,,40.53,5.0,Electrónica,Masculino,39.8,9.7,True,2023-05-06,,Málaga,24.0,False,3.6
+262,77.0,455.27,4.0,Jardín,Femenino,5.6,2.0,True,2024-02-04,Tarjeta de crédito,Bilbao,28.0,False,2.5
+235,14.0,11.14,10.0,Jardín,Masculino,36.7,4.4,False,2022-03-26,Tarjeta de débito,Zaragoza,22.0,False,3.4
+278,44.0,352.8,,Deportes,Masculino,25.3,9.8,True,2023-08-12,Efectivo,Las Palmas,27.0,False,3.4
+1058,83.0,176.53,4.0,Alimentos,Prefiero no decir,2.7,,True,2023-03-11,Tarjeta de crédito,Palma,21.0,True,3.1
+741,55.0,374.98,4.0,,Masculino,29.5,6.2,True,2022-01-08,Transferencia,Las Palmas,,True,4.5
+141,61.0,85.31,5.0,Belleza,Femenino,26.0,1.1,True,2022-06-14,Transferencia,Sevilla,,False,3.3
+246,78.0,298.64,10.0,Fogar,Femenino,5.5,6.1,False,,Efectivo,Zaragoza,7.0,False,3.0
+1194,52.0,128.73,6.0,Electrónica,Femenino,26.1,0.6,True,2022-05-09,Tarjeta de débito,Málaga,14.0,True,3.8
+611,21.0,316.63,,Ropa,Femenino,,1.7,True,2022-05-18,Criptomoneda,Barcelona,26.0,False,2.3
+192,59.0,110.26,9.0,Electrónica,No binario,27.9,4.5,True,,Tarjeta de crédito,Barcelona,24.0,True,2.6
+463,67.0,281.07,3.0,Deportes,Prefiero no decir,45.0,8.3,False,2024-04-12,Criptomoneda,Barcelona,23.0,False,1.4
+692,25.0,418.56,8.0,Libros,Prefiero no decir,32.8,8.4,True,2024-04-27,Transferencia,Murcia,9.0,True,2.3
+422,30.0,74.57,4.0,Mascotas,No binario,35.1,,True,2022-09-10,Contra reembolso,Palma,19.0,True,3.6
+632,49.0,446.48,7.0,oascotas,Masculino,14.0,4.8,False,2022-03-29,Efectivo,Málaga,21.0,False,2.5
+138,79.0,,1.0,Juguetes,Femenino,10.3,8.5,True,2023-07-24,Tarjeta de débito,,2.0,,3.1
+465,83.0,292.33,1.0,Ropa,Femenino,5.3,8.7,False,2023-08-16,Criptomoneda,Palma,5.0,True,4.7
+1050,,261.76,,wopa,Prefiero no decir,,1.1,True,2022-08-31,Tarjeta de débito,Málaga,18.0,True,4.2
+802,107.0,490.67,5.0,Deportes,Femenino,43.7,2.2,False,2023-09-21,Tarjeta de crédito,Barcelona,17.0,True,
+801,83.0,357.3,9.0,Jardín,No binario,26.2,4.4,True,2023-07-18,Tarjeta de crédito,Sevilla,83.0,True,1.6
+864,26.0,459.53,6.0,,Prefiero no decir,7.1,0.5,,2022-06-11,Efectivo,Madrid,8.0,,4.9
+411,27.0,173.6,5.0,Libros,Femenino,5.1,8.1,True,2023-08-22,Transferencia,Zaragoza,82.0,False,4.0
+454,26.0,3888.37,86.0,Mascotas,Masculino,11.9,2.7,True,2024-01-22,PayPal,Las Palmas,18.0,True,1.1
+649,62.0,475.63,6.0,Alimentos,Femenino,45.4,9.3,False,2023-10-01,PayPal,Murcia,1.0,False,5.0
+217,52.0,143.62,10.0,Libros,Prefiero no decir,36.1,0.6,True,2024-01-12,PayPal,,6.0,False,1.7
+439,42.0,160.41,7.0,Libros,Prefiero no decir,17.1,4.9,True,2024-03-04,Transferencia,Murcia,17.0,True,4.5
+35,56.0,212.3,9.0,Libros,No binario,42.7,2.1,True,2023-11-15,,Murcia,28.0,False,3.6
+1061,18.0,106.64,1.0,Mascotas,No binario,28.5,6.2,True,2023-12-19,PayPal,Las Palmas,20.0,True,
+647,51.0,483.19,3.0,Hogar,Prefiero no decir,48.0,1.1,True,2024-02-25,Transferencia,Madrid,21.0,False,5.0
+1134,49.0,232.18,10.0,Alimentos,Prefiero no decir,12.4,8.1,False,2023-09-13,Tarjeta de débito,Murcia,17.0,True,3.6
+602,47.0,402.96,10.0,Belleza,Femenino,27.0,2.9,True,2023-10-25,Contra reembolso,Valencia,11.0,False,1.6
+734,36.0,231.71,5.0,Deportes,No binario,9.8,2.4,True,2024-02-01,Tarjeta de débito,Barcelona,10.0,True,1.9
+318,71.0,310.45,5.0,Alimentos,Femenino,0.1,5.6,True,2023-02-09,Tarjeta de débito,Málaga,14.0,True,2.6
+1137,46.0,338.07,8.0,Belleza,Prefiero no decir,30.3,9.0,True,2023-08-13,Contra reembolso,Murcia,25.0,False,3.7
+552,82.0,384.23,9.0,Deportes,Femenino,39.2,4.1,True,2023-01-10,Transferencia,Madrid,5.0,False,5.0
+627,73.0,183.32,5.0,Alimentos,No binario,42.1,5.6,False,2024-01-07,Contra reembolso,,20.0,False,4.8
+117,,4.85,1.0,Deportes,Masculino,35.7,7.6,False,2023-07-14,Tarjeta de débito,Palma,17.0,False,
+428,76.0,24.3,6.0,Ropa,No binario,8.2,7.9,True,2023-03-23,Transferencia,Palma,29.0,,4.6
+45,25.0,306.22,3.0,Ropa,Masculino,21.5,7.7,False,2023-06-20,PayPal,Sevilla,13.0,False,1.0
+93,79.0,234.65,6.0,Hogar,Prefiero no decir,10.8,2.8,True,2023-01-26,Tarjeta de débito,Bilbao,19.0,False,4.1
+497,55.0,244.29,9.0,Belleza,Prefiero no decir,30.3,7.1,False,2024-04-05,PayPal,Sevilla,12.0,True,2.8
+294,74.0,27.6,10.0,Libros,Femenino,15.1,6.9,True,2022-01-07,Contra reembolso,Palma,8.0,False,2.0
+905,69.0,80.04,6.0,Jardín,Masculino,21.3,6.2,True,2023-05-31,Efectivo,Sevilla,22.0,False,5.0
+807,84.0,41.18,9.0,Mascotas,Masculino,0.9,,,2022-06-14,PayPal,Palma,6.0,False,3.4
+1175,42.0,32.81,5.0,Ropa,Prefiero no decir,41.5,8.0,False,2023-10-31,Transferencia,Valencia,4.0,True,3.6
+604,80.0,262.48,9.0,Electrónica,No binario,36.4,9.3,False,2022-01-23,Tarjeta de crédito,Barcelona,1.0,False,
+902,71.0,348.34,7.0,Electrónica,Femenino,15.6,0.2,True,2022-04-20,Contra reembolso,Málaga,14.0,True,1.9
+248,36.0,96.74,9.0,Libros,No binario,41.9,2.1,True,2022-08-07,Tarjeta de crédito,Murcia,21.0,True,3.5
+365,50.0,363.37,4.0,Belleza,Femenino,10.8,7.8,False,2022-06-14,Tarjeta de débito,Zaragoza,16.0,False,2.9
+1046,76.0,141.78,2.0,Electrónica,Femenino,8.6,6.8,False,2022-09-23,PayPal,Palma,24.0,False,1.8
+1095,,352.06,3.0,,Femenino,3.8,6.5,True,2023-10-08,Tarjeta de débito,Barcelona,14.0,False,1.3
+820,44.0,360.57,1.0,Alimentos,Femenino,36.0,9.0,True,2022-09-27,Transferencia,Valencia,5.0,False,
+544,64.0,12.09,4.0,Belleza,Masculino,13.5,1.9,True,2022-09-27,Efectivo,Las Palmas,20.0,True,3.2
+115,53.0,397.66,8.0,Juguetes,No binario,47.7,1.1,False,2024-02-13,Efectivo,Bilbao,24.0,False,4.0
+720,21.0,150.19,1.0,Mascotas,Femenino,45.5,1.5,True,2022-05-18,Contra reembolso,Madrid,16.0,True,4.1
+1163,85.0,354.2,7.0,Libros,Masculino,43.1,0.5,,2023-03-08,Criptomoneda,Barcelona,8.0,True,4.6
+9,19.0,33.24,1.0,Juguetes,Prefiero no decir,22.1,0.3,True,2022-08-11,PayPal,Murcia,9.0,True,3.0
+624,25.0,371.75,7.0,Mascotas,Prefiero no decir,48.1,7.1,True,2023-08-01,Tarjeta de débito,,24.0,False,1.7
+868,58.0,24.27,1.0,Hogar,No binario,42.7,1.5,True,2023-02-14,Tarjeta de débito,Las Palmas,7.0,True,4.6
+120,83.0,491.84,7.0,Deportes,Masculino,6.3,2.6,True,2022-07-21,Contra reembolso,Barcelona,25.0,True,2.4
+107,68.0,290.91,5.0,Hogar,Femenino,26.8,3.1,True,2023-03-30,Criptomoneda,,14.0,False,5.0
+1179,37.0,,6.0,Juguetes,Prefiero no decir,23.2,10.0,True,2023-09-12,Transferencia,Zaragoza,16.0,True,4.7
+562,,59.94,27.0,,Masculino,47.7,1.3,True,2022-12-28,Criptomoneda,Bilbao,14.0,False,1.9
+535,44.0,403.2,3.0,Mascotas,No binario,10.4,3.0,True,,Contra reembolso,Zaragoza,23.0,True,2.7
+540,30.0,498.92,8.0,Alimentos,Masculino,44.3,6.4,True,2023-10-11,Criptomoneda,Las Palmas,9.0,False,4.9
+758,80.0,77.75,1.0,Alimentos,No binario,47.4,,True,2023-03-10,Tarjeta de crédito,Valencia,17.0,False,1.7
+242,38.0,28.83,1.0,Ropa,Masculino,1.9,1.2,True,2023-10-04,Transferencia,Madrid,7.0,True,2.1
+1053,50.0,61.09,8.0,Hogar,Femenino,36.1,0.3,True,2023-09-20,Contra reembolso,Bilbao,23.0,True,2.6
+693,57.0,12.27,10.0,Deportes,No binario,17.1,6.5,False,,Efectivo,Madrid,87.0,True,3.0
+928,62.0,424.97,6.0,Libros,Prefiero no decir,26.8,1.0,True,2023-11-29,Contra reembolso,Málaga,13.0,False,1.5
+923,79.0,366.03,1.0,Juguetes,Masculino,7.4,7.1,True,2022-09-07,Tarjeta de débito,Madrid,11.0,True,3.9
+979,53.0,473.81,10.0,Electrónica,Femenino,5.4,7.7,False,2022-09-29,Criptomoneda,Zaragoza,20.0,True,
+840,62.0,19.44,8.0,Hogar,Femenino,7.7,7.7,False,2023-05-22,Tarjeta de débito,Barcelona,4.0,False,2.6
+238,71.0,301.19,9.0,Juguetes,Masculino,6.4,0.1,True,2024-03-02,Tarjeta de débito,Zaragoza,13.0,False,3.4
+402,43.0,4.05,2.0,Jardín,Femenino,30.3,5.4,True,2022-07-18,Tarjeta de débito,Bilbao,29.0,False,1.4
+925,47.0,,1.0,Deportes,No binario,29.0,3.0,True,2022-12-14,PayPal,,21.0,True,3.6
+289,42.0,332.22,10.0,Jardín,No binario,3.1,7.3,True,2022-01-18,Transferencia,Barcelona,22.0,False,2.3
+494,42.0,78.65,7.0,Juguetes,Prefiero no decir,45.8,0.9,True,2022-01-11,Transferencia,Murcia,21.0,True,
+966,33.0,348.82,10.0,Belleza,Masculino,36.0,9.4,True,2022-08-12,PayPal,Madrid,21.0,True,3.9
+1086,29.0,433.72,3.0,Belleza,No binario,48.4,4.9,True,2024-01-27,Contra reembolso,Las Palmas,24.0,False,3.9
+539,46.0,,1.0,Jardín,No binario,15.6,0.4,True,2023-06-18,Criptomoneda,Bilbao,20.0,False,4.1
+364,56.0,,3.0,Deportes,No binario,33.3,9.1,True,2022-05-26,Transferencia,Málaga,18.0,,4.4
+72,32.0,258.69,1.0,,Prefiero no decir,,5.1,True,2023-04-09,Contra reembolso,Murcia,26.0,True,2.9
+1176,69.0,248.09,5.0,Belleza,Femenino,15.1,7.2,True,2022-10-26,Tarjeta de crédito,Málaga,20.0,False,2.6
+960,68.0,3334.13,6.0,Juguetes,Masculino,19.5,7.8,True,2022-03-19,PayPal,Murcia,15.0,True,3.6
+813,46.0,472.13,6.0,Juguetes,Prefiero no decir,10.4,4.8,False,2024-04-23,Tarjeta de débito,Madrid,13.0,True,3.7
+143,76.0,282.08,4.0,Deportes,,40.8,0.1,False,2022-09-19,Efectivo,Murcia,11.0,True,3.7
+271,14.0,388.07,4.0,Hogar,,1.4,6.2,False,2022-03-17,PayPal,Palma,5.0,False,2.4
+1162,66.0,127.95,8.0,Hogar,Masculino,7.7,1.0,,2022-12-12,Transferencia,Murcia,9.0,False,2.4
+199,29.0,395.28,8.0,Hogar,Prefiero no decir,,0.7,True,2022-04-28,PayPal,Valencia,13.0,True,4.8
+653,73.0,390.81,6.0,Alimentos,Masculino,,,True,2022-06-21,Tarjeta de débito,Zaragoza,25.0,False,2.7
+860,85.0,182.5,10.0,,Femenino,,1.1,True,2023-01-04,Criptomoneda,Barcelona,13.0,False,2.2
+830,64.0,181.73,7.0,Libros,Femenino,39.9,3.1,True,2023-11-03,Efectivo,Murcia,19.0,True,4.2
+623,33.0,127.18,49.0,Ropa,Prefiero no decir,26.2,2.6,True,2023-09-06,Tarjeta de débito,Barcelona,9.0,False,1.2
+151,19.0,410.44,9.0,Deportes,Femenino,22.4,5.5,False,2022-11-27,PayPal,Barcelona,,False,4.1
+791,56.0,30.37,7.0,Ropa,Prefiero no decir,46.6,4.3,True,2024-03-12,Contra reembolso,Valencia,10.0,False,2.8
+922,73.0,,5.0,Mascotas,Prefiero no decir,9.4,2.9,False,2024-02-28,Tarjeta de crédito,Málaga,26.0,True,2.3
+213,42.0,,7.0,Alimentos,No binario,,5.5,True,2022-04-27,Tarjeta de débito,Las Palmas,19.0,False,2.7
+394,61.0,218.34,1.0,Libros,Femenino,47.0,2.9,False,2022-05-12,Tarjeta de crédito,Valencia,8.0,True,2.8
+857,79.0,394.84,7.0,Juguetes,Femenino,20.8,9.8,True,2022-06-23,Efectivo,Sevilla,26.0,False,2.9
+275,,305.51,2.0,Libros,Masculino,33.6,6.5,True,2022-09-15,Transferencia,Barcelona,,False,3.1
+195,77.0,,3.0,Electrónica,Femenino,5.3,,True,2024-04-23,Efectivo,Zaragoza,8.0,True,1.5
+724,74.0,189.01,90.0,Belleza,Masculino,22.3,2.7,True,2022-08-27,Transferencia,Las Palmas,3.0,False,1.3
+856,30.0,181.77,3.0,Libros,Prefiero no decir,0.6,3.2,True,2023-09-22,Efectivo,Málaga,24.0,True,2.7
+391,50.0,412.1,9.0,Mascotas,Prefiero no decir,43.2,8.3,True,2023-05-14,Efectivo,Málaga,12.0,,3.2
+288,67.0,255.6,2.0,Libros,No binario,44.4,1.9,False,2022-11-20,Tarjeta de crédito,Murcia,13.0,False,1.3
+104,26.0,264.05,90.0,Mascotas,Femenino,13.7,3.2,True,2022-07-27,Efectivo,,30.0,True,3.2
+806,23.0,298.81,10.0,Mascotas,No binario,37.6,0.9,True,2022-02-23,Transferencia,Zaragoza,22.0,False,3.3
+636,36.0,477.17,6.0,Libros,Masculino,43.7,4.4,False,2023-04-28,PayPal,Málaga,19.0,False,2.1
+421,72.0,345.7,1.0,Mascotas,Masculino,33.6,5.0,False,2022-11-17,PayPal,Barcelona,,False,3.9
+844,53.0,148.0,5.0,Ropa,Masculino,29.6,1.1,False,2023-11-04,Tarjeta de débito,Las Palmas,2.0,True,3.0
+1132,30.0,127.54,8.0,Libros,Femenino,5.1,4.7,True,2022-12-26,Transferencia,Valencia,13.0,True,1.2
+718,23.0,136.46,8.0,Deportes,Prefiero no decir,24.1,9.3,True,2022-04-11,Efectivo,Madrid,23.0,True,3.1
+374,21.0,245.57,7.0,Ropa,Masculino,27.8,2.0,True,2024-03-29,PayPal,Valencia,22.0,True,
+1110,41.0,219.62,10.0,Juguetes,Prefiero no decir,43.9,5.2,True,2022-06-17,PayPal,Zaragoza,8.0,False,
+128,61.0,309.57,1.0,Hogar,Femenino,30.4,9.2,True,2022-03-18,Criptomoneda,Murcia,23.0,True,4.0
+414,66.0,159.05,2.0,Ropa,Femenino,15.1,9.3,True,2023-08-04,Efectivo,Murcia,24.0,True,2.0
+691,51.0,137.46,1.0,Deportes,Femenino,5.8,7.9,,2023-07-07,Contra reembolso,Palma,13.0,False,4.6
+1123,50.0,358.46,,Deportes,Femenino,41.0,5.7,False,2023-01-04,PayPal,Valencia,7.0,True,4.7
+865,68.0,55.39,10.0,Alimentos,No binario,38.2,,False,2022-03-30,Contra reembolso,Málaga,,False,2.6
+1186,22.0,96.9,6.0,Libros,Femenino,14.2,4.8,True,2024-02-05,PayPal,Palma,9.0,True,2.6
+37,21.0,366.76,9.0,Hogar,Femenino,46.6,6.9,True,2023-03-04,Tarjeta de crédito,Sevilla,26.0,True,4.5
+429,36.0,20.32,8.0,Electrónica,Prefiero no decir,28.3,2.3,True,2022-10-11,Criptomoneda,Las Palmas,27.0,False,4.6
+658,53.0,252.7,9.0,Electrónica,Femenino,11.0,3.4,False,2023-09-03,Criptomoneda,Barcelona,28.0,False,
+929,47.0,214.2,8.0,,Femenino,,4.0,True,2023-04-17,,Palma,21.0,False,4.6
+836,22.0,424.78,10.0,Mascotas,Masculino,21.9,7.3,,2024-03-03,Tarjeta de crédito,Valencia,28.0,True,1.0
+1078,74.0,482.68,10.0,Ropa,No binario,23.4,1.1,True,2024-04-03,Efectivo,Zaragoza,10.0,False,3.7
+880,72.0,179.76,8.0,Libros,Femenino,8.8,9.1,True,2022-04-03,Criptomoneda,Valencia,23.0,True,2.7
+44,61.0,486.14,1.0,Libros,Femenino,35.7,1.1,True,2022-01-14,PayPal,Palma,9.0,False,2.5
+208,71.0,432.96,1.0,Libros,Femenino,9.2,5.3,True,2022-02-10,PayPal,Málaga,12.0,True,2.9
+762,41.0,338.69,2.0,Deportes,Femenino,12.8,8.4,False,2022-10-10,Tarjeta de débito,Madrid,23.0,False,3.5
+357,68.0,340.94,5.0,Belleza,Femenino,25.1,4.3,True,2024-01-30,Tarjeta de crédito,Palma,15.0,,4.7
+197,18.0,436.25,5.0,Alimentos,Masculino,8.5,1.5,True,2023-10-27,Transferencia,Murcia,18.0,True,3.7
+636,36.0,482.22,7.0,Libros,Masculino,43.7,4.4,False,2023-04-28,PayPal,Málaga,19.0,False,2.1
+909,80.0,215.49,6.0,Juguetes,Femenino,20.0,4.8,True,2024-04-02,Criptomoneda,Bilbao,6.0,False,4.2
+704,70.0,234.73,8.0,Deportes,Prefiero no decir,25.2,9.3,True,,Efectivo,Palma,21.0,False,3.1
+282,26.0,195.33,7.0,Libros,Prefiero no decir,49.8,7.2,False,2023-02-22,Tarjeta de débito,Zaragoza,19.0,False,4.5
+932,,357.75,4.0,Electrónica,Femenino,41.2,0.9,False,2023-05-09,Tarjeta de débito,Barcelona,17.0,True,4.8
+695,58.0,171.99,2.0,Jardín,No binario,27.5,4.7,False,2023-11-26,Criptomoneda,Zaragoza,2.0,False,3.9
+420,29.0,229.73,4.0,Libros,Masculino,14.7,6.0,True,2022-01-05,Tarjeta de débito,,3.0,False,4.8
+1044,28.0,55.18,1.0,Alimentos,Prefiero no decir,40.6,7.9,False,2023-01-06,Tarjeta de débito,Bilbao,19.0,False,1.4
+714,48.0,13.39,4.0,Ropa,Femenino,17.8,3.9,True,2024-01-30,Tarjeta de débito,Las Palmas,25.0,False,3.4
+351,81.0,376.83,1.0,Jardín,Prefiero no decir,47.8,7.3,True,2023-07-05,Contra reembolso,Málaga,27.0,False,3.5
+1188,71.0,441.44,10.0,Mascotas,No binario,31.7,0.3,True,2023-06-18,Criptomoneda,Sevilla,26.0,True,1.6
+559,44.0,3.77,3.0,Belleza,Femenino,30.9,8.8,True,2022-08-17,Tarjeta de crédito,Murcia,30.0,True,4.3
+1035,82.0,33.01,8.0,Jardín,No binario,3.5,1.3,True,2023-12-07,Efectivo,Valencia,10.0,True,3.7
+721,23.0,387.71,,Libros,Prefiero no decir,1.5,8.6,False,2022-09-18,Contra reembolso,Bilbao,10.0,True,3.9
+735,37.0,202.01,3.0,Libros,Masculino,4.3,4.2,False,2024-03-19,Criptomoneda,Sevilla,,True,4.8
+679,56.0,370.61,7.0,Deportes,Prefiero no decir,1.3,5.7,True,2023-09-07,,Valencia,19.0,True,3.1
+608,68.0,250.86,5.0,Belleza,Femenino,48.5,7.4,True,2023-08-11,PayPal,Málaga,1.0,True,2.9
+265,8.0,440.09,2.0,Juguetes,Masculino,23.6,,True,2022-01-25,Efectivo,Málaga,28.0,False,4.6
+62,65.0,244.92,10.0,Alimentos,,42.3,9.8,True,,PayPal,Las Palmas,3.0,True,1.3
+75,26.0,30.72,2.0,Ropa,Femenino,,6.6,True,2023-11-23,,Palma,3.0,False,2.6
+247,65.0,446.69,,Mascotas,Masculino,19.2,4.0,False,2024-03-03,Transferencia,Murcia,5.0,True,4.9
+338,72.0,5.77,8.0,Electrónica,No binario,46.6,3.0,True,2024-01-17,Criptomoneda,Madrid,3.0,True,3.6
+505,64.0,258.08,10.0,Jardín,No binario,8.7,3.7,,2022-06-13,Efectivo,Barcelona,11.0,True,1.2
+392,57.0,429.49,6.0,Electrónica,No binario,17.0,8.3,True,2022-12-05,Efectivo,Zaragoza,5.0,True,3.8
+793,49.0,490.69,6.0,Alimentos,Femenino,39.6,3.0,True,2022-06-15,Criptomoneda,Las Palmas,17.0,True,4.4
+144,49.0,266.06,10.0,Mascotas,Prefiero no decir,13.0,5.5,True,2022-01-06,Contra reembolso,Málaga,,False,4.1
+1008,75.0,158.34,,,Masculino,42.7,8.9,True,2024-02-22,PayPal,Bilbao,16.0,False,3.8
+1097,43.0,207.04,4.0,Jardín,Masculino,32.1,2.4,False,2023-07-01,PayPal,Zaragoza,30.0,False,3.2
+622,72.0,6.89,8.0,Ropa,Prefiero no decir,7.3,9.0,True,2023-02-20,Tarjeta de crédito,Barcelona,27.0,False,3.3
+959,84.0,187.79,2.0,Jardín,No binario,18.2,,False,2022-12-17,Criptomoneda,Zaragoza,19.0,True,1.3
+662,64.0,187.51,1.0,Belleza,Femenino,3.1,7.3,True,2023-01-23,Tarjeta de débito,Barcelona,28.0,True,3.5
+561,50.0,177.67,,Jardín,Prefiero no decir,18.9,1.0,False,2023-02-20,PayPal,Sevilla,2.0,False,4.5
+1073,61.0,301.53,10.0,Juguetes,No binario,48.7,,False,2022-08-23,PayPal,Bilbao,10.0,False,3.0
+631,44.0,395.52,5.0,Mascotas,Femenino,28.0,0.1,False,2022-10-18,Tarjeta de crédito,Madrid,21.0,False,3.2
+78,80.0,133.02,7.0,Alimentos,Femenino,,8.2,True,2022-08-18,Transferencia,Málaga,27.0,False,3.7
+916,80.0,32.04,3.0,Alimentos,No binario,6.2,9.1,True,2022-09-14,Criptomoneda,Las Palmas,30.0,,1.1
+127,45.0,222.96,3.0,Mascotas,,10.7,0.8,True,2023-12-01,Efectivo,Madrid,48.0,True,1.5
+777,81.0,,5.0,Hogar,Masculino,20.4,8.4,False,2022-09-17,Contra reembolso,,22.0,True,1.8
+268,42.0,218.06,8.0,Juguetes,Prefiero no decir,5.9,4.2,True,2022-12-06,Criptomoneda,Sevilla,16.0,True,2.9
+775,39.0,71.47,8.0,Hogar,No binario,9.9,6.5,True,2023-07-23,Tarjeta de débito,Las Palmas,4.0,True,2.3
+61,112.0,231.86,2.0,Belleza,,40.0,2.0,True,2022-05-30,Criptomoneda,Las Palmas,19.0,True,4.3
+456,34.0,154.65,7.0,Alimentos,Prefiero no decir,19.3,,False,2022-03-20,Efectivo,Las Palmas,20.0,True,2.1
+778,28.0,124.74,5.0,Belleza,,21.4,5.1,True,2022-11-11,,Murcia,23.0,True,4.8
+835,25.0,164.23,2.0,Jardín,No binario,24.9,6.7,True,2022-02-28,Efectivo,Valencia,29.0,False,3.0
+1051,39.0,93.79,2.0,Mascotas,Femenino,19.1,2.6,True,2022-10-03,Tarjeta de débito,Murcia,13.0,True,1.2
+395,46.0,162.84,5.0,Belleza,Femenino,33.5,3.4,False,2023-11-19,Efectivo,Málaga,5.0,True,2.8
+466,22.0,73.9,5.0,Mascotas,No binario,,7.7,False,2023-02-19,PayPal,Barcelona,6.0,True,2.3
+684,34.0,103.61,6.0,Deportes,No binario,44.1,0.1,True,2024-02-10,,Sevilla,15.0,False,1.2
+101,22.0,388.93,3.0,Mascotas,Prefiero no decir,28.4,6.5,False,2022-01-14,Contra reembolso,Málaga,,True,2.5
+259,41.0,301.49,4.0,Electrónica,Prefiero no decir,31.0,9.9,True,2023-10-25,Contra reembolso,Zaragoza,3.0,True,3.5
+999,76.0,360.63,7.0,Belleza,No binario,14.2,2.8,,2023-05-09,Criptomoneda,,14.0,True,2.4
+780,77.0,341.41,3.0,Ropa,Masculino,26.1,5.7,False,2022-12-19,Transferencia,Sevilla,7.0,,5.0
+200,54.0,334.17,9.0,Juguetes,Femenino,34.5,,True,2023-11-16,Tarjeta de crédito,Madrid,,True,3.4
+962,51.0,350.12,7.0,Jardín,,33.5,8.1,True,2022-07-02,Transferencia,Barcelona,23.0,True,4.3
+237,68.0,154.13,7.0,Jardín,Prefiero no decir,1.7,2.6,True,2022-06-21,Tarjeta de crédito,Valencia,23.0,False,4.7
+858,77.0,129.25,8.0,Belleza,Femenino,7.8,0.4,True,2023-11-22,Tarjeta de débito,Málaga,28.0,False,2.0
+178,,67.5,4.0,Libros,Femenino,29.2,6.3,True,2023-07-04,PayPal,Palma,1.0,False,4.4
+711,72.0,263.04,8.0,Deportes,Masculino,36.0,8.5,True,2022-12-25,Contra reembolso,Murcia,14.0,False,3.0
+625,21.0,161.55,8.0,Deportes,Femenino,30.4,,False,2023-10-15,,Bilbao,25.0,,4.5
+133,44.0,483.73,2.0,Deportes,Masculino,13.3,4.2,False,2022-05-03,Tarjeta de débito,Murcia,15.0,True,2.5
+612,27.0,31.89,4.0,Electrónica,Femenino,41.8,6.2,False,2023-10-07,Tarjeta de crédito,Valencia,21.0,True,2.6
+688,27.0,33.76,6.0,Belleza,Masculino,33.8,8.7,True,2023-11-07,Criptomoneda,Palma,13.0,False,3.7
+1094,33.0,295.86,10.0,Alimentos,Masculino,5.6,6.2,True,2022-05-18,Transferencia,Sevilla,28.0,False,4.8
+1183,58.0,,8.0,Deportes,Prefiero no decir,20.2,3.3,True,2023-04-01,Contra reembolso,Zaragoza,29.0,False,1.4
+272,63.0,302.95,2.0,Deportes,Femenino,20.2,6.8,,2022-02-25,Tarjeta de débito,Valencia,20.0,,1.8
+134,79.0,211.79,4.0,Ropa,Masculino,,9.4,False,,Tarjeta de débito,Palma,6.0,True,4.6
+843,53.0,63.66,1.0,Electrónica,Prefiero no decir,23.4,6.4,True,2022-07-26,Tarjeta de débito,Murcia,21.0,False,1.2
+1105,35.0,98.33,1.0,Hogar,Femenino,25.4,2.9,False,2023-08-05,Criptomoneda,,83.0,False,2.0
+827,55.0,251.95,,,Masculino,11.4,7.6,True,2023-01-29,Tarjeta de crédito,Bilbao,21.0,False,2.0
+175,37.0,238.29,2.0,Ropa,Femenino,18.1,4.4,True,2022-06-13,Tarjeta de crédito,Barcelona,7.0,True,4.9
+136,44.0,335.62,8.0,Hogar,,31.1,8.7,,2023-03-15,Transferencia,Zaragoza,8.0,True,3.2
+220,,455.83,3.0,Alimentos,Masculino,29.2,9.0,True,2023-06-14,Tarjeta de crédito,,19.0,True,4.7
+1009,46.0,148.57,3.0,Hogar,No binario,0.2,4.5,False,2023-06-08,Transferencia,Madrid,7.0,True,3.7
+703,50.0,9.91,7.0,Mascotas,No binario,46.3,4.4,True,2023-06-27,Contra reembolso,Murcia,12.0,False,4.3
+427,30.0,195.18,8.0,Belleza,No binario,31.6,2.8,False,2023-10-19,Tarjeta de crédito,Barcelona,22.0,True,3.7
+575,62.0,204.42,9.0,Hogar,Femenino,2.5,0.2,True,2022-03-20,Criptomoneda,Barcelona,26.0,,4.0
+551,50.0,330.98,2.0,Hogar,Masculino,19.4,1.5,False,2023-01-23,Transferencia,Madrid,,False,4.7
+324,85.0,352.62,2.0,Mascotas,No binario,30.5,3.0,True,2023-07-01,PayPal,Zaragoza,18.0,False,3.5
+729,62.0,424.3,4.0,Hogar,Masculino,23.7,3.8,True,2023-02-23,PayPal,Barcelona,21.0,True,4.1
+223,31.0,13.91,3.0,Juguetes,Femenino,34.2,9.7,False,2023-01-19,Tarjeta de débito,Barcelona,9.0,False,2.5
+975,,428.99,,Jardín,Prefiero no decir,,1.1,False,2022-07-24,Transferencia,Las Palmas,20.0,False,1.7
+958,71.0,256.9,3.0,Ropa,Prefiero no decir,46.8,8.7,True,2024-04-20,Contra reembolso,Valencia,29.0,True,4.0
+848,37.0,27.23,2.0,Belleza,,,3.2,False,2022-07-19,Criptomoneda,Sevilla,12.0,True,2.2
+292,,184.12,1.0,Deportes,Masculino,28.3,5.1,,2022-05-02,Tarjeta de débito,Murcia,,False,3.5
+431,29.0,84.21,5.0,Libros,Prefiero no decir,0.7,2.5,False,2022-05-18,PayPal,Las Palmas,6.0,True,3.8
+713,20.0,67.15,6.0,Electrónica,Masculino,12.5,6.8,False,2024-04-03,Tarjeta de crédito,Murcia,2.0,True,2.9
+785,43.0,275.56,1.0,Libros,Masculino,18.0,2.9,True,2022-05-22,PayPal,Málaga,8.0,,2.0
+834,46.0,114.93,7.0,Ropa,Femenino,17.0,8.1,True,2023-09-04,Tarjeta de débito,,12.0,True,4.7
+628,42.0,138.84,7.0,Hogar,No binario,1.8,6.9,True,2024-01-16,Criptomoneda,Murcia,9.0,False,1.3
+992,,121.31,7.0,Electrónica,Prefiero no decir,15.3,8.2,True,2023-11-11,Tarjeta de crédito,Palma,18.0,True,4.2
+389,84.0,225.98,6.0,Libros,Masculino,45.2,,True,2024-01-14,Tarjeta de crédito,Palma,13.0,False,2.7
+730,61.0,16.68,,Ropa,Prefiero no decir,12.9,9.9,True,2022-09-21,PayPal,Murcia,20.0,,2.3
+438,29.0,487.35,10.0,Deportes,Prefiero no decir,15.8,7.7,True,,Criptomoneda,Palma,29.0,,4.5
+661,69.0,108.4,7.0,Mascotas,No binario,,5.2,True,2022-08-24,PayPal,Zaragoza,25.0,False,2.0
+897,,255.93,,Alimentos,Femenino,2.5,0.2,True,2022-01-05,Contra reembolso,Valencia,2.0,True,
+498,23.0,432.46,7.0,Hogar,Masculino,33.9,3.0,True,2023-09-21,Contra reembolso,Murcia,1.0,True,4.0
+887,69.0,251.28,8.0,Ropa,No binario,3.2,9.8,True,2022-12-23,Efectivo,Murcia,12.0,True,3.9
+418,79.0,112.86,,Jardín,Masculino,49.6,2.7,True,2023-03-15,Tarjeta de crédito,Bilbao,1.0,False,4.4
+186,18.0,419.34,4.0,Juguetes,Femenino,46.7,8.2,False,2022-12-06,Transferencia,Bilbao,18.0,False,3.3
+123,,96.19,6.0,Hogar,Femenino,,2.7,True,2022-07-18,Transferencia,,16.0,True,3.5
+216,71.0,459.45,9.0,Hogar,Femenino,14.3,5.5,True,2023-07-08,Contra reembolso,Zaragoza,13.0,False,4.0
+311,39.0,402.28,6.0,Alimentos,No binario,18.0,8.9,False,,PayPal,Las Palmas,25.0,False,2.7
+1000,31.0,432.01,10.0,Deportes,Prefiero no decir,23.9,5.6,False,2023-01-16,PayPal,Las Palmas,5.0,True,3.7
+1114,,219.84,4.0,,Prefiero no decir,42.7,0.2,True,,Contra reembolso,Palma,29.0,True,4.8
+1101,26.0,227.88,7.0,Electrónica,No binario,19.0,2.0,True,2023-05-14,Tarjeta de crédito,Bilbao,26.0,False,4.0
+974,24.0,489.37,,Libros,Femenino,42.8,4.4,True,2024-01-25,Tarjeta de débito,Barcelona,20.0,False,1.2
+669,76.0,109.94,9.0,Hogar,Masculino,49.0,3.8,True,2023-06-01,Efectivo,Málaga,10.0,True,2.3
+772,18.0,8.88,1.0,Electrónica,Prefiero no decir,9.5,0.3,True,2022-07-03,Transferencia,Madrid,18.0,False,3.8
+1174,79.0,253.8,7.0,Alimentos,Femenino,22.4,7.9,True,2022-11-21,Criptomoneda,Málaga,27.0,False,4.3
+1190,66.0,344.14,3.0,Jardín,,16.9,6.0,True,,Transferencia,Málaga,2.0,False,1.0
+639,59.0,249.44,9.0,Deportes,Femenino,42.7,0.6,False,,Transferencia,Palma,,True,1.8
+635,68.0,191.77,4.0,Jardín,Femenino,10.3,3.3,True,2023-09-14,Contra reembolso,Zaragoza,26.0,False,3.1
+921,68.0,119.06,6.0,Libros,Masculino,49.9,2.6,True,2023-05-11,Transferencia,Madrid,20.0,False,4.3
+871,18.0,434.05,5.0,Ropa,Masculino,21.7,9.9,True,2023-02-09,Efectivo,Málaga,2.0,False,1.7
+656,78.0,183.22,9.0,Hogar,Prefiero no decir,5.8,9.6,True,2022-12-17,Efectivo,Málaga,45.0,False,4.7
+172,33.0,2451.92,10.0,Juguetes,Femenino,3.9,5.4,False,2022-03-11,Tarjeta de débito,,28.0,True,3.9
+1091,64.0,369.58,3.0,Hogar,No binario,45.1,8.1,True,2022-06-30,Tarjeta de crédito,Valencia,23.0,False,2.0
+150,56.0,429.8,6.0,Ropa,Femenino,4.0,8.6,True,2022-06-07,Tarjeta de débito,Las Palmas,19.0,True,2.5
+1068,20.0,43.1,8.0,Ropa,No binario,3.6,5.5,True,2022-07-04,Tarjeta de débito,Murcia,2.0,True,1.4
+789,,225.54,4.0,Belleza,Masculino,15.3,3.7,False,2022-08-24,Transferencia,Madrid,27.0,False,1.9
+1185,23.0,39.89,9.0,Alimentos,Masculino,0.8,5.0,True,2023-01-07,Contra reembolso,Murcia,12.0,True,1.6
+603,68.0,278.49,10.0,Hogar,Femenino,37.5,2.7,True,2023-02-25,Criptomoneda,Murcia,5.0,False,2.2
+863,48.0,99.84,6.0,Alimentos,Prefiero no decir,22.1,8.9,True,2022-01-01,Contra reembolso,Murcia,10.0,False,2.8
+149,29.0,97.77,3.0,Hogar,Prefiero no decir,38.2,2.6,False,,Tarjeta de crédito,Madrid,6.0,,4.8
+719,83.0,13.69,7.0,Ropa,Masculino,19.5,2.0,True,,Contra reembolso,Valencia,26.0,True,1.2
+804,56.0,133.47,9.0,Deportes,Prefiero no decir,13.1,4.2,True,2023-12-02,Criptomoneda,Barcelona,9.0,False,4.5
+810,59.0,99.1,67.0,Belldza,Prefiero no decir,20.0,7.3,False,2022-01-06,Efectivo,Murcia,22.0,False,1.1
+899,60.0,406.38,2.0,Deportes,Femenino,40.3,9.1,True,2022-06-29,Tarjeta de débito,Palma,5.0,True,4.7
+901,68.0,169.43,2.0,Deportes,Prefiero no decir,0.8,4.1,True,2023-06-03,Efectivo,Barcelona,17.0,True,2.6
+1039,43.0,,9.0,Deportes,Prefiero no decir,19.0,3.3,False,2022-08-04,PayPal,Murcia,29.0,False,4.3
+50,21.0,,74.0,Belleza,No binario,,7.7,True,2022-02-24,PayPal,Barcelona,22.0,False,1.2
+963,52.0,358.59,7.0,Deportes,Femenino,14.4,5.3,False,2023-05-03,Contra reembolso,Málaga,,True,1.7
+1156,54.0,187.38,6.0,Jardín,Masculino,13.0,,True,,Tarjeta de crédito,Sevilla,27.0,False,2.0
+1131,30.0,139.05,28.0,,No binario,41.8,,True,2022-05-05,Criptomoneda,Las Palmas,15.0,True,3.1
+270,75.0,220.13,3.0,Juguetes,No binario,4.8,1.2,True,2022-03-31,Tarjeta de débito,Sevilla,3.0,False,1.5
+845,43.0,201.93,7.0,Libros,Masculino,44.3,4.4,True,2024-04-03,,Las Palmas,12.0,True,
+549,47.0,377.95,9.0,Belleza,Femenino,5.1,6.8,True,2023-01-21,Efectivo,Zaragoza,10.0,True,1.2
+1170,73.0,149.73,5.0,Juguetes,Femenino,34.4,3.6,True,2022-06-15,Criptomoneda,Las Palmas,25.0,False,4.8
+77,25.0,104.68,3.0,Deportes,Prefiero no decir,37.1,2.8,True,2023-07-30,PayPal,Murcia,25.0,True,3.2
+942,25.0,332.2,7.0,Deportes,Prefiero no decir,46.8,2.7,True,2022-08-24,Efectivo,Zaragoza,21.0,True,3.9
+16,50.0,380.9,10.0,Jtrdín,Femenino,36.0,7.6,True,2022-12-20,Contra reembolso,Palma,19.0,False,4.1
+862,,124.0,8.0,Hogar,No binario,44.4,10.0,False,2023-11-02,Tarjeta de débito,Las Palmas,8.0,True,2.9
+423,40.0,245.37,9.0,Electrónica,Femenino,18.6,9.5,False,2024-03-15,Tarjeta de crédito,Las Palmas,15.0,False,3.9
+808,24.0,313.06,2.0,Belleza,Femenino,25.9,5.6,False,2023-02-03,PayPal,Palma,25.0,False,3.6
+224,38.0,481.59,1.0,Deportes,Femenino,9.2,8.0,False,2023-06-11,Contra reembolso,Murcia,16.0,False,1.2
+326,64.0,70.09,,Libros,Prefiero no decir,44.7,1.5,False,2022-05-20,Criptomoneda,Las Palmas,15.0,True,3.2
+1033,19.0,344.29,1.0,Hogar,No binario,18.9,6.3,True,2023-04-17,,Barcelona,22.0,True,3.9
+522,29.0,442.32,1.0,Mascotas,Prefiero no decir,22.2,2.3,True,2023-01-14,Criptomoneda,Madrid,11.0,False,1.2
+367,27.0,451.71,3.0,Deportes,No binario,36.5,7.5,False,2022-08-15,Tarjeta de débito,Valencia,20.0,False,2.9
+321,70.0,256.17,7.0,Hogar,Femenino,46.0,1.3,True,2022-02-01,Transferencia,Murcia,14.0,True,2.4
+432,78.0,3383.55,9.0,Juguetes,No binario,18.1,8.8,True,2023-11-27,Contra reembolso,Madrid,29.0,,3.0
+52,23.0,282.81,5.0,Hogar,Femenino,0.2,,True,2022-02-27,Tarjeta de débito,Bilbao,5.0,False,4.2
+613,73.0,375.58,8.0,Deportes,Masculino,8.2,7.2,True,2023-06-09,Transferencia,Palma,26.0,False,2.7
+177,53.0,318.9,6.0,,Masculino,,9.3,True,2023-07-11,Tarjeta de crédito,Las Palmas,62.0,False,4.1
+621,40.0,420.47,,Electrónica,Femenino,20.6,8.4,False,,Efectivo,Madrid,15.0,False,4.3
+15,38.0,139.62,63.0,Alimentos,No binario,29.7,4.8,True,2023-12-05,Criptomoneda,Bilbao,18.0,False,1.9
+385,78.0,338.12,5.0,Belleza,Prefiero no decir,23.6,8.5,True,2022-03-10,Tarjeta de crédito,Valencia,9.0,True,2.8
+365,50.0,363.37,3.0,Belleza,Femenino,10.8,7.8,False,2022-06-14,Tarjeta de débito,Zaragoza,16.0,False,2.9
+737,64.0,37.52,3.0,Electrónica,Masculino,2.9,4.8,False,2023-08-15,Efectivo,Zaragoza,78.0,True,5.0
+869,28.0,22.83,4.0,Hogar,Prefiero no decir,36.9,9.0,True,2022-12-28,Tarjeta de débito,Murcia,14.0,True,3.0
+642,38.0,353.41,10.0,Deportes,Masculino,10.5,1.4,,2023-09-08,Criptomoneda,Málaga,26.0,True,4.0
+920,30.0,155.45,5.0,Alimentos,Masculino,12.7,6.3,False,2023-07-31,Tarjeta de crédito,Las Palmas,25.0,False,2.5
+158,18.0,182.11,4.0,Mascotas,No binario,4.8,8.9,,2022-11-05,Efectivo,Madrid,25.0,,4.3
+1112,62.0,375.45,7.0,Ropa,Masculino,40.2,3.3,True,2022-08-09,,Palma,28.0,False,3.0
+163,,,10.0,Jardín,Femenino,,7.5,True,,Criptomoneda,Sevilla,16.0,False,4.7
+433,36.0,379.33,4.0,AlWmentos,Prefiero no decir,30.1,5.6,True,2024-01-21,Transferencia,Zaragoza,17.0,False,1.7
+938,68.0,492.5,5.0,Juguetes,Prefiero no decir,40.4,5.2,False,2024-03-18,PayPal,Madrid,22.0,False,5.0
+227,,415.55,8.0,Electrónica,Masculino,9.4,3.7,True,,,,6.0,True,3.4
+728,68.0,487.23,2.0,Juguetes,Prefiero no decir,26.0,3.2,False,2023-07-11,Transferencia,Barcelona,27.0,True,3.8
+353,39.0,44.69,10.0,Jardín,Masculino,17.7,8.9,False,,Criptomoneda,Málaga,30.0,False,3.7
+584,71.0,240.84,9.0,Mascotas,No binario,49.1,8.5,False,2023-09-09,Criptomoneda,Bilbao,23.0,True,4.2
+733,85.0,391.29,3.0,Belleza,Prefiero no decir,39.1,8.4,True,2023-12-28,Efectivo,Sevilla,14.0,True,4.4
+379,41.0,2.58,5.0,Alimentos,,19.4,0.9,False,2023-04-18,Transferencia,Valencia,15.0,,3.1
+965,63.0,460.89,7.0,Deportes,No binario,29.6,4.6,False,2022-12-29,Efectivo,Palma,3.0,True,2.0
+872,63.0,144.83,10.0,Deportes,Prefiero no decir,37.4,7.9,True,2023-02-20,PayPal,Zaragoza,25.0,True,3.2
+854,63.0,475.71,10.0,Juguetes,Femenino,23.7,0.9,True,2023-12-17,PayPal,Barcelona,20.0,False,4.1
+180,36.0,165.93,1.0,Electrónica,No binario,17.0,,False,2022-04-05,Transferencia,Barcelona,,True,2.4
+398,,302.53,8.0,Deportes,Masculino,41.8,5.8,True,2022-04-13,Efectivo,Las Palmas,26.0,True,2.0
+786,79.0,219.24,10.0,Belleza,Prefiero no decir,40.4,0.1,True,2023-11-07,Criptomoneda,Sevilla,,True,2.4
+803,68.0,286.92,8.0,,Femenino,2.2,3.9,True,,Efectivo,Palma,28.0,False,1.9
+1181,71.0,329.31,10.0,Juguetes,Femenino,22.8,1.8,False,2023-02-09,Transferencia,Bilbao,14.0,False,1.7
+659,18.0,219.2,7.0,Libros,Masculino,46.3,8.7,True,2023-08-28,Efectivo,Zaragoza,2.0,False,1.6
+436,69.0,450.54,2.0,Juguetes,Femenino,24.2,4.9,,2023-04-19,Tarjeta de crédito,Murcia,22.0,,2.1
+768,67.0,445.62,6.0,Alimentos,Prefiero no decir,4.5,6.8,True,2023-07-20,Tarjeta de crédito,Madrid,16.0,False,1.5
+32,68.0,,9.0,Electrónica,Masculino,15.1,5.3,False,2023-05-07,Efectivo,Madrid,45.0,False,1.1
+1184,20.0,84.43,5.0,Mascotas,Prefiero no decir,23.0,2.1,False,2024-03-10,Tarjeta de crédito,Bilbao,8.0,False,3.9
+244,45.0,426.87,1.0,Deportes,Masculino,26.4,8.7,False,2022-08-04,Tarjeta de débito,Murcia,20.0,False,1.8
+1146,22.0,310.31,4.0,Ropa,Masculino,15.5,1.6,True,2023-11-21,Efectivo,Sevilla,6.0,False,1.1
+29,72.0,15.8,9.0,Libros,Femenino,46.5,3.1,True,2024-02-19,Transferencia,Sevilla,4.0,True,2.2
+374,21.0,244.99,7.0,Ropa,Masculino,27.8,2.0,True,2024-03-29,PayPal,Valencia,22.0,True,
+161,70.0,170.93,10.0,Alimentos,Femenino,38.2,,True,2023-08-10,Efectivo,Sevilla,16.0,True,2.7
+1196,79.0,270.1,2.0,Deportes,Masculino,1.0,4.9,True,2022-08-29,Transferencia,Valencia,,True,4.0
+425,34.0,255.2,3.0,Libros,Masculino,35.2,5.1,True,2023-12-31,Contra reembolso,Sevilla,117.0,True,3.0
+783,11.0,404.45,9.0,Jardín,,36.5,8.8,True,2023-02-12,PayPal,Palma,12.0,False,2.6
+984,64.0,368.55,1.0,Juguetes,Masculino,18.5,8.6,True,2023-09-26,Tarjeta de débito,Murcia,,True,1.9
+1148,66.0,,7.0,Hogar,No binario,35.0,3.4,True,2023-05-15,Tarjeta de crédito,Zaragoza,12.0,False,3.3
+510,74.0,206.75,9.0,Belleza,No binario,25.4,3.8,False,2022-05-30,Contra reembolso,Murcia,16.0,,4.3
+1107,34.0,488.62,9.0,Belleza,Femenino,17.6,2.2,False,2023-02-12,Transferencia,Zaragoza,11.0,False,3.8
+86,45.0,435.94,1.0,Mascotas,Femenino,7.0,8.6,False,2024-03-26,Contra reembolso,Madrid,24.0,False,1.8
+745,50.0,471.65,6.0,Jardín,Masculino,26.2,9.5,True,2023-12-06,Tarjeta de débito,Sevilla,26.0,False,1.2
+721,23.0,387.71,,Libros,Prefiero no decir,1.5,8.6,False,2022-09-18,Contra reembolso,Bilbao,10.0,True,3.9
+908,46.0,144.82,8.0,BelleBa,Prefiero no decir,13.7,3.1,True,2022-04-30,Contra reembolso,Murcia,4.0,False,1.9
+776,77.0,479.18,4.0,Alimentos,Femenino,21.9,2.5,False,,Transferencia,Bilbao,22.0,False,1.0
+1017,54.0,453.51,2.0,Libros,Masculino,,5.6,False,2023-06-23,Criptomoneda,Barcelona,20.0,False,3.1
+977,36.0,364.89,6.0,Hogar,No binario,34.5,9.1,True,2024-01-24,Criptomoneda,Madrid,24.0,True,4.9
+256,63.0,263.12,2.0,Mascotas,Femenino,44.0,1.9,True,2024-01-30,Transferencia,Barcelona,19.0,False,5.0
+1019,44.0,338.64,9.0,,No binario,24.2,3.2,True,2023-03-10,Tarjeta de débito,Palma,,True,3.4
+746,23.0,393.67,2.0,Electrónica,No binario,32.6,,True,2024-04-03,Efectivo,Madrid,,,3.3
+198,65.0,384.2,5.0,Alimentos,No binario,22.4,0.3,False,2022-01-10,Contra reembolso,Madrid,13.0,False,2.8
+38,77.0,490.74,10.0,Alimentos,Femenino,6.3,1.6,True,2023-11-22,Tarjeta de crédito,Las Palmas,3.0,False,2.9
+822,50.0,322.1,1.0,Mascotas,Femenino,30.5,4.0,True,2023-01-15,Tarjeta de crédito,Madrid,12.0,True,4.9
+1010,,436.35,8.0,Alimentos,Femenino,46.8,5.3,True,2022-10-14,Contra reembolso,Barcelona,27.0,False,1.8
+95,61.0,4.71,7.0,Hogar,No binario,10.9,8.2,False,2023-03-03,Contra reembolso,Zaragoza,16.0,False,3.3
+668,31.0,425.92,1.0,Belleza,Prefiero no decir,26.0,9.9,False,2023-06-20,Criptomoneda,Madrid,15.0,False,4.5
+51,19.0,2297.13,2.0,Jardín,No binario,48.6,0.7,True,2023-11-18,Efectivo,Bilbao,15.0,True,1.6
+1166,54.0,326.41,4.0,Electrónica,Masculino,25.3,6.6,True,2023-08-09,Tarjeta de débito,Sevilla,23.0,,2.0
+1085,42.0,300.85,10.0,Hogar,No binario,16.0,4.8,,2024-03-30,Efectivo,Valencia,9.0,False,2.9
+1093,27.0,105.3,7.0,Jardín,No binario,20.7,9.9,True,2023-05-27,Transferencia,Valencia,19.0,False,2.6
+410,53.0,320.27,6.0,Electrónica,No binario,7.1,8.8,True,2023-12-12,Criptomoneda,Murcia,1.0,True,2.8
+736,29.0,161.72,4.0,Jardín,,30.3,6.2,False,2022-01-08,Efectivo,Málaga,6.0,True,3.4
+66,70.0,336.17,,Libros,Masculino,46.3,4.7,False,2022-07-28,Criptomoneda,,18.0,True,4.6
+234,39.0,124.74,4.0,Juguetes,,29.2,1.5,True,2023-06-11,Efectivo,Bilbao,21.0,False,4.9
+369,103.0,269.31,6.0,Deportes,Masculino,20.8,7.7,False,2022-09-16,Contra reembolso,Valencia,8.0,False,3.0
+484,62.0,362.46,,Mascotas,No binario,10.5,8.2,True,2024-01-21,Criptomoneda,Sevilla,11.0,False,2.4
+372,75.0,213.91,8.0,JKrdín,Femenino,0.5,1.7,False,2022-07-05,,Barcelona,30.0,False,2.5
+1140,74.0,420.05,9.0,Hogar,Masculino,1.8,1.1,True,2023-07-06,Efectivo,Palma,30.0,True,2.7
+302,32.0,143.94,,Jardín,Prefiero no decir,28.6,2.5,True,,Tarjeta de débito,Barcelona,20.0,False,3.5
+121,59.0,74.65,30.0,Belleza,No binario,38.3,2.2,True,2024-03-05,PayPal,Zaragoza,26.0,True,4.9
+348,18.0,187.68,7.0,Juguetes,Prefiero no decir,19.0,1.5,True,2023-08-10,Transferencia,Sevilla,22.0,True,2.8
+1036,68.0,190.09,5.0,Juguetes,Prefiero no decir,2.9,,False,2022-01-09,,Bilbao,16.0,False,1.5
+1059,,201.82,5.0,Juguetes,Masculino,22.3,1.3,False,2022-08-04,Tarjeta de crédito,Zaragoza,17.0,False,3.2
+569,40.0,43.05,2.0,Deportes,Femenino,7.2,7.6,True,2022-01-07,PayPal,Madrid,18.0,True,2.9
+450,31.0,81.3,8.0,Electrónica,Masculino,33.4,7.2,False,2022-05-24,Tarjeta de crédito,Las Palmas,16.0,True,4.9
+5,41.0,376.93,10.0,Electrónica,Prefiero no decir,2.8,2.6,True,2023-12-30,PayPal,Barcelona,1.0,True,1.3
+114,46.0,349.47,9.0,Alimentos,Prefiero no decir,17.1,9.1,True,2023-01-12,,Murcia,8.0,False,4.4
+874,53.0,292.9,10.0,Electrónica,Femenino,36.2,3.5,True,2022-07-25,Efectivo,Murcia,8.0,False,3.9
+570,70.0,252.81,9.0,Deportes,Prefiero no decir,,6.4,True,2023-05-29,Efectivo,Las Palmas,12.0,False,2.3
+399,19.0,354.27,8.0,Libros,Femenino,48.1,7.0,False,,Tarjeta de crédito,Murcia,12.0,False,4.6
+813,46.0,472.13,6.0,Juguetes,Prefiero no decir,10.4,4.8,False,2024-04-23,Tarjeta de débito,Madrid,13.0,True,3.7
+849,28.0,381.7,7.0,Deportes,Femenino,28.8,3.1,True,2022-02-04,Efectivo,Zaragoza,12.0,True,3.7
+696,23.0,14.57,3.0,Belleza,No binario,22.6,8.6,True,,Contra reembolso,Madrid,24.0,True,4.0
+388,29.0,395.55,7.0,Alimentos,No binario,23.1,9.0,False,2022-07-22,Tarjeta de crédito,Málaga,4.0,True,2.9
+765,66.0,3979.96,7.0,Hogar,Masculino,11.3,2.4,True,2024-02-13,Tarjeta de crédito,Las Palmas,13.0,True,2.5
+997,41.0,30.58,7.0,AlimentoQ,Prefiero no decir,16.8,0.7,False,2023-07-09,Tarjeta de débito,Palma,20.0,True,2.9
+383,50.0,347.78,,Juguetes,Prefiero no decir,,3.2,False,2022-10-25,Transferencia,Málaga,13.0,True,2.8
+290,41.0,40.11,5.0,Electrónica,Masculino,22.5,1.5,False,2023-02-03,Tarjeta de débito,Las Palmas,11.0,False,1.5
+269,,161.89,8.0,Mascotas,Prefiero no decir,37.8,1.3,True,2022-02-08,Contra reembolso,Las Palmas,9.0,True,3.0
+503,62.0,382.09,,Libros,Prefiero no decir,2.7,6.3,True,2022-05-24,Transferencia,Madrid,30.0,True,4.8
+308,75.0,23.18,1.0,Mascotas,Masculino,19.5,5.8,True,2022-10-24,Efectivo,Barcelona,13.0,False,2.9
+694,16.0,192.65,3.0,Jardín,Masculino,37.4,3.4,True,2024-03-04,Transferencia,Madrid,17.0,False,4.8
+412,41.0,40.5,9.0,,No binario,26.8,9.6,True,2022-06-06,Tarjeta de crédito,Barcelona,2.0,True,4.9
+81,52.0,379.59,5.0,Jardín,Masculino,45.0,3.2,False,2023-07-29,Tarjeta de crédito,Bilbao,27.0,True,3.6
+1138,79.0,0.37,2.0,Libros,Femenino,,7.3,True,2023-10-28,Efectivo,Madrid,1.0,False,1.0
+782,52.0,140.98,,Deportes,Femenino,3.3,,True,2023-12-24,Tarjeta de débito,Bilbao,,True,3.2
+1021,100.0,276.69,6.0,Hogar,No binario,5.8,,False,2023-07-08,Efectivo,Bilbao,7.0,True,1.3
+1079,72.0,129.19,1.0,Deportes,No binario,44.4,7.1,True,2022-08-30,,Bilbao,5.0,False,2.7
+196,19.0,469.46,5.0,Juguetes,Femenino,38.9,1.2,,2024-02-10,Tarjeta de crédito,Palma,19.0,True,3.3
+792,,422.61,1.0,Libros,Femenino,19.7,9.8,,2023-12-18,Criptomoneda,Murcia,22.0,False,3.6
+84,22.0,439.53,7.0,Electrónica,,5.8,7.4,False,2023-06-08,Contra reembolso,,25.0,False,2.2
+1002,57.0,401.0,4.0,Hogar,Femenino,,,False,2022-11-19,Contra reembolso,Sevilla,8.0,True,1.9
+304,49.0,260.7,2.0,Ropa,Femenino,36.2,6.8,True,2022-03-16,Transferencia,Málaga,15.0,True,1.4
+230,34.0,60.73,6.0,Juguetes,Prefiero no decir,26.0,2.6,True,2022-10-31,PayPal,Sevilla,29.0,False,3.5
+106,59.0,397.46,3.0,Mascotas,Masculino,49.1,1.3,True,2024-03-10,,Zaragoza,5.0,False,1.8
+1014,55.0,314.31,10.0,Belleza,No binario,33.0,2.4,True,2023-08-14,Efectivo,Murcia,1.0,True,3.8
+678,45.0,327.56,1.0,Ropa,Femenino,12.9,5.2,True,2023-09-22,Tarjeta de crédito,Sevilla,3.0,False,1.1
+971,72.0,101.64,5.0,Hogar,No binario,15.5,2.7,False,2023-12-01,Tarjeta de débito,Palma,17.0,True,1.1
+1129,51.0,127.95,1.0,Hogar,Masculino,19.4,7.7,False,2022-01-21,Tarjeta de crédito,Murcia,15.0,True,2.0
+27,79.0,176.93,4.0,Libros,No binario,22.8,10.0,,2023-12-29,Efectivo,Valencia,,False,1.1
+809,68.0,4867.31,8.0,Ropa,Prefiero no decir,26.5,4.9,True,2023-10-14,Tarjeta de débito,Sevilla,1.0,True,3.0
+108,80.0,319.12,9.0,Libros,No binario,25.1,4.9,True,2024-04-29,Transferencia,Bilbao,21.0,False,4.2
+685,,445.66,8.0,Mascotas,No binario,29.7,0.8,False,2022-05-01,Efectivo,Murcia,26.0,False,2.7
+747,67.0,495.71,6.0,Jardín,Prefiero no decir,39.0,7.2,False,2022-11-20,Tarjeta de débito,Las Palmas,15.0,False,4.4
+643,18.0,7.16,7.0,,No binario,26.9,6.4,True,2022-05-27,Tarjeta de débito,Málaga,27.0,False,4.4
+356,33.0,335.94,7.0,Belleza,Prefiero no decir,0.2,1.8,False,2024-02-06,Efectivo,Málaga,27.0,True,2.2
+526,,461.7,10.0,Belleza,No binario,39.8,7.9,False,2022-07-31,Transferencia,Zaragoza,15.0,False,2.2
+85,58.0,440.39,6.0,Electrónica,Masculino,,0.7,True,2024-03-14,Contra reembolso,Palma,30.0,True,4.1
+460,57.0,174.51,2.0,Mascotas,Masculino,6.3,0.4,False,2023-06-04,Criptomoneda,Madrid,19.0,False,3.0
+1041,38.0,103.5,,Hogar,Masculino,33.6,3.1,True,2023-08-18,Efectivo,Sevilla,24.0,False,3.0
+990,37.0,485.28,10.0,Alimentos,Masculino,35.8,0.1,True,2022-03-22,PayPal,Palma,12.0,True,2.1
+547,27.0,371.54,1.0,Belleza,Prefiero no decir,16.8,7.3,True,2023-08-07,PayPal,Zaragoza,,False,2.4
+58,61.0,355.38,5.0,Ropa,No binario,11.0,7.6,True,2022-10-21,Tarjeta de débito,Zaragoza,19.0,True,4.3
+727,43.0,325.0,1.0,Juguetes,Prefiero no decir,10.6,6.7,False,2023-09-05,Tarjeta de crédito,Barcelona,19.0,False,1.7
+1055,37.0,370.25,1.0,Alimentos,No binario,32.7,5.7,False,2023-01-10,Tarjeta de débito,Barcelona,21.0,True,1.2
+113,,83.19,5.0,Deportes,No binario,30.0,,True,2023-10-26,PayPal,Zaragoza,4.0,True,1.9
+575,62.0,204.42,9.0,Hogar,Femenino,2.5,0.2,True,2022-03-20,Criptomoneda,Barcelona,26.0,,4.0
+437,33.0,62.49,2.0,Libros,Prefiero no decir,36.4,,True,2023-04-02,Contra reembolso,,24.0,True,2.0
+221,85.0,378.21,1.0,,Prefiero no decir,23.1,6.5,True,2024-04-21,Efectivo,Las Palmas,4.0,True,2.3
+401,25.0,190.4,71.0,Jardín,Femenino,31.1,1.4,True,2022-03-13,Criptomoneda,Palma,20.0,True,1.6
+130,79.0,441.8,47.0,Jardín,Femenino,32.2,4.9,,2022-06-27,,Valencia,21.0,False,1.6
+870,40.0,91.73,2.0,Belleza,Prefiero no decir,44.1,,True,2023-11-17,Criptomoneda,Valencia,28.0,False,3.4
+1157,42.0,448.2,2.0,Electrónica,Prefiero no decir,31.8,3.2,False,2023-10-09,Tarjeta de crédito,Bilbao,24.0,False,2.3
+606,55.0,388.8,,Deportes,Femenino,18.0,5.8,True,2022-02-14,Contra reembolso,Sevilla,17.0,False,3.0
+1084,38.0,139.19,,Hogar,Prefiero no decir,25.4,5.7,True,2022-05-30,Efectivo,,17.0,True,4.4
+71,46.0,35.83,9.0,,Prefiero no decir,13.4,8.9,True,,Efectivo,Valencia,3.0,,4.5
+521,74.0,35.92,5.0,Mascotas,Prefiero no decir,42.5,3.7,True,2022-09-28,Transferencia,Málaga,13.0,False,1.0
+536,13.0,142.99,7.0,Deportes,No binario,10.3,8.9,True,2022-11-28,Tarjeta de débito,Bilbao,29.0,True,4.2
+641,39.0,318.19,7.0,Libros,Masculino,37.4,7.0,True,2023-02-25,PayPal,Murcia,,True,2.4
+931,57.0,1632.63,1.0,Mascotas,Masculino,47.9,8.2,True,2022-01-29,Tarjeta de débito,,9.0,False,2.4
+396,30.0,293.19,1.0,Electrónica,Prefiero no decir,33.2,3.1,False,2023-11-03,Tarjeta de crédito,Las Palmas,9.0,False,2.6
+523,33.0,,9.0,Libros,Femenino,45.9,7.3,True,2022-08-28,Tarjeta de crédito,Bilbao,30.0,False,1.0
+527,53.0,14.46,2.0,Juguetes,Femenino,29.2,3.1,False,2023-06-15,Tarjeta de crédito,Palma,14.0,True,
+80,25.0,168.46,4.0,Mascotas,Prefiero no decir,,5.1,False,2023-10-25,Transferencia,Palma,,True,3.9
+886,26.0,240.79,1.0,Ropa,Femenino,30.1,2.6,True,2023-08-20,Contra reembolso,Barcelona,19.0,True,2.0
+397,29.0,188.73,10.0,Juguetes,,22.6,0.2,True,2022-08-29,PayPal,Madrid,14.0,True,3.2
+1066,56.0,484.43,4.0,,Masculino,26.9,4.0,True,2022-10-14,Tarjeta de débito,Palma,29.0,False,3.0
+766,,,,Electrónica,No binario,30.1,7.3,True,2022-07-28,PayPal,Málaga,11.0,False,3.2
+468,54.0,314.99,3.0,Hogar,Femenino,40.3,7.5,True,2023-08-28,Tarjeta de crédito,Bilbao,26.0,False,4.2
+1117,,363.11,,Mascotas,Masculino,34.7,1.2,False,2022-04-09,PayPal,Madrid,3.0,False,3.2
+1032,81.0,219.22,8.0,Juguetes,Masculino,40.1,2.0,True,2023-06-15,Criptomoneda,Bilbao,23.0,False,1.6
+542,52.0,415.09,2.0,Alimentos,No binario,36.8,9.3,True,2022-10-08,Criptomoneda,Murcia,25.0,True,4.2
+1153,85.0,294.3,2.0,Hogar,Prefiero no decir,0.1,4.2,True,2023-01-26,Transferencia,Sevilla,4.0,False,
+1108,31.0,55.44,50.0,Hogar,No binario,16.3,3.4,False,2022-04-12,Tarjeta de crédito,Zaragoza,14.0,True,4.4
+307,42.0,113.44,10.0,Jardín,Prefiero no decir,5.5,8.4,True,2022-04-19,Tarjeta de débito,Madrid,21.0,True,2.4
+633,67.0,219.74,9.0,Mascotas,Femenino,17.4,0.2,True,2022-08-10,PayPal,Bilbao,1.0,True,1.6
+831,69.0,455.56,3.0,Ropa,Prefiero no decir,,2.9,False,2023-06-18,Efectivo,Madrid,8.0,True,2.6
+514,31.0,478.24,36.0,Juguetes,Femenino,21.3,4.4,True,2023-01-03,Transferencia,Sevilla,23.0,False,2.0
+927,6.0,372.24,5.0,Electrónica,Masculino,18.3,9.9,True,2023-04-15,Criptomoneda,Madrid,5.0,False,4.0
+424,47.0,18.63,2.0,Hogar,Prefiero no decir,0.9,4.0,,2022-08-15,PayPal,Barcelona,22.0,True,2.9
+1025,70.0,312.54,9.0,Deportes,Masculino,34.0,8.1,False,2023-02-08,PayPal,Barcelona,29.0,False,4.1
+953,25.0,151.8,,Deportes,Masculino,48.1,8.2,True,2022-10-22,Contra reembolso,Madrid,,False,1.6
+907,66.0,271.85,9.0,Hogar,Masculino,29.9,4.5,False,2022-12-15,Tarjeta de crédito,Murcia,3.0,,1.5
+921,68.0,116.09,6.0,Libros,Masculino,49.9,2.6,True,2023-05-11,Transferencia,Madrid,20.0,False,4.3
+558,76.0,206.73,6.0,Juguetes,Prefiero no decir,3.8,8.4,True,2023-01-21,Transferencia,Barcelona,22.0,False,2.8
+805,68.0,221.31,,Deportes,No binario,43.8,7.5,True,2023-12-25,Transferencia,Las Palmas,10.0,False,2.9
+964,49.0,233.55,10.0,Ropa,Prefiero no decir,29.3,0.5,,2022-11-18,PayPal,,10.0,False,3.1
+1192,37.0,148.15,7.0,Mascotas,No binario,12.1,4.8,True,2022-07-08,Efectivo,,8.0,True,4.5
+875,71.0,221.12,3.0,Juguetes,,5.7,1.7,True,2023-06-15,Tarjeta de débito,Sevilla,13.0,False,4.3
+101,22.0,388.93,3.0,Mascotas,Prefiero no decir,28.4,6.5,False,2022-01-14,Contra reembolso,Málaga,,True,2.5
+159,36.0,249.64,8.0,Alimentos,Prefiero no decir,13.7,3.7,False,2023-05-18,Transferencia,Las Palmas,24.0,True,1.3
+726,,153.4,5.0,Libros,Femenino,47.2,4.5,True,2022-10-18,Contra reembolso,Las Palmas,6.0,True,4.2
+951,67.0,136.34,36.0,Ropa,Prefiero no decir,25.9,0.1,True,2022-09-27,Tarjeta de débito,Las Palmas,10.0,False,2.9
+40,,328.82,2.0,Alimentos,Femenino,1.4,3.1,True,2023-07-01,Transferencia,Málaga,8.0,True,4.9
+676,32.0,151.17,3.0,Jardín,No binario,24.2,,True,2022-07-01,Tarjeta de débito,Barcelona,,,2.8
+65,57.0,425.74,6.0,Ropa,Masculino,10.3,6.6,True,2022-10-30,Tarjeta de débito,Sevilla,27.0,True,1.2
+644,22.0,88.37,6.0,Mascotas,Masculino,36.9,0.5,True,2024-03-24,Tarjeta de crédito,Barcelona,29.0,True,2.5
+30,81.0,333.58,2.0,Libros,No binario,22.9,4.9,False,2022-12-27,PayPal,Bilbao,28.0,False,4.5
+480,56.0,273.8,6.0,Mascotas,Femenino,22.4,6.8,True,2023-02-06,Contra reembolso,Murcia,15.0,False,1.4
+516,48.0,59.09,1.0,Hogar,Masculino,36.4,0.5,True,2022-08-13,PayPal,Málaga,29.0,True,4.2
+937,55.0,416.96,7.0,Mascotas,No binario,33.3,4.0,True,2023-10-11,PayPal,Palma,22.0,False,1.4
+257,23.0,3.75,4.0,Alimentos,Femenino,9.7,0.6,False,2024-03-04,Tarjeta de crédito,Málaga,12.0,True,1.0
+178,,67.5,4.0,Libros,Femenino,29.2,6.3,True,2023-07-04,PayPal,Palma,1.0,False,4.4
+1073,61.0,301.53,10.0,Juguetes,No binario,48.7,,False,2022-08-23,PayPal,Bilbao,10.0,False,3.0
+744,20.0,479.11,2.0,Libros,Prefiero no decir,15.3,6.3,True,2022-07-30,Criptomoneda,Zaragoza,28.0,True,4.5
+594,40.0,227.43,4.0,Jardín,No binario,36.3,7.6,False,2022-04-27,PayPal,Bilbao,3.0,False,4.2
+447,59.0,195.83,5.0,Alimentos,Prefiero no decir,3.8,9.6,True,2022-03-25,,Madrid,7.0,True,3.4
+588,82.0,303.73,9.0,Deportes,No binario,24.3,3.2,True,2023-11-08,Tarjeta de crédito,Bilbao,5.0,False,1.7
+171,28.0,327.32,7.0,Electrónica,Masculino,29.1,4.8,False,2023-06-18,PayPal,Bilbao,9.0,False,2.3
+60,79.0,45.45,92.0,Belleza,No binario,49.8,9.2,True,2022-09-14,Tarjeta de débito,Málaga,16.0,False,4.2
+572,34.0,355.01,45.0,Hogar,No binario,,4.8,True,,Contra reembolso,Las Palmas,9.0,False,3.6
+251,81.0,398.32,7.0,Libros,No binario,36.4,6.6,True,2022-04-17,Efectivo,Zaragoza,12.0,True,1.8
+25,79.0,268.55,6.0,Hogar,Masculino,31.9,3.2,True,2023-10-15,Transferencia,Murcia,21.0,False,2.0
+1192,37.0,148.15,7.0,Mascotas,No binario,12.1,4.8,True,2022-07-08,Efectivo,,8.0,True,4.5
+488,78.0,396.3,6.0,Juguetes,Masculino,31.5,2.9,False,2023-05-29,Criptomoneda,Madrid,10.0,False,3.9
+982,19.0,85.7,7.0,Hogar,Prefiero no decir,49.6,6.4,True,2022-07-27,Criptomoneda,Málaga,1.0,True,1.5
+12,19.0,127.25,4.0,Alimentos,Masculino,43.4,2.8,False,2023-10-02,Tarjeta de crédito,Málaga,19.0,False,4.7
+1169,56.0,413.25,7.0,Deportes,Femenino,3.9,6.8,True,2022-03-23,Contra reembolso,Las Palmas,12.0,True,
+670,73.0,330.39,,Alimentos,Femenino,34.8,4.4,True,2023-12-02,Efectivo,Sevilla,22.0,False,2.2
+596,83.0,314.27,7.0,Deportes,No binario,22.5,3.2,False,2023-11-23,Tarjeta de crédito,Málaga,4.0,False,4.4
+512,64.0,383.44,9.0,Mascotas,No binario,13.3,,True,2024-01-20,Tarjeta de débito,Murcia,15.0,False,3.2
+926,46.0,,5.0,Deportes,No binario,31.4,3.5,False,2024-03-05,Efectivo,Palma,1.0,False,2.3
+756,19.0,391.75,8.0,Belleza,Masculino,27.5,8.1,True,2022-09-25,Transferencia,Zaragoza,19.0,False,4.3
+1121,42.0,320.66,10.0,Mascotas,Femenino,22.8,5.8,True,2022-09-24,Tarjeta de débito,Murcia,18.0,True,1.6
+961,25.0,414.62,1.0,Jardín,Masculino,5.3,2.7,True,2023-07-22,Tarjeta de débito,Madrid,8.0,True,1.1
+553,35.0,423.73,2.0,Alimentos,Masculino,24.6,1.1,True,2023-08-25,Criptomoneda,Barcelona,11.0,True,4.1
+417,40.0,185.47,,Mascotas,No binario,35.9,1.7,False,2022-11-20,,Palma,7.0,False,1.8
+419,54.0,494.08,8.0,Electrónica,Masculino,34.9,2.1,True,2022-06-22,Efectivo,Murcia,97.0,False,2.7
+1072,36.0,,2.0,Electrónica,Prefiero no decir,35.5,7.8,True,2023-12-04,Efectivo,Valencia,19.0,False,4.1
+1077,34.0,12.48,10.0,Electrónica,Femenino,4.7,9.0,True,2022-10-04,Contra reembolso,Murcia,21.0,False,1.5
+148,69.0,367.09,6.0,Deportes,No binario,45.9,9.7,True,2022-06-08,Transferencia,Bilbao,12.0,False,4.6
+771,52.0,77.92,2.0,Jardín,Femenino,36.2,8.7,True,2023-05-10,Tarjeta de débito,Madrid,22.0,False,2.5
+232,65.0,272.65,5.0,Hogar,Masculino,6.2,,True,2022-07-17,Transferencia,Valencia,16.0,True,3.2
+1167,78.0,468.46,5.0,Deportes,Femenino,0.9,7.3,True,2023-02-19,Criptomoneda,Murcia,21.0,False,3.2
+211,53.0,488.52,6.0,Juguetes,No binario,36.6,9.3,False,2023-01-26,Tarjeta de crédito,Las Palmas,25.0,,1.6
+855,29.0,290.68,4.0,Jardín,Masculino,0.2,7.3,True,2022-08-26,Criptomoneda,Sevilla,24.0,True,1.7
+1089,43.0,81.64,1.0,Jardín,No binario,21.1,0.9,True,2024-04-05,Contra reembolso,Bilbao,14.0,False,4.0
+435,45.0,148.18,2.0,Juguetes,Masculino,44.4,2.2,True,2023-05-07,Tarjeta de débito,Madrid,28.0,False,2.2
+877,18.0,260.77,3.0,Deportes,Prefiero no decir,29.4,6.9,False,2024-01-25,Efectivo,Bilbao,15.0,False,3.9
+3,78.0,307.06,3.0,Electrónica,Prefiero no decir,2.6,5.7,True,2023-07-15,Efectivo,Las Palmas,9.0,True,1.1
+55,71.0,,8.0,Electrónica,Prefiero no decir,25.5,9.1,True,2024-02-08,Criptomoneda,Zaragoza,12.0,,5.0
+99,20.0,411.94,3.0,Libros,No binario,47.0,1.0,True,2023-07-20,Contra reembolso,Las Palmas,4.0,False,1.9
+833,32.0,319.01,2.0,Electrónica,No binario,11.4,0.9,True,2023-12-30,PayPal,Madrid,1.0,True,4.6
+478,78.0,24.53,7.0,Alimentos,Prefiero no decir,38.8,,True,2022-06-02,Tarjeta de crédito,,25.0,False,3.9
+386,68.0,141.31,9.0,Libros,Masculino,26.0,6.1,True,2022-09-14,Criptomoneda,Murcia,24.0,True,1.1
+828,30.0,10.99,10.0,Belleza,Prefiero no decir,20.3,4.8,True,2023-02-15,Criptomoneda,Zaragoza,3.0,False,4.7
+1145,120.0,104.14,4.0,Juguetes,Masculino,37.0,8.0,True,2022-11-29,Tarjeta de crédito,Las Palmas,24.0,True,2.0
+470,25.0,203.88,3.0,Deportes,Prefiero no decir,43.4,4.6,False,2022-02-07,Tarjeta de débito,Las Palmas,16.0,True,3.7
+826,22.0,386.96,2.0,Electrónica,Prefiero no decir,0.2,7.8,False,2024-01-12,Contra reembolso,Málaga,16.0,True,4.6
+478,78.0,24.53,7.0,Alimentos,Prefiero no decir,38.8,,True,2022-06-02,Tarjeta de crédito,,25.0,False,3.9
+21,59.0,21.64,6.0,Alimentos,Masculino,41.6,8.4,True,2022-07-02,Efectivo,Las Palmas,26.0,True,2.2
+298,82.0,,6.0,Belleza,Masculino,8.0,3.0,True,2022-03-06,Efectivo,Bilbao,116.0,False,
+1038,53.0,322.66,2.0,Libros,No binario,32.4,4.8,True,2023-11-22,Transferencia,Valencia,13.0,False,1.4
+335,80.0,412.78,4.0,Ropa,No binario,44.4,4.3,False,2022-11-02,Contra reembolso,Málaga,15.0,True,1.0
+995,70.0,275.48,4.0,JugueteA,No binario,,1.3,False,2022-01-07,Criptomoneda,Zaragoza,8.0,False,3.0
+255,,428.57,5.0,Libros,,10.0,5.5,True,2023-12-21,PayPal,Palma,4.0,False,3.1
+630,84.0,160.11,3.0,Libros,Masculino,14.3,3.4,False,2024-04-21,Criptomoneda,Madrid,23.0,True,1.8
+36,35.0,133.78,10.0,Juguetes,No binario,46.7,1.1,True,2023-12-29,Efectivo,Barcelona,12.0,False,3.9
+674,35.0,340.52,2.0,Libros,Femenino,,1.3,True,2023-09-13,PayPal,Zaragoza,13.0,True,1.7
+650,,352.76,4.0,Deportes,Prefiero no decir,36.5,0.5,False,2023-11-07,Criptomoneda,,28.0,False,3.6
+781,47.0,42.74,5.0,Belleza,Femenino,7.5,4.1,True,2024-03-03,Contra reembolso,Valencia,2.0,True,3.1
+616,51.0,258.01,8.0,,No binario,35.3,1.4,False,2022-05-31,Efectivo,Las Palmas,10.0,True,4.9
+1130,47.0,111.13,10.0,Jardín,,17.3,4.4,True,2023-02-26,Efectivo,Bilbao,10.0,True,3.5
+70,58.0,274.99,8.0,Belleza,Masculino,15.0,6.3,True,2023-01-03,Criptomoneda,Madrid,18.0,True,4.8
+1096,40.0,341.66,8.0,Electrónica,Femenino,28.9,2.0,True,2023-06-14,Contra reembolso,Madrid,9.0,False,2.7
+581,56.0,205.53,2.0,Deportes,No binario,36.1,1.1,True,2022-07-11,Tarjeta de crédito,Barcelona,17.0,False,2.8
+787,21.0,26.73,7.0,Belleza,Masculino,19.4,5.7,True,2022-05-02,Tarjeta de débito,Valencia,12.0,True,2.8
+167,73.0,2.58,8.0,Hogar,No binario,22.6,6.0,True,2022-11-22,Transferencia,Palma,4.0,True,3.1
+139,,441.55,3.0,Deportes,Femenino,36.8,7.8,True,,Criptomoneda,Palma,12.0,,3.5
+737,64.0,37.89,3.0,Electrónica,Masculino,2.9,4.8,False,2023-08-15,Efectivo,Zaragoza,78.0,True,5.0
+526,,463.56,10.0,Belleza,No binario,39.8,7.9,False,2022-07-31,Transferencia,Zaragoza,15.0,False,2.2
+546,83.0,418.27,4.0,Alimentos,Femenino,6.9,0.9,True,2023-07-12,Tarjeta de crédito,Palma,11.0,False,3.5
+1135,10.0,367.7,,Libros,No binario,0.8,9.8,True,,Criptomoneda,Zaragoza,13.0,True,2.9
+142,41.0,11.24,4.0,Jardín,Prefiero no decir,33.5,1.0,False,2023-08-22,PayPal,Madrid,16.0,True,3.6
+153,73.0,356.57,4.0,Hogar,Prefiero no decir,0.8,3.4,False,2022-02-22,PayPal,Murcia,21.0,,1.3
+541,63.0,340.03,88.0,Hogar,Prefiero no decir,38.7,0.5,True,2024-04-29,Criptomoneda,Málaga,21.0,True,1.2
+842,44.0,332.9,6.0,Belleza,No binario,12.2,4.7,True,2022-01-11,Contra reembolso,Sevilla,,False,3.9
+416,41.0,304.86,3.0,Ropa,Femenino,48.2,6.9,False,2024-04-07,Tarjeta de débito,Valencia,1.0,True,3.4
+18,39.0,389.47,1.0,,No binario,4.1,0.4,False,2022-05-16,Tarjeta de crédito,Las Palmas,29.0,False,2.9
+344,75.0,344.86,7.0,Belleza,Prefiero no decir,39.0,,True,2022-05-25,Transferencia,Zaragoza,23.0,False,3.6
+363,65.0,308.22,7.0,Alimentos,No binario,19.5,,True,2023-06-09,Efectivo,Palma,12.0,False,4.4
+1150,62.0,38.89,2.0,Hogar,No binario,3.8,5.8,False,2024-01-25,Criptomoneda,Zaragoza,15.0,False,4.9
+448,75.0,173.49,10.0,Hogar,Femenino,21.3,9.3,True,2022-10-15,Criptomoneda,Las Palmas,5.0,True,3.6
+824,83.0,85.54,4.0,Alimentos,No binario,15.2,4.1,True,2023-09-16,Transferencia,Bilbao,2.0,True,2.2
+219,58.0,149.65,6.0,Belleza,Masculino,45.9,5.9,True,2022-01-26,Tarjeta de débito,Barcelona,19.0,True,
+137,26.0,319.16,3.0,Alimentos,Prefiero no decir,46.7,0.7,True,2022-10-13,Tarjeta de débito,Valencia,7.0,False,1.1
+998,47.0,254.87,10.0,Hogar,Femenino,16.4,3.3,False,2022-02-13,Tarjeta de crédito,Barcelona,22.0,False,2.3
+302,32.0,143.94,1.0,Jardín,Prefiero no decir,28.6,2.5,True,,Tarjeta de débito,Barcelona,20.0,False,3.5
+915,37.0,263.64,,Deportes,Prefiero no decir,16.6,6.9,,2023-08-12,Efectivo,Málaga,,False,1.5
+1118,56.0,9.48,10.0,Jardín,No binario,8.0,2.3,,2023-04-06,Efectivo,Málaga,,False,4.2
+580,51.0,464.97,4.0,Belleza,No binario,3.1,1.9,False,2022-06-03,Transferencia,Valencia,4.0,True,2.3
+407,46.0,81.46,4.0,Deportes,Masculino,,0.8,False,2023-09-24,Criptomoneda,Madrid,29.0,False,3.1
+206,37.0,226.29,6.0,Ropa,No binario,16.4,1.0,True,2023-09-29,Transferencia,Barcelona,28.0,False,3.3
+582,43.0,453.52,8.0,Mascotas,Femenino,,7.2,False,2022-06-11,Tarjeta de débito,Valencia,17.0,True,
+300,33.0,,8.0,Belleza,No binario,0.5,,True,2024-02-03,Criptomoneda,Barcelona,,True,2.7
+492,79.0,439.16,7.0,Hogar,No binario,25.2,2.7,True,2023-01-08,Transferencia,Las Palmas,14.0,False,1.2
+717,41.0,4538.73,6.0,Belleza,No binario,30.8,6.0,True,2023-08-13,Criptomoneda,Valencia,20.0,True,1.3
+69,77.0,,4.0,Deportes,Masculino,35.1,6.2,True,2022-02-03,PayPal,Murcia,26.0,True,4.4
+156,19.0,411.71,3.0,Deportes,Prefiero no decir,45.1,7.6,True,2023-09-23,Criptomoneda,Palma,27.0,False,1.8
+73,62.0,404.17,4.0,Jardín,Masculino,42.9,0.8,True,2022-04-15,Tarjeta de crédito,Valencia,28.0,False,2.3
+116,30.0,161.8,7.0,Alimentos,Femenino,,7.6,True,2023-08-26,Tarjeta de débito,Sevilla,11.0,True,2.7
+707,21.0,340.38,6.0,Alimentos,Femenino,,6.4,True,2023-05-09,Transferencia,Sevilla,19.0,False,4.2
+483,84.0,455.18,8.0,Deportes,Masculino,15.6,5.7,True,2023-08-27,PayPal,Bilbao,17.0,True,1.2
+832,73.0,118.2,6.0,,Femenino,12.2,8.1,True,2022-10-21,Transferencia,Barcelona,7.0,False,1.8
+90,50.0,387.15,9.0,Ropa,No binario,33.6,6.2,False,2023-12-11,PayPal,Zaragoza,5.0,False,2.0
+1133,35.0,35.95,2.0,Belleza,Femenino,33.8,8.7,False,2023-11-27,Criptomoneda,Las Palmas,14.0,False,1.3
+459,30.0,33.54,,Hogar,Masculino,4.7,4.9,False,2022-01-20,Efectivo,Las Palmas,13.0,True,3.9
+811,81.0,397.33,6.0,Jardín,Masculino,14.9,3.8,True,,Tarjeta de crédito,Sevilla,12.0,False,2.3
+665,45.0,384.95,3.0,Adimentos,Prefiero no decir,48.5,6.7,True,2022-04-22,Criptomoneda,Sevilla,8.0,False,1.0
+191,48.0,156.13,4.0,Ropa,Masculino,26.4,0.5,False,2023-09-26,Transferencia,Valencia,27.0,False,2.9
+914,66.0,211.2,9.0,Belleza,Femenino,20.5,1.4,True,2024-03-23,Criptomoneda,Zaragoza,7.0,True,1.5
+816,53.0,488.77,6.0,Jardín,,20.8,2.8,True,2023-09-07,Tarjeta de débito,Valencia,22.0,False,1.8
+672,20.0,440.68,3.0,Mascotas,Prefiero no decir,12.0,0.1,True,2024-04-26,Transferencia,Málaga,1.0,True,1.6
+790,57.0,108.55,59.0,Jardín,Prefiero no decir,3.6,1.8,True,2023-04-03,PayPal,Las Palmas,28.0,False,2.1
+515,32.0,104.23,8.0,Alimentos,Prefiero no decir,32.4,9.4,False,2022-02-11,PayPal,Málaga,12.0,True,4.0
+375,,290.71,10.0,Ropa,No binario,,8.9,True,2023-08-04,Contra reembolso,Murcia,1.0,False,2.8
+618,13.0,141.7,4.0,Belleza,Masculino,19.4,5.8,True,2022-06-20,Criptomoneda,Murcia,12.0,False,2.6
+495,73.0,234.02,1.0,Electrónica,No binario,30.8,9.5,True,2023-11-10,Contra reembolso,Málaga,20.0,False,3.3
+315,69.0,466.22,5.0,Ropa,No binario,5.0,0.8,True,2024-02-23,Transferencia,Murcia,14.0,,3.1
+1194,52.0,128.73,5.0,Electrónica,Femenino,26.1,0.6,True,2022-05-09,Tarjeta de débito,Málaga,14.0,True,3.8
+1154,35.0,271.47,6.0,Juguetes,No binario,0.5,0.0,True,2023-09-21,Transferencia,Las Palmas,30.0,True,2.9
+867,57.0,114.32,4.0,Libros,No binario,32.0,2.1,False,2024-03-09,Transferencia,Sevilla,9.0,False,2.3
+87,24.0,123.2,7.0,Belleza,Prefiero no decir,,5.0,True,2024-03-28,Efectivo,Sevilla,8.0,False,3.8
+1172,63.0,15.85,10.0,Mascotas,Prefiero no decir,39.8,0.4,False,2022-08-22,PayPal,Madrid,13.0,True,
+1180,80.0,207.79,1.0,Jardín,Masculino,44.4,1.0,True,2023-10-23,Transferencia,,27.0,False,2.5
+218,78.0,429.88,9.0,Electrónica,Prefiero no decir,47.3,6.4,True,2022-10-17,Efectivo,Palma,24.0,True,4.7
+343,18.0,303.88,9.0,Ropa,Prefiero no decir,0.8,1.2,True,2023-07-23,PayPal,Palma,29.0,True,1.1
+290,41.0,40.11,5.0,Electrónica,Masculino,22.5,1.5,False,2023-02-03,Tarjeta de débito,Las Palmas,11.0,False,1.5
+528,25.0,241.04,,Ropa,Prefiero no decir,48.0,9.1,False,,Transferencia,Madrid,10.0,True,1.8
+634,78.0,455.42,2.0,Alimentos,Prefiero no decir,46.2,0.9,,2023-04-05,Transferencia,Valencia,2.0,False,3.6
+309,80.0,58.47,10.0,Juguetes,No binario,12.1,6.2,False,,Tarjeta de crédito,,9.0,True,4.9
+545,42.0,370.25,,Jardín,,44.4,,True,2023-08-16,,Sevilla,11.0,False,2.2
+204,65.0,282.42,,Ropa,Masculino,14.9,6.6,True,2023-10-20,Efectivo,Málaga,17.0,False,2.3
+964,49.0,241.59,9.0,Ropa,Prefiero no decir,29.3,0.5,,2022-11-18,PayPal,,10.0,False,3.1
+1071,29.0,152.16,7.0,,No binario,7.4,3.1,False,2023-08-13,Criptomoneda,Las Palmas,5.0,True,1.4
+896,24.0,470.69,3.0,Ropa,Prefiero no decir,40.3,2.6,True,2023-08-12,Tarjeta de débito,,19.0,False,1.1
+57,35.0,38.5,10.0,Alimentos,No binario,20.3,5.3,True,2022-06-14,PayPal,Barcelona,6.0,False,2.6
+675,55.0,305.84,35.0,Hogar,Masculino,15.9,4.5,True,2022-04-09,Transferencia,Murcia,14.0,False,2.7
+370,,75.36,3.0,Juguetes,Femenino,8.5,8.4,True,2022-07-18,PayPal,Valencia,27.0,False,3.2
+280,34.0,258.62,7.0,Ropa,Prefiero no decir,10.1,6.8,True,2022-08-22,PayPal,Málaga,4.0,True,2.8
+1018,42.0,11.02,7.0,Mascotas,Masculino,37.8,1.3,False,2024-03-29,Tarjeta de crédito,Murcia,21.0,,4.8
+467,46.0,,10.0,Mascotas,No binario,31.8,4.2,True,2024-02-27,Tarjeta de débito,Bilbao,7.0,True,
+671,24.0,238.78,8.0,Deportes,Femenino,33.6,,False,2023-03-06,Tarjeta de crédito,,,True,2.1
+54,21.0,61.81,7.0,Jardín,Masculino,5.0,7.5,False,2022-10-01,Efectivo,Palma,1.0,False,1.5
+1052,73.0,485.48,7.0,Alimentos,Masculino,14.1,8.4,True,2023-04-28,Tarjeta de débito,Madrid,7.0,True,3.3
+586,67.0,322.04,8.0,Hogar,No binario,44.2,8.4,False,2024-04-16,Tarjeta de crédito,Barcelona,9.0,False,4.9
+626,21.0,55.44,7.0,Hogar,No binario,49.2,0.3,True,2022-01-20,PayPal,Murcia,10.0,True,3.3
+482,56.0,482.19,,Hogar,Masculino,46.0,2.3,True,2024-03-01,Criptomoneda,Valencia,3.0,True,4.7
+1069,61.0,42.41,9.0,Hogar,Masculino,14.5,7.1,True,2023-08-09,Contra reembolso,Murcia,4.0,True,2.8
+629,84.0,3.47,10.0,Jardín,Masculino,,8.0,False,2023-11-09,Criptomoneda,Valencia,15.0,True,2.2
+715,57.0,386.23,3.0,Belleza,Femenino,8.9,2.6,,2024-02-19,Tarjeta de crédito,Madrid,108.0,True,4.2
+2,32.0,83.66,2.0,Alimentos,Masculino,27.1,8.7,True,2023-12-20,Tarjeta de crédito,Sevilla,17.0,True,3.6
+917,78.0,486.67,2.0,Libros,Masculino,5.3,6.1,False,2023-12-12,Efectivo,,21.0,False,
+349,33.0,64.91,3.0,Belleza,Femenino,2.4,5.5,True,2023-09-03,PayPal,Málaga,23.0,True,1.5
+628,42.0,138.84,8.0,Hogar,No binario,1.8,6.9,True,2024-01-16,Criptomoneda,Murcia,9.0,False,1.3
+1075,66.0,,10.0,Mascotas,No binario,12.1,6.7,False,2022-04-13,PayPal,Bilbao,30.0,True,2.6
+1147,82.0,372.73,3.0,Belleza,Femenino,42.9,2.5,False,2023-06-07,Contra reembolso,Murcia,6.0,,2.2
+313,75.0,258.77,9.0,Alimentos,Masculino,12.8,3.5,False,2022-03-30,Tarjeta de débito,Valencia,29.0,True,2.2
+122,62.0,105.0,8.0,Juguetes,No binario,,4.7,False,2024-01-13,Efectivo,Madrid,11.0,True,4.6
+559,44.0,3.77,3.0,Belleza,Femenino,30.9,8.8,True,2022-08-17,Tarjeta de crédito,Murcia,30.0,True,4.3
+162,61.0,91.01,3.0,Deportes,,40.1,1.6,False,2023-07-18,Tarjeta de crédito,,20.0,False,1.5
+313,75.0,258.77,9.0,Alimentos,Masculino,12.8,3.5,False,2022-03-30,Tarjeta de débito,Valencia,29.0,True,2.2
+285,56.0,475.51,6.0,,Femenino,46.2,2.7,True,2023-10-08,Contra reembolso,Valencia,13.0,True,4.3
+817,46.0,379.87,1.0,Libros,Femenino,14.2,0.8,False,2023-03-22,Transferencia,Murcia,30.0,True,4.8
+1171,80.0,224.74,3.0,Hogar,No binario,39.3,6.7,True,2022-12-18,Efectivo,Palma,2.0,True,4.7
+529,75.0,345.42,6.0,Belleza,No binario,33.0,8.4,True,2023-01-05,Efectivo,Barcelona,12.0,False,2.6
+267,35.0,261.14,3.0,Hogar,No binario,37.0,3.5,False,2024-01-05,Tarjeta de crédito,Málaga,11.0,True,3.8
+1172,63.0,16.44,10.0,Mascotas,Prefiero no decir,39.8,0.4,False,2022-08-22,PayPal,Madrid,13.0,True,
+23,32.0,453.69,51.0,Libros,Prefiero no decir,24.3,2.8,True,2023-07-10,,Murcia,13.0,,3.4
+30,81.0,349.27,2.0,Libros,No binario,22.9,4.9,False,2022-12-27,PayPal,Bilbao,28.0,False,4.5
+1090,43.0,3501.2,8.0,Mascotas,Prefiero no decir,34.6,0.2,False,2022-01-10,Tarjeta de débito,Valencia,8.0,,4.0
+378,49.0,281.53,3.0,Ropa,Femenino,5.8,5.0,True,2023-07-17,Criptomoneda,Barcelona,7.0,False,2.6
+740,81.0,244.62,8.0,Juguetes,No binario,33.1,5.9,False,2023-06-17,Contra reembolso,Barcelona,23.0,True,4.3
+264,49.0,415.5,7.0,Alimentos,Femenino,26.6,1.4,True,2022-06-07,Contra reembolso,Murcia,,False,3.6
+601,67.0,412.15,4.0,Ropa,Prefiero no decir,31.1,5.2,True,2022-06-15,Tarjeta de débito,Bilbao,27.0,True,4.3
+345,18.0,61.67,9.0,Jardín,Masculino,18.1,,True,2022-05-07,Contra reembolso,Barcelona,13.0,True,2.7
+1037,70.0,472.5,9.0,Electrónica,Masculino,46.4,0.2,True,2022-01-13,PayPal,Barcelona,11.0,False,2.6
+1178,76.0,57.17,3.0,Hogar,Prefiero no decir,,2.5,True,,Contra reembolso,Málaga,19.0,True,4.6
+284,65.0,327.85,4.0,Ropa,No binario,24.7,2.3,,2023-04-07,Transferencia,Sevilla,5.0,False,4.6
+229,84.0,437.01,3.0,Libros,Femenino,13.4,0.7,True,2022-02-14,PayPal,Murcia,27.0,True,1.1
+795,55.0,427.62,7.0,Jardín,Femenino,32.3,7.8,True,2022-08-08,Efectivo,Bilbao,3.0,True,1.7
+440,69.0,444.76,2.0,Deportes,Prefiero no decir,9.7,3.4,False,2022-11-09,Criptomoneda,Las Palmas,21.0,True,3.5
+855,29.0,290.68,4.0,Jardín,Masculino,0.2,7.3,True,2022-08-26,Criptomoneda,Sevilla,24.0,True,1.7
+748,27.0,274.52,2.0,Belleza,Femenino,38.4,5.6,True,2023-02-23,Tarjeta de débito,Valencia,4.0,True,2.6
+508,36.0,433.46,3.0,Jardín,Masculino,,7.1,True,,Efectivo,Murcia,112.0,True,3.3
+147,75.0,44.31,3.0,Jardín,Prefiero no decir,48.2,5.4,,2023-12-28,Efectivo,Madrid,17.0,True,4.9
+48,53.0,79.87,6.0,Alimentos,Prefiero no decir,48.2,,False,2023-01-26,Transferencia,Bilbao,9.0,False,3.4
+184,57.0,428.59,8.0,Jardín,Prefiero no decir,27.7,7.9,True,2023-11-11,Contra reembolso,Palma,18.0,False,2.2
+1030,79.0,392.96,8.0,Belleza,Masculino,17.8,9.6,False,2022-05-04,Efectivo,Málaga,24.0,False,4.8
+883,38.0,446.82,1.0,Jardín,Prefiero no decir,23.3,2.4,True,2024-01-14,Tarjeta de crédito,Madrid,15.0,False,1.3
+589,,182.12,10.0,Alimentos,Masculino,35.1,6.7,True,2022-08-24,Contra reembolso,Málaga,15.0,False,1.5
+413,81.0,207.77,2.0,Libros,Masculino,4.3,8.8,False,2023-08-03,Transferencia,Las Palmas,4.0,True,3.7
+530,77.0,362.74,9.0,Alimentos,No binario,26.1,8.5,False,2023-02-02,,Palma,16.0,True,4.8
+458,63.0,101.34,6.0,,Femenino,21.1,4.6,False,2022-03-19,Tarjeta de débito,Bilbao,5.0,True,2.3
+568,70.0,153.29,2.0,Deportes,No binario,9.9,2.1,True,,Contra reembolso,,21.0,False,4.1
+944,72.0,274.53,2.0,Hogar,Femenino,40.5,2.1,False,2022-11-20,,Sevilla,26.0,True,4.9
+449,56.0,273.0,6.0,Electrónica,No binario,22.1,7.9,True,2024-04-26,Tarjeta de crédito,Bilbao,12.0,,2.8
+293,24.0,238.88,10.0,,Prefiero no decir,32.5,1.1,False,2023-07-02,Criptomoneda,Zaragoza,25.0,True,3.3
+892,80.0,428.24,7.0,Mascotas,No binario,30.5,6.0,False,2023-09-13,PayPal,Sevilla,5.0,True,
+458,63.0,101.34,7.0,,Femenino,21.1,4.6,False,2022-03-19,Tarjeta de débito,Bilbao,5.0,True,2.3
+287,43.0,373.08,4.0,Deportes,Prefiero no decir,36.5,3.9,False,2023-03-20,Tarjeta de crédito,Las Palmas,1.0,True,1.8
+1166,54.0,326.41,4.0,Electrónica,Masculino,25.3,6.6,True,2023-08-09,Tarjeta de débito,Sevilla,23.0,,2.0
+474,21.0,286.84,6.0,Deportes,Prefiero no decir,50.0,1.1,True,2023-07-07,PayPal,Madrid,4.0,False,1.9
+327,72.0,140.99,2.0,Belleza,Masculino,26.1,4.7,False,2024-02-04,Efectivo,Bilbao,24.0,True,2.1
+993,55.0,353.91,9.0,,No binario,7.6,2.1,False,2023-05-20,Efectivo,Sevilla,22.0,False,1.7
+462,17.0,483.38,1.0,Belleza,Prefiero no decir,38.1,8.3,True,2022-02-01,Efectivo,Murcia,30.0,False,4.0
+22,77.0,36.01,9.0,Belleza,Femenino,23.2,6.5,True,2023-05-31,Tarjeta de crédito,Las Palmas,10.0,False,2.0
+579,,402.72,9.0,Alimentos,Femenino,30.0,8.1,True,2022-08-05,Tarjeta de débito,Las Palmas,9.0,True,2.5
+120,83.0,491.84,7.0,Deportes,Masculino,6.3,2.6,True,2022-07-21,Contra reembolso,Barcelona,25.0,True,2.4
+1,69.0,383.93,8.0,,Prefiero no decir,1.5,9.2,True,2022-11-03,Tarjeta de débito,Sevilla,24.0,False,3.6
+342,29.0,34.46,10.0,Belleza,Femenino,28.3,1.9,False,2023-07-21,Efectivo,Madrid,8.0,,4.3
+1121,42.0,320.66,10.0,Mascotas,Femenino,22.8,5.8,True,2022-09-24,Tarjeta de débito,Murcia,18.0,True,1.6
+164,49.0,413.86,7.0,Belleza,No binario,,9.7,True,2022-03-16,Tarjeta de crédito,Sevilla,6.0,True,2.9
+710,,387.6,1.0,Electrónica,No binario,17.0,4.0,,2023-01-26,Tarjeta de débito,Valencia,12.0,False,2.2
+331,30.0,454.27,1.0,Electrónica,No binario,24.2,5.0,False,2023-07-13,Tarjeta de débito,Las Palmas,53.0,False,3.7
+1065,42.0,330.09,2.0,Ropa,Prefiero no decir,29.6,4.2,True,2023-02-15,Criptomoneda,Las Palmas,30.0,False,3.8
+145,69.0,,7.0,Jardín,,14.8,9.7,True,2022-12-05,Tarjeta de crédito,Palma,9.0,True,2.2
+941,18.0,297.37,4.0,Mascotas,Prefiero no decir,26.8,8.0,False,2023-12-20,Efectivo,Valencia,6.0,True,1.7
+88,29.0,228.36,7.0,Jardín,Prefiero no decir,1.9,4.4,,2023-12-14,Transferencia,Las Palmas,,True,3.3
+8,70.0,37.29,2.0,Electrónica,Prefiero no decir,,3.0,False,2023-10-10,Tarjeta de crédito,Barcelona,24.0,True,1.2
+387,60.0,156.63,7.0,Electrónica,Femenino,9.5,0.4,False,,,Palma,15.0,False,1.9
+1159,113.0,394.76,6.0,Jardín,No binario,43.2,4.4,,2022-06-21,Efectivo,,7.0,False,4.6
+502,49.0,105.6,3.0,Ropa,Masculino,47.4,4.9,False,,Tarjeta de débito,Zaragoza,6.0,False,1.7
+242,38.0,28.83,1.0,Ropa,Masculino,1.9,1.2,True,2023-10-04,Transferencia,Madrid,7.0,True,2.1
+472,34.0,440.76,6.0,Mascoeas,Prefiero no decir,34.9,,False,2022-09-24,,Bilbao,9.0,True,4.6
+1103,76.0,202.52,8.0,Libros,Prefiero no decir,6.6,0.6,False,2022-09-14,Efectivo,Valencia,14.0,,
+823,85.0,334.97,8.0,Libros,Femenino,19.1,4.2,True,2022-03-23,,Zaragoza,28.0,True,1.1
+91,,18.45,6.0,Electrónica,No binario,34.5,1.3,False,2023-11-12,Criptomoneda,Barcelona,30.0,False,3.0
+245,81.0,335.56,9.0,Electrónica,No binario,10.1,2.3,False,2023-11-18,Transferencia,Barcelona,6.0,False,2.1
+132,18.0,255.08,1.0,Jardín,No binario,29.2,7.6,True,2023-06-11,Contra reembolso,Zaragoza,16.0,False,4.8
+518,71.0,,4.0,Belleza,,7.0,10.0,True,2023-05-15,Tarjeta de crédito,Bilbao,16.0,False,2.5
+446,70.0,197.79,7.0,Juguetes,No binario,18.0,6.6,False,2023-09-14,Tarjeta de crédito,Valencia,10.0,True,2.5
+1149,20.0,263.12,8.0,Hogar,No binario,20.1,1.7,True,,Tarjeta de débito,Barcelona,25.0,False,2.7
+680,,161.24,10.0,Ropa,No binario,14.3,6.7,True,2022-02-09,Tarjeta de débito,Madrid,10.0,True,3.8
+699,81.0,248.97,10.0,Mascotas,,48.7,2.3,False,2023-03-07,Criptomoneda,Málaga,,True,1.3
+934,18.0,94.9,,Belleza,Femenino,9.0,,True,2022-09-22,Efectivo,Murcia,21.0,True,2.5
+757,82.0,291.26,4.0,,Femenino,46.5,0.4,True,2023-07-03,Efectivo,Palma,28.0,True,1.3
+346,51.0,195.0,5.0,Jardín,No binario,20.3,1.9,True,2022-02-12,Transferencia,Bilbao,8.0,True,1.8
+170,41.0,375.67,3.0,Electrónica,No binario,42.7,0.6,,2022-07-08,Tarjeta de débito,Barcelona,6.0,False,2.8
+499,75.0,296.42,7.0,Libros,Femenino,26.3,4.1,False,2023-12-02,Tarjeta de débito,Valencia,24.0,True,3.7
+935,64.0,188.62,9.0,Deportes,No binario,5.0,6.7,False,2022-03-11,Contra reembolso,Sevilla,7.0,True,4.8
+266,84.0,288.03,9.0,Libros,No binario,49.1,,True,2023-04-16,Tarjeta de crédito,Las Palmas,8.0,True,4.5
+841,19.0,243.04,2.0,Jardín,Masculino,35.3,,True,2023-03-26,Criptomoneda,Barcelona,,True,2.2
+92,40.0,37.28,2.0,Jardín,No binario,17.1,7.6,True,2022-02-18,Tarjeta de crédito,Valencia,21.0,True,2.7
+491,20.0,2974.06,7.0,Juguetes,Femenino,31.6,8.3,,2023-02-11,Transferencia,Valencia,29.0,False,3.3
+366,40.0,64.68,10.0,,Femenino,11.1,4.5,True,2022-07-08,Tarjeta de crédito,Málaga,12.0,,1.7
+76,18.0,394.21,,Alimentos,No binario,32.5,2.4,True,2024-01-28,Transferencia,Zaragoza,,False,2.5
+257,23.0,3.75,4.0,Alimentos,Femenino,9.7,0.6,False,2024-03-04,Tarjeta de crédito,Málaga,12.0,True,1.0
+26,64.0,208.49,9.0,,Prefiero no decir,44.9,10.0,True,2022-11-27,Efectivo,Murcia,10.0,True,3.6
+501,62.0,146.46,8.0,Belleza,No binario,29.1,9.3,True,2024-02-15,Contra reembolso,Las Palmas,5.0,True,3.9
+13,81.0,453.6,6.0,Deportes,Prefiero no decir,45.2,0.4,True,2024-01-02,Contra reembolso,Las Palmas,7.0,True,
+797,80.0,480.51,5.0,Hogar,,2.1,3.3,True,2023-02-15,Criptomoneda,Málaga,116.0,True,4.6
+438,29.0,478.18,10.0,Deportes,Prefiero no decir,15.8,7.7,True,,Criptomoneda,Palma,29.0,,4.5
+409,38.0,324.68,7.0,Belleza,Femenino,22.2,2.5,False,2022-11-10,Tarjeta de débito,Las Palmas,27.0,True,1.3
+320,25.0,0.66,4.0,,Masculino,7.1,8.1,True,2023-11-08,Criptomoneda,Las Palmas,16.0,,2.9
+370,,75.36,3.0,Juguetes,Femenino,8.5,8.4,True,2022-07-18,PayPal,Valencia,27.0,False,3.2
+140,68.0,216.61,3.0,Ropa,Femenino,43.3,1.0,True,2022-05-14,Contra reembolso,Valencia,,True,1.9
+1006,21.0,433.32,10.0,Deportes,Femenino,3.8,7.8,False,2023-05-18,Transferencia,Palma,13.0,,2.7
+712,26.0,488.13,8.0,Mascotas,Masculino,14.3,5.0,True,2023-08-27,Tarjeta de crédito,Madrid,2.0,False,4.0
+1115,60.0,133.06,7.0,Deportes,Prefiero no decir,40.1,1.4,True,2023-05-03,Tarjeta de crédito,Bilbao,104.0,False,4.2
+1024,29.0,179.71,10.0,Libros,Femenino,24.1,2.5,True,2022-12-22,Tarjeta de débito,Zaragoza,7.0,False,3.2
+1106,76.0,337.87,1.0,Belleza,No binario,36.1,0.0,True,2022-02-18,Contra reembolso,Madrid,,True,1.7
+22,77.0,36.01,10.0,Belleza,Femenino,23.2,6.5,True,2023-05-31,Tarjeta de crédito,Las Palmas,10.0,False,2.0
+358,74.0,184.15,10.0,Deportes,Prefiero no decir,19.2,8.2,True,2024-01-14,Criptomoneda,Sevilla,16.0,False,4.5
+592,34.0,444.89,3.0,Deportes,No binario,13.1,8.4,False,2022-12-05,Contra reembolso,Valencia,19.0,,1.2
+1042,,212.08,4.0,Belleza,Femenino,26.6,8.3,True,2022-04-14,PayPal,Palma,1.0,False,2.4
+759,34.0,406.51,1.0,Deportes,Masculino,3.5,6.6,False,2023-08-02,Transferencia,Murcia,28.0,True,2.2
+1057,43.0,,10.0,Alimentos,No binario,7.9,4.8,False,2023-05-26,Tarjeta de crédito,Sevilla,30.0,False,4.2
+531,67.0,347.8,6.0,Juguetes,Prefiero no decir,1.2,7.7,True,2023-04-26,Contra reembolso,Zaragoza,15.0,False,2.7
+1141,33.0,403.52,7.0,Juguetes,Prefiero no decir,45.1,6.9,False,2022-06-28,Efectivo,Barcelona,15.0,True,1.4
+1113,20.0,457.7,6.0,Hogar,Prefiero no decir,18.4,3.3,True,2024-04-13,Criptomoneda,Valencia,29.0,False,1.5
+563,38.0,405.08,3.0,Libros,Femenino,43.7,5.6,False,2024-04-16,Efectivo,Bilbao,3.0,True,1.0
+8,70.0,39.13,2.0,Electrónica,Prefiero no decir,,3.0,False,2023-10-10,Tarjeta de crédito,Barcelona,24.0,True,1.2
+709,79.0,388.13,9.0,Mascotas,Prefiero no decir,21.9,2.9,False,2024-02-27,Contra reembolso,Madrid,12.0,False,3.8
+770,51.0,35.79,6.0,Deportes,Femenino,13.2,2.3,,2023-07-25,PayPal,Barcelona,,True,1.3
+739,,127.07,41.0,Hogar,Prefiero no decir,26.5,3.6,True,2022-05-01,Criptomoneda,,23.0,False,1.5
+276,40.0,313.74,4.0,Juguetes,No binario,8.7,0.1,True,2023-07-26,Contra reembolso,Zaragoza,15.0,False,3.9
+1003,83.0,278.59,5.0,Ropa,Prefiero no decir,35.2,9.3,True,2023-05-20,Tarjeta de débito,Zaragoza,115.0,False,4.6
+550,111.0,385.62,1.0,Electrónica,Masculino,36.5,3.7,False,2023-11-01,Efectivo,Palma,4.0,True,1.6
+582,43.0,453.52,8.0,Mascotas,Femenino,,7.2,False,2022-06-11,Tarjeta de débito,Valencia,17.0,True,
+204,65.0,282.42,,Ropa,Masculino,14.9,6.6,True,2023-10-20,Efectivo,Málaga,17.0,False,2.3
+260,63.0,61.89,6.0,Libros,,31.9,7.8,False,2024-04-16,Transferencia,Palma,23.0,True,2.9
+620,60.0,36.03,2.0,Mascotas,Masculino,44.6,4.6,True,2022-07-04,Efectivo,Barcelona,22.0,False,2.6
+783,11.0,404.45,10.0,Jardín,,36.5,8.8,True,2023-02-12,PayPal,Palma,12.0,False,2.6
+125,23.0,,3.0,Belleza,No binario,26.8,6.4,True,2023-04-05,PayPal,Murcia,13.0,True,2.5
+519,20.0,424.25,5.0,Alimentos,Femenino,22.1,8.9,True,2022-08-26,Tarjeta de débito,Valencia,15.0,True,1.3
+638,22.0,345.07,2.0,Belleza,Prefiero no decir,4.5,5.8,False,2022-06-24,Efectivo,Madrid,14.0,True,4.0
+829,48.0,,9.0,,Prefiero no decir,42.6,0.4,True,2023-09-21,Transferencia,Las Palmas,10.0,False,3.4
+1063,60.0,137.92,1.0,Deportes,Prefiero no decir,37.9,4.0,True,2023-01-17,Transferencia,Zaragoza,2.0,True,3.7
+329,69.0,213.8,5.0,Alimentos,Prefiero no decir,38.4,5.9,True,,Transferencia,Zaragoza,19.0,True,3.5
+723,79.0,177.31,7.0,Hogar,Prefiero no decir,45.1,1.9,True,,Tarjeta de crédito,Murcia,2.0,False,3.6
+1040,46.0,317.98,8.0,Alimentos,Prefiero no decir,37.8,7.4,True,2023-01-24,Tarjeta de crédito,Valencia,6.0,False,3.6
+769,26.0,355.32,8.0,Ropa,Prefiero no decir,24.9,8.4,True,2024-03-13,Tarjeta de crédito,Murcia,15.0,False,3.6
+336,36.0,477.75,1.0,Jardín,Prefiero no decir,,3.6,True,2023-11-25,Criptomoneda,Valencia,,True,5.0
+976,40.0,352.08,7.0,Juguetes,Masculino,19.3,7.1,True,2022-08-29,PayPal,Zaragoza,16.0,True,4.7
+1100,24.0,130.29,6.0,Electrónica,Prefiero no decir,8.4,9.8,True,2024-03-15,Efectivo,Murcia,26.0,False,3.4
+487,37.0,69.67,1.0,Electrónica,No binario,27.1,3.5,True,2023-04-21,Efectivo,Palma,25.0,,4.1
+1198,20.0,180.13,10.0,Juguetes,Prefiero no decir,11.1,,True,2022-09-15,Criptomoneda,Las Palmas,30.0,True,2.2
+933,35.0,409.31,10.0,Mascotas,Femenino,28.2,6.7,False,2022-04-30,Transferencia,,15.0,False,3.3
+593,64.0,254.03,,Electrónica,Femenino,47.3,4.2,False,2024-01-08,PayPal,Barcelona,28.0,False,2.0
+261,70.0,51.46,10.0,Electrónica,No binario,35.0,9.2,True,2022-03-15,Criptomoneda,Barcelona,27.0,,1.5
+56,80.0,362.79,5.0,,Prefiero no decir,1.2,5.5,True,2024-03-15,Criptomoneda,,22.0,True,4.1
+1080,,339.63,2.0,Electrónica,Femenino,32.1,,True,2023-07-23,Criptomoneda,Madrid,17.0,False,4.3
+4,38.0,72.0,3.0,Hogar,Masculino,35.1,0.1,True,2022-11-18,Efectivo,Madrid,13.0,False,1.0
+543,23.0,150.84,1.0,Libros,Femenino,39.9,9.6,True,2024-01-30,Criptomoneda,Sevilla,24.0,False,2.2
+475,53.0,312.23,50.0,,Masculino,8.8,5.7,True,2023-04-29,Tarjeta de débito,Barcelona,21.0,False,2.1
+434,26.0,231.97,6.0,Belleza,Masculino,42.4,1.9,False,2022-12-06,Contra reembolso,Palma,21.0,False,3.8
+82,52.0,262.1,8.0,Electrónica,No binario,31.2,7.3,False,2023-02-03,Tarjeta de crédito,Las Palmas,20.0,True,
+254,61.0,497.74,1.0,Hogar,Prefiero no decir,33.3,5.8,False,2024-04-28,Tarjeta de débito,Valencia,1.0,False,4.5
+944,72.0,274.53,2.0,Hogar,Femenino,40.5,2.1,False,2022-11-20,,Sevilla,26.0,True,4.9
+1165,76.0,224.06,6.0,Libros,No binario,,3.3,True,2023-09-20,Tarjeta de débito,Málaga,1.0,True,2.4
+243,,451.93,,Mascotas,No binario,36.4,3.2,False,2022-03-09,PayPal,Barcelona,83.0,False,
+904,42.0,329.05,1.0,Deportes,Masculino,6.9,8.0,False,2022-03-16,Tarjeta de crédito,Murcia,27.0,True,2.2
+297,37.0,485.91,6.0,Juguetes,Masculino,18.5,4.2,True,2023-09-26,PayPal,Valencia,14.0,True,2.4
+879,71.0,144.84,4.0,Juguetes,Femenino,48.1,,False,2022-03-12,Tarjeta de crédito,Zaragoza,3.0,True,3.8
+511,35.0,414.62,,Libros,No binario,49.6,2.2,True,2024-01-24,Criptomoneda,Bilbao,20.0,False,4.1
+952,24.0,302.77,4.0,Hogar,Prefiero no decir,6.2,7.8,True,2022-09-12,Efectivo,Las Palmas,30.0,True,4.1
+773,57.0,317.31,5.0,Jardín,,44.6,,False,2023-01-15,Tarjeta de débito,Valencia,28.0,True,1.1
+110,21.0,201.01,,Mascotas,Prefiero no decir,35.1,4.7,False,2023-10-11,PayPal,Barcelona,10.0,,4.2
+1161,32.0,316.97,3.0,Juguetes,No binario,49.8,9.1,True,,Tarjeta de débito,Palma,9.0,True,4.3
+673,40.0,111.79,8.0,Alimentos,No binario,37.2,9.2,True,2022-06-03,Contra reembolso,Barcelona,6.0,True,3.3
+919,18.0,155.58,4.0,Hogar,Prefiero no decir,13.0,9.6,False,2023-01-22,Tarjeta de débito,Valencia,28.0,True,1.3
+1011,35.0,337.99,9.0,Jardín,Prefiero no decir,5.3,4.2,True,2023-02-12,Contra reembolso,Zaragoza,14.0,True,3.7
+225,65.0,364.7,3.0,Alimentos,No binario,41.0,6.3,True,2024-04-02,Tarjeta de crédito,Barcelona,27.0,False,4.1
+250,,123.56,2.0,Juguetes,Masculino,,7.4,True,2023-03-11,Tarjeta de débito,Bilbao,23.0,True,4.8
+815,44.0,263.12,7.0,Jardín,Prefiero no decir,40.2,8.3,True,2023-04-28,Transferencia,Barcelona,15.0,False,3.3
+742,54.0,,7.0,Juguetes,Masculino,21.1,6.5,True,2023-01-20,Criptomoneda,Palma,14.0,False,2.8
+660,,231.56,3.0,Belleza,No binario,43.4,,False,2022-03-12,PayPal,Palma,29.0,False,2.1
+970,31.0,404.5,9.0,Belleza,Femenino,41.9,8.1,True,2024-02-04,Criptomoneda,Las Palmas,16.0,False,
+89,51.0,,1.0,Jardín,Femenino,4.0,6.1,True,2022-10-22,Transferencia,Zaragoza,14.0,True,
+614,34.0,162.21,5.0,Belleza,Masculino,13.8,5.7,,2022-02-10,Criptomoneda,Málaga,23.0,True,3.5
+1074,,313.71,,Alimentos,Prefiero no decir,39.5,2.4,True,2024-04-13,Criptomoneda,Valencia,18.0,False,3.2
+228,24.0,144.35,87.0,Alimentos,No binario,,6.7,False,2023-05-14,Efectivo,Murcia,8.0,,3.0
+560,66.0,37.67,9.0,JWrdín,Prefiero no decir,33.3,9.2,True,2023-06-13,Criptomoneda,Zaragoza,4.0,True,4.9
+1009,46.0,146.02,2.0,Hogar,No binario,0.2,4.5,False,2023-06-08,Transferencia,Madrid,7.0,True,3.7
+532,45.0,71.55,6.0,Deportes,,20.7,8.8,False,2023-04-11,Transferencia,Málaga,,,3.2
+750,40.0,42.42,7.0,Electrónica,Prefiero no decir,14.3,9.3,False,,Tarjeta de crédito,Barcelona,2.0,False,4.2
+193,24.0,21.43,10.0,Deportes,Masculino,48.9,4.5,False,2023-05-02,Contra reembolso,Bilbao,3.0,True,2.6
+991,22.0,221.64,2.0,Belleza,No binario,15.7,2.4,False,2023-11-24,Contra reembolso,Barcelona,7.0,True,3.7
+598,55.0,,4.0,Electrónica,No binario,27.4,,True,2023-05-06,Contra reembolso,,13.0,,2.7
+1101,26.0,227.88,7.0,Electrónica,No binario,19.0,2.0,True,2023-05-14,Tarjeta de crédito,Bilbao,26.0,False,4.0
+893,42.0,107.5,3.0,Alimentos,No binario,,9.4,True,,PayPal,Bilbao,,True,3.3
+63,32.0,87.06,6.0,Vibros,Prefiero no decir,31.8,7.4,False,2023-12-09,Criptomoneda,Madrid,23.0,True,3.5
+187,28.0,143.24,6.0,Mascotas,Prefiero no decir,36.3,4.1,True,2023-01-05,PayPal,Valencia,30.0,True,4.3
+1060,34.0,135.82,2.0,Ropa,No binario,2.5,3.1,True,2023-03-06,Tarjeta de débito,Málaga,9.0,False,1.4
+1136,63.0,305.33,4.0,Juguetes,Prefiero no decir,8.3,9.3,True,2023-08-14,Contra reembolso,,10.0,True,4.9
+182,102.0,39.47,2.0,Hogar,Prefiero no decir,16.9,9.8,True,2022-08-15,Transferencia,Palma,25.0,True,3.4
+939,80.0,378.35,7.0,Alimentos,Masculino,25.4,4.0,True,,Efectivo,Málaga,12.0,True,2.1
+119,45.0,142.07,7.0,Ropa,No binario,33.4,8.9,True,2023-09-10,PayPal,Valencia,21.0,False,4.7
+850,55.0,4.59,6.0,Juguetes,No binario,39.3,6.3,True,2024-03-13,PayPal,Sevilla,79.0,False,
+259,41.0,301.49,4.0,Electrónica,Prefiero no decir,31.0,9.9,True,2023-10-25,Contra reembolso,Zaragoza,3.0,True,3.5
+1155,79.0,138.08,4.0,Ropa,Prefiero no decir,40.4,3.1,False,2022-10-21,Tarjeta de crédito,Palma,2.0,True,1.0
+168,34.0,177.23,3.0,Libros,Masculino,5.8,7.0,True,2023-06-23,Transferencia,Zaragoza,2.0,True,2.4
+913,66.0,5.01,3.0,Deportes,Masculino,28.2,6.6,True,,Criptomoneda,Sevilla,16.0,True,4.0
+1125,59.0,103.64,4.0,Jardín,Prefiero no decir,,,,2023-07-25,PayPal,Palma,26.0,False,1.7
+265,8.0,440.09,2.0,Juguetes,Masculino,23.6,,True,2022-01-25,Efectivo,Málaga,28.0,False,4.6
+1143,27.0,466.69,1.0,Juguetes,No binario,44.7,7.3,False,2022-10-19,Tarjeta de débito,Madrid,,True,4.2
+64,79.0,,8.0,Electrónica,Prefiero no decir,2.1,7.7,True,2024-03-14,Tarjeta de débito,Valencia,10.0,True,1.0
+390,82.0,400.2,2.0,Libros,Prefiero no decir,2.5,8.7,True,2023-08-18,Contra reembolso,Murcia,93.0,False,4.4
+805,68.0,218.92,1.0,Deportes,No binario,43.8,7.5,True,2023-12-25,Transferencia,Las Palmas,10.0,False,2.9
+479,15.0,240.4,7.0,Hogar,Femenino,22.3,,True,,Efectivo,Valencia,7.0,False,4.7
+846,60.0,460.17,10.0,,Femenino,44.4,9.7,True,2023-06-15,PayPal,Zaragoza,1.0,True,3.5
+837,46.0,365.79,8.0,Juguetes,Prefiero no decir,10.9,4.3,True,2024-04-19,,Madrid,5.0,True,1.4
+306,68.0,8.79,9.0,Deportes,No binario,25.0,7.8,False,,PayPal,Murcia,27.0,True,2.2
+322,77.0,437.74,5.0,Belleza,Masculino,4.7,0.2,True,2023-05-01,Criptomoneda,Sevilla,1.0,True,3.2
+281,50.0,4989.3,10.0,Alimentos,Prefiero no decir,37.3,1.8,True,2022-09-22,Tarjeta de crédito,Las Palmas,8.0,False,2.0
+354,84.0,,6.0,Belleza,Femenino,,7.0,False,2022-11-09,,Málaga,21.0,False,1.3
+988,84.0,10.65,7.0,Juguetes,Prefiero no decir,11.7,9.4,,2022-04-20,,Zaragoza,8.0,False,
+144,49.0,266.06,9.0,Mascotas,Prefiero no decir,13.0,5.5,True,2022-01-06,Contra reembolso,Málaga,,False,4.1
+330,33.0,208.46,10.0,Ropa,No binario,46.3,5.1,True,2024-03-27,Transferencia,Barcelona,23.0,False,2.0
+215,83.0,371.25,2.0,Ropa,Masculino,24.5,9.6,True,2022-09-20,PayPal,Bilbao,7.0,,3.7
+452,52.0,273.14,1.0,Alimentos,Femenino,34.1,8.5,False,2022-07-21,Efectivo,Madrid,25.0,False,2.4
+821,72.0,127.43,1.0,Ajimentos,Prefiero no decir,17.9,9.8,True,2022-08-16,Contra reembolso,Madrid,2.0,False,2.7
+316,59.0,201.52,7.0,Electrónica,Femenino,10.0,1.8,False,2023-03-25,Tarjeta de crédito,Palma,1.0,True,3.4
+861,22.0,330.03,7.0,Mascotas,No binario,8.9,3.5,True,2022-09-02,Criptomoneda,Murcia,27.0,False,3.8
+455,75.0,223.02,,Ropa,No binario,48.9,3.8,True,2023-10-04,Efectivo,,3.0,True,2.5
+664,31.0,30.92,6.0,Electrónica,Prefiero no decir,31.2,,False,2022-05-16,Efectivo,Bilbao,7.0,True,1.2
+637,38.0,49.2,1.0,Belleza,Prefiero no decir,1.5,2.8,False,2023-05-09,Efectivo,Las Palmas,30.0,False,2.9
+1022,23.0,147.38,10.0,Belleza,No binario,40.1,7.5,False,2022-02-03,PayPal,Murcia,16.0,True,1.7
+556,43.0,,3.0,Deportes,,12.6,5.3,False,2023-06-14,Transferencia,Barcelona,16.0,False,4.0
+273,41.0,446.8,4.0,Jardín,No binario,49.7,7.8,True,2022-07-02,Criptomoneda,Murcia,14.0,False,4.3
+663,73.0,188.06,3.0,Deportes,Femenino,,5.8,True,2023-01-30,Criptomoneda,Murcia,26.0,False,4.8
+652,64.0,57.16,3.0,Ropa,Femenino,4.0,7.1,False,2022-09-28,Contra reembolso,Palma,28.0,False,2.6
+1070,68.0,475.95,5.0,Electrónica,Prefiero no decir,44.1,1.1,True,2022-05-15,Criptomoneda,Bilbao,18.0,,2.1
+859,60.0,284.22,2.0,Jardín,Prefiero no decir,33.2,4.5,False,2022-02-06,Efectivo,Sevilla,11.0,True,3.1
+665,45.0,384.95,4.0,Adimentos,Prefiero no decir,48.5,6.7,True,2022-04-22,Criptomoneda,Sevilla,8.0,False,1.0
+1189,64.0,407.99,8.0,Mascotas,Masculino,22.5,3.2,True,2023-04-07,Tarjeta de crédito,Murcia,18.0,True,4.7
+687,85.0,187.05,7.0,Deportes,Masculino,20.2,9.4,True,2023-05-09,Transferencia,Barcelona,24.0,False,4.4
+1139,79.0,475.99,10.0,Libros,No binario,1.1,3.7,True,2023-10-27,Tarjeta de crédito,Valencia,1.0,,2.9
+210,41.0,193.3,10.0,Ropa,Masculino,13.8,,False,2022-11-25,Tarjeta de crédito,Las Palmas,13.0,True,4.3
+1084,38.0,139.19,,Hogar,Prefiero no decir,25.4,5.7,True,2022-05-30,Efectivo,,17.0,True,4.4
+49,67.0,116.53,2.0,Hogar,Prefiero no decir,14.5,0.8,True,2022-05-29,Criptomoneda,Bilbao,30.0,True,4.7
+177,53.0,318.9,6.0,,Masculino,,9.3,True,2023-07-11,Tarjeta de crédito,Las Palmas,62.0,False,4.1
+763,55.0,133.65,2.0,Belleza,Femenino,20.4,4.7,False,,Criptomoneda,Valencia,20.0,True,3.0
+173,,179.43,10.0,Ropa,No binario,9.6,1.7,True,,Tarjeta de crédito,Valencia,17.0,True,4.2
+361,79.0,319.87,7.0,Jardín,No binario,17.7,8.6,False,2023-02-27,Contra reembolso,Valencia,23.0,True,4.6
+767,77.0,237.64,9.0,Mascotas,Prefiero no decir,34.9,1.3,True,2023-02-28,Tarjeta de débito,Valencia,11.0,False,2.9
+565,23.0,40.8,2.0,Juguetes,No binario,35.7,9.7,True,2023-05-14,Tarjeta de crédito,Madrid,21.0,False,3.1
+1099,31.0,293.55,5.0,Belleza,Femenino,14.6,9.1,False,2022-11-20,Tarjeta de débito,Valencia,27.0,True,1.8
+764,52.0,175.87,6.0,Belleza,Masculino,33.9,4.1,True,2023-02-11,Transferencia,Barcelona,13.0,False,1.8
+994,26.0,409.48,1.0,Jardín,Masculino,13.2,2.4,True,2023-09-21,Criptomoneda,Valencia,14.0,True,2.8
+1127,72.0,370.67,10.0,,Prefiero no decir,18.4,1.1,True,,Criptomoneda,Zaragoza,11.0,True,4.2
+486,7.0,435.63,9.0,Mascotas,Prefiero no decir,45.3,6.3,False,,Tarjeta de débito,Valencia,5.0,True,
+839,85.0,217.21,1.0,Belleza,Masculino,0.6,6.1,False,2023-10-18,Criptomoneda,Palma,25.0,False,1.1
+165,85.0,54.82,9.0,Deportes,Masculino,2.2,7.8,True,2024-03-13,Efectivo,Bilbao,5.0,False,3.3
+380,29.0,365.94,3.0,Hogar,Masculino,1.9,2.9,False,2023-10-23,Transferencia,Málaga,29.0,True,1.1
+279,19.0,122.53,1.0,Jardín,No binario,34.0,0.8,False,2024-04-21,Efectivo,Málaga,26.0,True,3.8
+176,76.0,489.66,3.0,Belleza,Prefiero no decir,17.9,8.3,True,2023-03-02,Efectivo,Madrid,22.0,True,
+564,72.0,,1.0,Jardín,,35.4,8.9,True,2022-12-20,Tarjeta de débito,Sevilla,18.0,True,3.0
+903,41.0,386.71,10.0,Belleza,Masculino,29.4,2.7,False,2023-07-27,Efectivo,Palma,28.0,True,4.4
+747,67.0,495.71,6.0,Jardín,Prefiero no decir,39.0,7.2,False,2022-11-20,Tarjeta de débito,Las Palmas,15.0,False,4.4
+146,79.0,445.68,4.0,Electrónica,Femenino,0.0,4.4,False,2023-04-23,Efectivo,,10.0,False,
+891,52.0,169.12,9.0,Libros,Prefiero no decir,26.0,6.9,False,2022-08-20,Transferencia,Zaragoza,3.0,True,2.7
+798,32.0,102.48,5.0,Deportes,No binario,41.5,6.1,True,2024-03-15,PayPal,Madrid,8.0,False,1.0
+680,,166.85,11.0,Ropa,No binario,14.3,6.7,True,2022-02-09,Tarjeta de débito,Madrid,10.0,True,3.8
+41,13.0,103.06,4.0,Jardín,No binario,42.8,3.3,True,2022-10-20,Contra reembolso,Madrid,22.0,True,4.5
+704,70.0,234.73,8.0,Deportes,Prefiero no decir,25.2,9.3,True,,Efectivo,Palma,21.0,False,3.1
+474,21.0,286.84,6.0,Deportes,Prefiero no decir,50.0,1.1,True,2023-07-07,PayPal,Madrid,4.0,False,1.9
+1111,77.0,50.85,8.0,Mascotas,Prefiero no decir,2.0,2.0,False,2022-03-03,Contra reembolso,Murcia,3.0,True,2.2
+382,52.0,423.57,7.0,Libros,Prefiero no decir,33.7,9.6,True,2022-03-16,Tarjeta de débito,Las Palmas,13.0,True,2.6
+583,51.0,164.14,4.0,Jardín,Prefiero no decir,34.3,,True,2023-01-06,Contra reembolso,Bilbao,23.0,,2.4
+295,53.0,74.31,7.0,Mascotas,No binario,23.0,5.2,False,2023-10-19,Tarjeta de crédito,Barcelona,24.0,False,4.6
+754,30.0,74.7,2.0,Mascotas,Prefiero no decir,21.9,4.1,True,2023-08-23,Criptomoneda,Málaga,16.0,True,3.4
+124,74.0,447.52,10.0,Electrónica,Femenino,41.0,7.3,True,,Tarjeta de crédito,Barcelona,12.0,False,3.3
+683,42.0,358.04,9.0,Ropa,Masculino,14.2,,True,2023-05-31,Transferencia,Las Palmas,11.0,False,1.4
+1187,22.0,1.76,8.0,,Femenino,21.8,9.0,True,2023-08-25,Contra reembolso,Barcelona,6.0,,2.6
+328,57.0,200.32,6.0,Libros,Femenino,13.1,5.0,True,2023-02-05,Criptomoneda,Málaga,17.0,False,1.1
+135,20.0,492.13,,Juguetes,No binario,6.0,9.0,True,2022-02-11,Transferencia,Bilbao,12.0,True,2.2
+922,73.0,,5.0,Mascotas,Prefiero no decir,9.4,2.9,False,2024-02-28,Tarjeta de crédito,Málaga,26.0,True,2.3
+967,,365.85,1.0,Deportes,Masculino,37.3,8.9,True,2023-08-11,PayPal,Bilbao,3.0,True,
+599,81.0,,2.0,Jardín,Prefiero no decir,32.5,5.1,True,2022-08-04,Efectivo,Madrid,27.0,True,2.4
+809,68.0,4814.0,9.0,Ropa,Prefiero no decir,26.5,4.9,True,2023-10-14,Tarjeta de débito,Sevilla,1.0,True,3.0
+906,50.0,438.56,,Ropa,Masculino,27.6,7.5,False,2022-10-29,Efectivo,Las Palmas,10.0,True,1.2
+876,74.0,292.14,8.0,Electrónica,No binario,25.9,0.8,False,2022-01-16,Criptomoneda,Zaragoza,21.0,True,3.9
+701,73.0,267.81,6.0,Libros,Femenino,3.0,6.3,True,2022-02-14,PayPal,Sevilla,28.0,False,1.4
+973,24.0,171.13,7.0,Alimentos,Femenino,20.1,7.1,False,2023-05-26,PayPal,Sevilla,26.0,True,3.0
+698,43.0,209.75,3.0,Hogar,Femenino,31.8,9.2,True,2023-06-19,PayPal,Madrid,16.0,True,2.7
+644,22.0,87.64,6.0,Mascotas,Masculino,36.9,0.5,True,2024-03-24,Tarjeta de crédito,Barcelona,29.0,True,2.5
+716,53.0,404.54,3.0,Jardín,Femenino,34.8,9.5,True,2023-12-15,Efectivo,Sevilla,,True,1.9
+408,53.0,17.6,9.0,Libros,No binario,19.2,7.2,False,2023-11-07,Criptomoneda,Madrid,30.0,False,3.7
+31,20.0,481.88,10.0,,Femenino,9.1,,True,2023-07-30,Tarjeta de débito,Sevilla,24.0,False,4.1
+890,58.0,97.14,6.0,Mascotas,Femenino,28.0,0.3,True,2022-10-11,Contra reembolso,,4.0,True,4.0
+1081,29.0,354.78,5.0,Ropa,Prefiero no decir,20.7,8.7,True,2023-03-19,Contra reembolso,Valencia,22.0,False,1.8
+96,52.0,251.42,,,Masculino,27.1,3.5,True,2024-03-18,PayPal,Málaga,,False,4.3
+98,64.0,330.11,5.0,Alimentos,Masculino,7.4,3.6,True,2022-11-17,Tarjeta de crédito,Valencia,98.0,False,4.9
+105,32.0,147.13,4.0,Electrónica,No binario,,,True,2023-09-28,Contra reembolso,Bilbao,6.0,False,1.9
+371,36.0,10.79,3.0,Juguetes,Femenino,9.4,7.6,True,2022-04-28,Efectivo,Madrid,29.0,True,2.0
+325,23.0,496.44,3.0,Alimentos,No binario,0.1,6.3,True,2022-08-14,Efectivo,Bilbao,7.0,False,2.8
+147,75.0,45.82,2.0,Jardín,Prefiero no decir,48.2,5.4,,2023-12-28,Efectivo,Madrid,17.0,True,4.9
+591,74.0,65.85,1.0,Ropa,,17.8,7.3,False,2024-04-10,Transferencia,Bilbao,3.0,False,3.5
+1029,43.0,38.83,9.0,Belleza,Prefiero no decir,,9.1,False,2023-04-14,Tarjeta de crédito,Barcelona,16.0,False,2.0
+1064,59.0,147.29,4.0,Ropa,Femenino,15.3,8.8,False,2023-01-09,Tarjeta de crédito,Murcia,4.0,True,4.9
+109,69.0,399.97,6.0,Mascotas,No binario,12.9,4.8,True,2022-08-19,Efectivo,Málaga,13.0,False,4.0
+452,52.0,273.14,1.0,Alimentos,Femenino,34.1,8.5,False,2022-07-21,Efectivo,Madrid,25.0,False,2.4
+645,29.0,357.96,3.0,Electrónica,No binario,31.4,4.1,False,2023-08-20,Criptomoneda,,15.0,False,
+666,19.0,205.79,7.0,Deportes,No binario,27.9,1.3,False,2022-01-17,Criptomoneda,Valencia,19.0,True,3.4
+873,38.0,475.48,9.0,Electrónica,No binario,50.0,6.6,True,2023-08-24,Contra reembolso,Valencia,11.0,True,2.1
+812,32.0,,6.0,Belleza,No binario,34.1,9.4,True,2022-04-04,Transferencia,Bilbao,5.0,False,1.7
+129,47.0,46.31,10.0,Hogar,Femenino,4.2,2.9,False,2022-07-11,Contra reembolso,Palma,26.0,True,2.9
+457,24.0,133.37,8.0,Ropa,Femenino,13.4,1.5,True,,Criptomoneda,Madrid,15.0,False,3.0
+1160,70.0,229.9,5.0,Jardín,Masculino,45.8,2.5,True,2023-10-18,Efectivo,Barcelona,20.0,True,4.8
+496,50.0,490.59,5.0,Libros,Masculino,9.6,6.2,True,2022-09-02,Transferencia,Málaga,2.0,False,
+577,79.0,120.03,10.0,Ropa,,1.6,,False,2023-10-21,Tarjeta de crédito,Valencia,19.0,,1.2
+1119,118.0,296.78,7.0,Juguetes,Masculino,44.8,3.5,True,2024-02-02,Efectivo,Murcia,12.0,False,3.0
+1050,,261.76,,wopa,Prefiero no decir,,1.1,True,2022-08-31,Tarjeta de débito,Málaga,18.0,True,4.2
+654,80.0,323.85,,Ropa,No binario,42.9,8.1,True,2024-01-12,Efectivo,Zaragoza,3.0,True,1.6
+791,56.0,29.74,7.0,Ropa,Prefiero no decir,46.6,4.3,True,2024-03-12,Contra reembolso,Valencia,10.0,False,2.8
+461,59.0,138.77,7.0,Alimentos,No binario,20.7,,False,2023-10-09,Tarjeta de débito,Bilbao,12.0,True,1.5
+155,19.0,238.23,,Ropa,No binario,48.0,0.7,False,,Tarjeta de débito,Barcelona,,False,3.7
+508,36.0,433.46,4.0,Jardín,Masculino,,7.1,True,,Efectivo,Murcia,112.0,True,3.3
+736,29.0,154.94,4.0,Jardín,,30.3,6.2,False,2022-01-08,Efectivo,Málaga,6.0,True,3.4
+1072,36.0,,3.0,Electrónica,Prefiero no decir,35.5,7.8,True,2023-12-04,Efectivo,Valencia,19.0,False,4.1
+566,22.0,477.78,8.0,Juguetes,Prefiero no decir,12.6,0.5,False,2024-03-22,Tarjeta de débito,Madrid,6.0,False,
+239,25.0,152.13,10.0,Electrónica,,45.7,6.7,True,2023-07-05,Criptomoneda,Zaragoza,29.0,False,1.0
+115,53.0,397.66,8.0,Juguetes,No binario,47.7,1.1,False,2024-02-13,Efectivo,Bilbao,24.0,False,4.0
+207,41.0,232.88,4.0,Ropa,Femenino,13.9,8.8,True,2022-09-07,Contra reembolso,Málaga,22.0,False,
+1013,58.0,128.98,2.0,Libros,Prefiero no decir,24.1,2.3,True,2024-02-08,PayPal,Murcia,12.0,False,1.1
+249,21.0,,7.0,Juguetes,Femenino,43.3,8.1,True,2023-12-03,Contra reembolso,Valencia,18.0,False,4.7
+924,49.0,483.59,3.0,Mascotas,Masculino,4.9,7.4,True,2024-02-15,Contra reembolso,Madrid,22.0,False,1.4
+46,64.0,178.01,4.0,Deportes,Femenino,15.3,4.9,False,2022-04-20,Contra reembolso,Madrid,7.0,True,2.0
+1168,60.0,36.68,5.0,Mascotas,Femenino,46.6,4.5,True,2022-03-15,Criptomoneda,Zaragoza,23.0,False,1.7
+520,33.0,447.08,6.0,Belleza,No binario,28.1,8.1,False,2022-03-06,Tarjeta de crédito,Palma,29.0,,3.9
+884,64.0,212.63,6.0,Libros,No binario,3.2,7.6,True,2024-04-29,Efectivo,Bilbao,107.0,True,2.7
+307,42.0,113.44,10.0,Jardín,Prefiero no decir,5.5,8.4,True,2022-04-19,Tarjeta de débito,Madrid,21.0,True,2.4
+39,31.0,131.98,9.0,Alimentos,Masculino,19.1,7.9,True,2024-02-05,Tarjeta de débito,Málaga,29.0,False,5.0
+360,64.0,10.01,10.0,Deportes,No binario,8.0,5.2,True,2022-08-05,Transferencia,Murcia,6.0,True,1.3
+1120,21.0,308.58,1.0,Libros,Masculino,20.2,7.6,False,2022-12-09,Criptomoneda,Valencia,15.0,True,2.2
+1004,,201.29,1.0,,Masculino,1.5,9.5,False,2023-08-12,Tarjeta de crédito,Zaragoza,120.0,False,4.5
+103,44.0,105.86,7.0,Mascotas,No binario,48.2,4.0,False,2022-09-15,Criptomoneda,Las Palmas,30.0,False,1.7
+205,20.0,59.94,4.0,Alimentos,Masculino,33.6,0.5,True,2023-09-21,Contra reembolso,Madrid,,False,1.3
+332,47.0,358.45,10.0,Hogar,Prefiero no decir,15.8,3.3,True,2022-10-30,PayPal,Madrid,9.0,False,4.0
+800,34.0,497.44,3.0,Juguetes,Femenino,30.4,0.2,False,2024-03-31,Tarjeta de débito,Sevilla,12.0,False,2.9
+277,83.0,297.89,4.0,Libros,No binario,36.2,1.6,True,2022-03-14,Tarjeta de crédito,Sevilla,6.0,False,1.5
+97,82.0,57.21,1.0,Hogar,No binario,48.4,8.1,True,2023-12-03,,Palma,12.0,False,3.3
+1016,34.0,417.25,4.0,Jardín,Masculino,23.9,2.3,True,2022-02-25,Transferencia,Palma,12.0,False,2.6
+1031,63.0,146.45,8.0,Alimentos,Masculino,13.7,4.3,True,,Contra reembolso,Valencia,8.0,True,3.5
+276,40.0,317.5,3.0,Juguetes,No binario,8.7,0.1,True,2023-07-26,Contra reembolso,Zaragoza,15.0,False,3.9
+615,34.0,5.07,10.0,Hogar,Prefiero no decir,3.3,7.4,False,2023-08-10,Criptomoneda,Sevilla,30.0,True,2.1
+1158,65.0,334.9,4.0,Mascotas,Prefiero no decir,22.7,1.1,True,2022-05-29,PayPal,Sevilla,12.0,True,
+274,49.0,224.47,9.0,Deportes,No binario,8.7,5.6,True,2024-03-24,Efectivo,Málaga,28.0,False,4.7
+1056,79.0,353.75,2.0,Mascotas,,25.6,5.6,True,2022-07-08,Tarjeta de débito,Madrid,8.0,False,2.6
+126,45.0,80.29,4.0,Mascotas,Prefiero no decir,,8.7,True,2022-07-01,Tarjeta de débito,Palma,27.0,True,1.1
+166,72.0,123.74,4.0,Electrónica,Prefiero no decir,14.5,0.2,False,,Tarjeta de crédito,,21.0,True,4.7
+610,46.0,71.25,5.0,Juguetes,Masculino,13.4,2.7,,2022-06-14,Transferencia,Murcia,15.0,False,4.4
+289,42.0,318.88,10.0,Jardín,No binario,3.1,7.3,True,2022-01-18,Transferencia,Barcelona,22.0,False,2.3
+306,68.0,8.79,9.0,Deportes,No binario,25.0,7.8,False,,PayPal,Murcia,27.0,True,2.2
+333,36.0,305.91,4.0,Libros,Masculino,39.4,0.7,True,2023-10-12,Transferencia,Las Palmas,24.0,True,4.7
+576,21.0,151.17,7.0,Jardín,Femenino,4.7,8.9,True,2023-06-11,Contra reembolso,Las Palmas,18.0,True,3.4
+983,18.0,394.17,2.0,Belleza,Femenino,31.5,3.3,True,2022-09-13,Tarjeta de débito,Zaragoza,26.0,True,4.8
+507,53.0,290.75,2.0,Mascotas,Femenino,32.3,,,2023-08-03,Criptomoneda,Valencia,7.0,False,4.5
+653,73.0,392.0,6.0,Alimentos,Masculino,,,True,2022-06-21,Tarjeta de débito,Zaragoza,25.0,False,2.7
+373,18.0,151.05,8.0,Hogar,Prefiero no decir,4.6,8.3,True,2023-11-19,Tarjeta de débito,Madrid,26.0,False,
+288,67.0,255.6,2.0,Libros,No binario,44.4,1.9,False,2022-11-20,Tarjeta de crédito,Murcia,13.0,False,1.3
+214,35.0,25.8,7.0,Deportes,Masculino,11.9,3.4,True,2023-01-31,Efectivo,Zaragoza,14.0,False,2.0
+23,32.0,453.69,51.0,Libros,Prefiero no decir,24.3,2.8,True,2023-07-10,,Murcia,13.0,,3.4
+918,66.0,116.93,1.0,Belleza,Prefiero no decir,34.4,5.6,True,2023-03-30,Efectivo,Las Palmas,30.0,False,2.1
+963,52.0,358.59,7.0,Deportes,Femenino,14.4,5.3,False,2023-05-03,Contra reembolso,Málaga,,True,1.7
+451,22.0,279.09,9.0,Alimentos,No binario,15.8,2.7,,2023-07-06,Tarjeta de débito,Bilbao,105.0,False,1.3
+955,74.0,380.71,5.0,Libros,Femenino,42.6,6.1,True,2023-02-13,Tarjeta de crédito,Murcia,26.0,False,2.6
+657,43.0,478.62,4.0,Ropa,No binario,16.3,3.9,True,2023-04-10,PayPal,Madrid,20.0,True,3.5
+534,81.0,182.56,8.0,Deportes,,37.4,6.0,True,2022-02-10,Contra reembolso,Bilbao,,True,4.2
+347,65.0,230.84,7.0,Mascotas,No binario,40.5,6.5,True,2022-01-06,Criptomoneda,Madrid,17.0,True,1.4
+705,39.0,481.93,,Electrónica,Prefiero no decir,33.1,6.3,True,2022-08-23,Efectivo,Valencia,11.0,False,
+6,20.0,330.19,1.0,Alimentos,Masculino,45.6,4.1,True,2024-01-25,Tarjeta de crédito,Las Palmas,2.0,False,4.1
+493,80.0,472.3,2.0,Jardín,No binario,3.0,7.3,True,2023-05-30,Criptomoneda,Valencia,4.0,False,3.4
+989,29.0,353.33,3.0,Hogar,Femenino,10.0,1.5,True,2022-05-03,PayPal,Valencia,6.0,True,4.6
+1182,,133.82,5.0,Hogar,Prefiero no decir,27.8,,True,2022-10-05,PayPal,Zaragoza,30.0,True,4.7
+950,49.0,26.0,6.0,Juguetes,Prefiero no decir,3.0,2.1,,2023-12-19,Tarjeta de débito,Murcia,12.0,False,4.4
+1028,34.0,205.24,6.0,Alimentos,Prefiero no decir,38.1,9.5,False,2022-06-28,Criptomoneda,,6.0,True,2.0
+110,21.0,201.01,,Mascotas,Prefiero no decir,35.1,4.7,False,2023-10-11,PayPal,Barcelona,10.0,,4.2
+441,70.0,,2.0,Hogar,Femenino,28.1,5.5,True,2023-05-14,,Zaragoza,19.0,False,2.9
+1102,65.0,,4.0,Belleza,Masculino,17.7,1.3,True,2022-11-04,Efectivo,Zaragoza,8.0,True,3.6
+1112,62.0,375.45,7.0,Ropa,Masculino,40.2,3.3,True,2022-08-09,,Palma,28.0,False,3.0
+1198,20.0,180.13,10.0,Juguetes,Prefiero no decir,11.1,,True,2022-09-15,Criptomoneda,Las Palmas,30.0,True,2.2
+174,20.0,421.52,,Deportes,Prefiero no decir,23.7,3.2,False,2023-06-02,Efectivo,Bilbao,14.0,False,4.2
+118,76.0,453.54,,Libros,Prefiero no decir,40.9,8.1,True,2024-01-27,Tarjeta de débito,Bilbao,18.0,True,2.6
+689,84.0,60.2,,Hogar,Prefiero no decir,9.5,9.8,True,2022-05-14,Tarjeta de débito,Bilbao,,False,1.8
+760,,319.8,2.0,Jardín,Femenino,22.8,2.1,True,2023-01-10,Efectivo,Sevilla,19.0,True,2.3
+1012,59.0,0.8,1.0,Ropa,Femenino,42.1,8.5,False,2022-08-16,Transferencia,Zaragoza,14.0,True,2.0
+222,50.0,403.43,4.0,Belleza,Masculino,40.9,3.5,True,2024-02-28,PayPal,Valencia,19.0,False,4.8
+337,,411.49,2.0,Belleza,,12.2,5.2,False,2024-03-25,Contra reembolso,Bilbao,26.0,,3.7
+796,40.0,124.78,9.0,Ropa,No binario,43.7,7.5,False,2023-06-05,Efectivo,Zaragoza,7.0,False,2.5
+954,82.0,1264.75,6.0,Juguetes,Masculino,14.5,0.6,True,2022-04-06,Efectivo,Murcia,20.0,,3.0
+755,57.0,313.09,48.0,Belleza,Prefiero no decir,40.9,1.3,False,2022-09-17,Tarjeta de crédito,Valencia,10.0,True,4.3
+381,67.0,327.88,8.0,Libros,No binario,,9.8,,2023-07-17,PayPal,Murcia,,False,3.7
+112,32.0,268.85,2.0,Juguetes,Masculino,2.5,1.4,True,2023-12-28,PayPal,Sevilla,29.0,False,3.3
+1045,53.0,2.49,5.0,Mascotas,Femenino,43.3,9.9,True,2023-09-20,Efectivo,Málaga,12.0,True,4.9
+203,36.0,337.01,6.0,Mascotas,Masculino,4.1,9.9,False,2022-09-04,Efectivo,Barcelona,12.0,False,3.7
+882,32.0,473.5,8.0,Alimentos,No binario,45.8,10.0,False,2022-10-19,Tarjeta de débito,Las Palmas,30.0,False,2.0
+609,22.0,145.72,3.0,Belleza,Femenino,5.6,5.0,False,2023-08-30,Tarjeta de crédito,Valencia,3.0,True,4.8
+301,31.0,307.34,6.0,Alimentos,No binario,44.1,3.6,,2023-08-23,Contra reembolso,Las Palmas,27.0,,1.1
+731,22.0,449.79,9.0,Juguetes,No binario,40.9,2.5,True,2022-07-13,Tarjeta de crédito,Las Palmas,19.0,False,2.3
+100,18.0,193.31,1.0,Hogar,Masculino,9.1,9.6,True,2022-02-25,,Las Palmas,50.0,False,3.9
+355,43.0,471.15,5.0,Ropa,Masculino,24.7,2.2,True,2022-08-04,Tarjeta de débito,Málaga,7.0,True,2.2
+648,66.0,381.71,2.0,Alimentos,Prefiero no decir,33.8,5.7,False,2022-07-06,Tarjeta de crédito,Málaga,29.0,True,3.7
+943,46.0,43.84,3.0,Ropa,Femenino,29.9,7.2,True,2024-03-30,Tarjeta de crédito,Bilbao,16.0,True,3.1
+1148,66.0,,7.0,Hogar,No binario,35.0,3.4,True,2023-05-15,Tarjeta de crédito,Zaragoza,12.0,False,3.3
+761,32.0,197.14,9.0,,Prefiero no decir,30.5,9.1,True,2023-09-19,Contra reembolso,Las Palmas,5.0,False,3.6
+362,33.0,457.08,10.0,Belleza,Masculino,21.0,0.1,True,2023-10-24,Criptomoneda,Sevilla,1.0,True,4.6
+1116,114.0,220.03,9.0,Mascotas,Prefiero no decir,17.4,7.0,True,2023-10-07,Criptomoneda,Barcelona,18.0,False,3.7
+384,50.0,217.82,9.0,Jardín,Prefiero no decir,44.1,10.0,True,2023-11-19,Tarjeta de crédito,Las Palmas,28.0,False,4.5
+743,28.0,33.63,2.0,Hogar,Masculino,10.0,0.7,False,,PayPal,Valencia,19.0,True,3.9
+131,79.0,,1.0,Alimentos,,38.1,4.4,False,2024-01-23,Criptomoneda,Sevilla,1.0,True,2.1
+209,50.0,275.59,7.0,Electrónica,Prefiero no decir,24.9,8.2,False,2023-11-30,Contra reembolso,Valencia,,False,4.6
+690,35.0,260.35,7.0,Belleza,,40.9,5.3,True,2023-09-10,Tarjeta de crédito,Murcia,4.0,False,2.8
+1043,106.0,376.72,1.0,Hogar,Femenino,4.9,5.9,True,,Criptomoneda,Madrid,21.0,False,1.7
+366,40.0,64.68,10.0,,Femenino,11.1,4.5,True,2022-07-08,Tarjeta de crédito,Málaga,12.0,,1.7
+231,50.0,,10.0,Deportes,Femenino,,,True,2023-10-30,,Sevilla,24.0,True,2.7
+504,78.0,196.34,,Ropa,Prefiero no decir,5.3,7.3,False,2023-04-02,Criptomoneda,Bilbao,24.0,False,3.7
+476,48.0,104.65,3.0,Libros,Masculino,0.5,5.0,True,2023-11-01,Tarjeta de débito,Las Palmas,21.0,True,2.2
+792,,422.61,2.0,Libros,Femenino,19.7,9.8,,2023-12-18,Criptomoneda,Murcia,22.0,False,3.6
+651,43.0,152.54,5.0,Hogar,No binario,36.8,4.2,False,2023-06-08,PayPal,Las Palmas,11.0,False,3.9
+853,64.0,459.62,2.0,Hogar,Femenino,42.9,1.0,True,2023-06-13,,Sevilla,17.0,False,3.9
+774,81.0,226.6,9.0,Libros,Femenino,,1.2,True,2023-07-27,Contra reembolso,Barcelona,19.0,True,3.3
+1001,26.0,2079.79,2.0,Libros,Prefiero no decir,9.0,7.3,False,2023-09-28,Criptomoneda,,9.0,False,3.5
+581,56.0,205.53,2.0,Deportes,No binario,36.1,1.1,True,2022-07-11,Tarjeta de crédito,Barcelona,17.0,False,2.8
+573,18.0,29.86,10.0,Alimentos,No binario,14.4,6.9,False,2022-06-19,Tarjeta de débito,Barcelona,20.0,True,4.1
+1109,48.0,9.12,6.0,Hogar,Femenino,23.6,9.9,True,2023-12-09,PayPal,Valencia,21.0,True,2.9
+617,23.0,28.19,9.0,,,11.9,8.8,True,2022-02-27,Transferencia,Barcelona,8.0,True,3.4
+441,70.0,,2.0,Hogar,Femenino,28.1,5.5,True,2023-05-14,,Zaragoza,19.0,False,2.9
+83,50.0,106.42,3.0,Juguetes,,6.7,2.9,False,2022-09-01,Criptomoneda,Zaragoza,7.0,False,
+607,47.0,139.35,9.0,Belleza,Masculino,20.3,5.6,True,2022-05-11,Tarjeta de débito,Las Palmas,22.0,True,4.2
+183,50.0,91.57,3.0,Ropa,Masculino,2.8,9.2,False,2022-08-07,Contra reembolso,Zaragoza,15.0,False,
+389,84.0,219.04,5.0,Libros,Masculino,45.2,,True,2024-01-14,Tarjeta de crédito,Palma,13.0,False,2.7
+554,66.0,308.73,3.0,Libros,Prefiero no decir,9.0,5.8,True,2023-11-01,,Madrid,9.0,False,2.1
+199,29.0,395.28,8.0,Hogar,Prefiero no decir,,0.7,True,2022-04-28,PayPal,Valencia,13.0,True,4.8
+305,80.0,7.73,5.0,Hogar,Prefiero no decir,25.4,5.0,False,2023-01-02,Contra reembolso,Zaragoza,30.0,False,3.6
+619,83.0,354.95,7.0,Hogar,Femenino,22.2,1.3,True,2022-09-22,Tarjeta de débito,Bilbao,25.0,False,3.6
+924,49.0,483.59,3.0,Mascotas,Masculino,4.9,7.4,True,2024-02-15,Contra reembolso,Madrid,22.0,False,1.4
+546,83.0,417.9,3.0,Alimentos,Femenino,6.9,0.9,True,2023-07-12,Tarjeta de crédito,Palma,11.0,False,3.5
+79,,86.53,5.0,Electrónica,Masculino,6.1,5.8,True,2024-01-31,Efectivo,,26.0,False,4.9
+1047,,218.85,8.0,Electrónica,No binario,42.5,9.8,True,2022-07-11,Tarjeta de crédito,Valencia,27.0,True,1.2
+1151,31.0,188.7,4.0,Hogar,Prefiero no decir,,9.8,False,2023-04-03,Contra reembolso,,4.0,True,1.2
+18,39.0,389.47,1.0,,No binario,4.1,0.4,False,2022-05-16,Tarjeta de crédito,Las Palmas,29.0,False,2.9
+466,22.0,73.9,5.0,Mascotas,No binario,,7.7,False,2023-02-19,PayPal,Barcelona,6.0,True,2.3
+885,70.0,3.02,,Mascotas,Femenino,29.9,5.9,False,2023-07-27,,Valencia,64.0,False,2.8
+319,77.0,61.35,2.0,BWlleza,Prefiero no decir,31.9,7.4,True,2024-04-21,PayPal,Las Palmas,8.0,True,1.8
+251,81.0,398.32,6.0,Libros,No binario,36.4,6.6,True,2022-04-17,Efectivo,Zaragoza,12.0,True,1.8
+681,34.0,324.19,2.0,Hogar,No binario,27.7,9.6,True,2024-03-13,PayPal,Sevilla,27.0,True,4.8
+930,33.0,154.95,,Electrónica,Masculino,40.9,0.6,True,2023-08-24,PayPal,Málaga,14.0,True,2.0
+350,78.0,212.38,7.0,Mascotas,No binario,8.8,5.3,False,2023-02-08,Tarjeta de crédito,Las Palmas,14.0,True,2.9
+666,19.0,211.17,7.0,Deportes,No binario,27.9,1.3,False,2022-01-17,Criptomoneda,Valencia,19.0,True,3.4
+1054,53.0,204.78,10.0,Jardín,Prefiero no decir,43.1,5.2,True,2022-12-18,Efectivo,Sevilla,,True,4.1
+571,54.0,398.29,22.0,Alimentos,No binario,31.1,1.2,True,2022-05-23,PayPal,Sevilla,5.0,True,3.5
+996,61.0,483.68,6.0,Mascotas,Prefiero no decir,36.6,7.2,True,2024-02-22,PayPal,Sevilla,24.0,False,2.2
+987,19.0,420.3,,Libros,Masculino,40.7,4.0,True,2024-03-08,Criptomoneda,Zaragoza,12.0,True,4.1
+878,80.0,380.59,6.0,Juguetes,Masculino,8.7,7.8,False,2023-12-22,Transferencia,Sevilla,28.0,True,3.0
+776,77.0,473.62,4.0,Alimentos,Femenino,21.9,2.5,False,,Transferencia,Bilbao,22.0,False,1.0
+212,55.0,59.81,9.0,Libros,Femenino,3.8,9.5,True,2024-03-26,Contra reembolso,Murcia,12.0,False,3.8
+111,40.0,457.97,6.0,Jardín,Femenino,0.7,1.8,True,2023-12-23,Criptomoneda,Murcia,18.0,True,4.9
+982,19.0,84.34,8.0,Hogar,Prefiero no decir,49.6,6.4,True,2022-07-27,Criptomoneda,Málaga,1.0,True,1.5
+911,43.0,68.29,8.0,Deportes,Masculino,47.1,8.4,True,2022-09-21,Transferencia,Málaga,25.0,False,1.3
+945,20.0,356.11,10.0,Electrónica,No binario,40.0,2.5,True,2023-02-27,Contra reembolso,Barcelona,5.0,False,
+430,66.0,197.05,7.0,,,25.2,6.8,False,2023-01-04,Tarjeta de débito,Bilbao,27.0,False,4.9
+1122,30.0,124.8,9.0,Jardín,No binario,35.3,6.9,True,2023-01-05,PayPal,Zaragoza,5.0,False,3.6
+481,36.0,117.74,5.0,Alimentos,No binario,47.8,5.4,True,2022-08-17,Efectivo,Zaragoza,21.0,False,4.8
+538,50.0,,3.0,Electrónica,Prefiero no decir,6.3,4.7,False,2023-12-22,Transferencia,Barcelona,21.0,False,2.7
+194,33.0,155.45,6.0,Juguetes,No binario,38.7,9.0,True,2023-07-29,Contra reembolso,Las Palmas,7.0,True,3.5
+946,49.0,87.82,2.0,Deportes,Masculino,46.6,3.4,True,2022-12-28,Tarjeta de crédito,Madrid,9.0,True,1.1
+252,66.0,22.85,4.0,Mascotas,No binario,5.8,2.4,True,2022-07-30,Tarjeta de crédito,Las Palmas,6.0,False,2.2
+633,67.0,219.74,9.0,Mascotas,Femenino,17.4,0.2,True,2022-08-10,PayPal,Bilbao,1.0,True,1.6
+226,37.0,155.85,4.0,Alimentos,Prefiero no decir,21.4,2.9,True,2023-06-05,Criptomoneda,Murcia,4.0,True,3.8
+548,73.0,2005.66,4.0,Belleza,Femenino,29.3,3.5,False,2022-06-28,Transferencia,Valencia,21.0,,2.3
+667,43.0,411.98,3.0,Deportes,Masculino,16.8,8.1,False,2022-07-27,Tarjeta de débito,Palma,22.0,False,2.1
+895,19.0,39.16,4.0,Mascotas,Prefiero no decir,25.6,0.8,True,2023-02-18,PayPal,Valencia,15.0,False,3.4
+201,49.0,,9.0,Jardín,Prefiero no decir,43.9,4.3,True,,Criptomoneda,Murcia,19.0,,
+725,83.0,5.67,10.0,Juguetes,Prefiero no decir,27.5,8.0,True,,Tarjeta de débito,Valencia,19.0,False,2.0
+43,77.0,234.65,2.0,,Femenino,31.6,7.0,False,2024-04-07,Contra reembolso,Zaragoza,18.0,False,2.6
+1177,21.0,463.92,9.0,Alimentos,Femenino,23.4,2.0,True,2023-12-29,Tarjeta de crédito,Zaragoza,18.0,True,4.0
+788,59.0,87.05,95.0,Alimentos,Femenino,39.8,4.0,False,2024-02-05,Tarjeta de crédito,Las Palmas,2.0,False,1.8
+1067,52.0,303.8,8.0,Deportes,Femenino,0.2,0.4,,2023-04-07,PayPal,Palma,25.0,False,4.4
+7,39.0,478.52,6.0,Hogar,No binario,35.1,4.6,True,2023-07-21,Tarjeta de crédito,,13.0,False,3.3
+1191,26.0,59.66,7.0,Electrónica,Femenino,19.4,6.0,,2022-06-21,PayPal,Murcia,23.0,True,4.6
+888,6.0,106.32,7.0,Ropa,Femenino,48.6,9.0,True,2022-12-22,Tarjeta de débito,Murcia,25.0,True,1.3
+352,80.0,40.15,10.0,Libros,Femenino,3.5,0.6,True,2023-07-15,Tarjeta de débito,Zaragoza,21.0,,4.3
+686,42.0,147.27,2.0,Mascotas,Femenino,30.4,5.8,True,2022-04-06,Transferencia,Málaga,27.0,True,3.5
+93,79.0,234.65,5.0,Hogar,Prefiero no decir,10.8,2.8,True,2023-01-26,Tarjeta de débito,Bilbao,19.0,False,4.1
+283,60.0,246.4,9.0,Libros,Prefiero no decir,33.3,7.1,True,2023-02-02,Criptomoneda,Palma,27.0,True,4.0
+1088,76.0,57.42,1.0,Juguetes,Femenino,43.5,9.4,False,2023-04-30,Efectivo,Palma,14.0,True,5.0
+1048,71.0,490.28,10.0,Juguetes,No binario,43.9,0.3,True,2023-07-16,Transferencia,Murcia,6.0,True,4.8
+403,51.0,218.11,9.0,Mascotas,No binario,42.5,0.1,True,2022-11-22,Contra reembolso,Málaga,8.0,True,1.1
+831,69.0,463.47,4.0,Ropa,Prefiero no decir,,2.9,False,2023-06-18,Efectivo,Madrid,8.0,True,2.6
+24,79.0,2495.66,6.0,Alimentos,Prefiero no decir,46.7,9.7,True,2023-12-12,PayPal,Palma,12.0,False,1.1
+1082,79.0,306.95,89.0,Libros,No binario,14.6,1.3,,2023-01-26,Tarjeta de débito,Zaragoza,13.0,True,1.8
+947,27.0,391.41,1.0,Belleza,Masculino,38.5,5.9,False,2023-06-13,Transferencia,Murcia,14.0,True,3.4
+47,,61.48,8.0,Belleza,Prefiero no decir,48.1,7.8,True,2022-01-26,Criptomoneda,Sevilla,10.0,,3.9
+972,65.0,175.94,2.0,Ropa,Masculino,25.4,4.7,True,2022-07-14,Contra reembolso,Las Palmas,6.0,True,2.1
+732,43.0,392.68,1.0,,Masculino,45.0,5.1,True,2022-01-06,Transferencia,Las Palmas,73.0,False,3.2
+471,82.0,496.95,8.0,,,20.7,2.4,False,2023-07-19,Criptomoneda,Bilbao,8.0,False,1.9
+799,42.0,475.96,4.0,Libros,No binario,28.6,8.7,True,2022-12-13,Criptomoneda,Palma,20.0,False,3.7
+1092,49.0,442.08,1.0,Belleza,Prefiero no decir,42.5,1.1,True,2023-03-08,,,5.0,False,4.3
+585,20.0,4.31,,Deportes,,34.6,7.3,True,2024-01-05,PayPal,Murcia,2.0,True,1.5
+377,,65.89,4.0,Libros,Prefiero no decir,16.4,6.8,True,2024-02-09,Efectivo,Valencia,21.0,False,4.3
+847,111.0,496.66,1.0,Hogar,Femenino,37.3,0.4,False,2022-10-20,Efectivo,Málaga,30.0,True,2.6
+263,80.0,,1.0,Jardín,Masculino,42.5,9.6,True,2023-12-04,PayPal,Palma,26.0,True,1.1
+752,61.0,116.56,3.0,,Prefiero no decir,17.3,4.4,True,2023-03-13,Criptomoneda,Bilbao,7.0,True,1.0
+404,24.0,75.58,1.0,Alimentos,Femenino,27.1,1.0,True,2023-05-13,PayPal,Palma,,True,
+296,62.0,142.02,10.0,Mascotas,No binario,14.0,3.0,False,2024-01-08,,Murcia,28.0,False,1.1
+445,56.0,480.76,,Electrónica,No binario,35.4,7.2,True,2023-10-24,Transferencia,Bilbao,7.0,False,2.5
+900,76.0,415.88,2.0,,Femenino,7.8,3.5,True,2023-02-21,Transferencia,Sevilla,,True,1.4
+1169,56.0,395.07,7.0,Deportes,Femenino,3.9,6.8,True,2022-03-23,Contra reembolso,Las Palmas,12.0,True,
+473,62.0,313.59,7.0,Electrónica,No binario,13.4,6.0,True,2023-07-11,Tarjeta de débito,Bilbao,27.0,True,1.7
+590,22.0,325.67,4.0,Juguetes,Prefiero no decir,42.6,0.3,True,2023-03-01,Transferencia,Zaragoza,93.0,False,3.4
+142,41.0,11.24,4.0,Jardín,Prefiero no decir,33.5,1.0,False,2023-08-22,PayPal,Madrid,16.0,True,3.6
+28,68.0,450.42,2.0,Juguetes,No binario,7.5,1.9,True,2022-04-29,Tarjeta de débito,Las Palmas,70.0,False,1.3
+14,77.0,128.53,9.0,Belleza,Masculino,0.0,9.9,False,2022-10-25,PayPal,Zaragoza,6.0,True,1.5
+940,21.0,199.63,2.0,Alimentos,No binario,2.7,3.0,True,2023-11-25,,Sevilla,23.0,True,4.4
+1087,32.0,473.63,,Bylleza,Prefiero no decir,46.7,7.2,True,2022-06-03,Efectivo,Valencia,12.0,False,5.0
+981,77.0,193.36,3.0,Jardín,No binario,36.8,1.8,True,2022-08-23,Criptomoneda,Barcelona,18.0,False,3.6
+480,56.0,273.8,6.0,Mascotas,Femenino,22.4,6.8,True,2023-02-06,Contra reembolso,Murcia,15.0,False,1.4
+936,83.0,451.46,7.0,Alimentos,No binario,2.7,8.4,True,2023-01-27,PayPal,Barcelona,27.0,True,2.3
+384,50.0,211.2,9.0,Jardín,Prefiero no decir,44.1,10.0,True,2023-11-19,Tarjeta de crédito,Las Palmas,28.0,False,4.5
+605,69.0,75.72,8.0,,No binario,31.5,1.7,True,2022-09-07,Tarjeta de débito,Murcia,9.0,True,2.0
+555,28.0,,7.0,Alimentos,No binario,36.7,0.4,True,2022-03-21,Efectivo,Málaga,28.0,True,2.6
+368,51.0,37.89,6.0,Alimentos,Femenino,25.0,9.6,True,2023-09-24,Criptomoneda,Bilbao,13.0,False,3.0
+1020,74.0,30.66,7.0,Libros,Prefiero no decir,5.6,9.1,True,2023-05-05,Criptomoneda,Palma,4.0,True,3.6
+317,,48.11,1.0,Electrónica,Masculino,50.0,5.9,True,,PayPal,Bilbao,14.0,True,3.0
+1026,27.0,170.35,5.0,Electrónica,Femenino,42.9,7.6,True,2023-12-04,Tarjeta de crédito,Sevilla,24.0,True,2.3
+310,79.0,172.74,5.0,Hogar,Prefiero no decir,0.8,2.8,True,2023-12-04,Tarjeta de débito,Valencia,28.0,False,4.9
+578,82.0,144.1,10.0,Alimentos,No binario,25.0,8.1,,2022-10-15,Criptomoneda,Málaga,3.0,True,4.1
+415,53.0,340.17,9.0,Belleza,Femenino,37.2,8.6,True,2023-01-09,Criptomoneda,Barcelona,21.0,True,3.9
+881,57.0,447.58,6.0,sopa,Masculino,8.9,8.8,True,2023-07-17,Criptomoneda,Madrid,14.0,False,3.6
+191,48.0,156.13,3.0,Ropa,Masculino,26.4,0.5,False,2023-09-26,Transferencia,Valencia,27.0,False,2.9
+706,109.0,261.92,4.0,Hogar,Femenino,45.6,2.9,False,2024-04-01,Tarjeta de débito,Las Palmas,12.0,False,1.1
+900,76.0,418.73,1.0,,Femenino,7.8,3.5,True,2023-02-21,Transferencia,Sevilla,,True,1.4
+507,53.0,290.75,2.0,Mascotas,Femenino,32.3,,,2023-08-03,Criptomoneda,Valencia,7.0,False,4.5
+722,108.0,261.39,7.0,Belleza,Masculino,38.5,6.8,True,2023-05-04,Transferencia,Barcelona,13.0,True,4.5
+464,44.0,176.9,4.0,Juguetes,Femenino,33.2,2.9,True,,Tarjeta de débito,Valencia,21.0,False,
+188,74.0,323.23,8.0,Jardín,,45.9,3.3,True,2022-10-28,Tarjeta de débito,Bilbao,2.0,False,4.7
+784,22.0,232.53,30.0,Deportes,Masculino,28.0,4.1,False,2024-01-24,Efectivo,Murcia,10.0,False,2.2
+175,37.0,238.29,2.0,Ropa,Femenino,18.1,4.4,True,2022-06-13,Tarjeta de crédito,Barcelona,7.0,True,4.9
+241,44.0,372.88,6.0,Deportes,No binario,22.7,6.1,True,2022-01-08,Tarjeta de crédito,Murcia,56.0,,3.8
+655,65.0,28.85,8.0,Jardín,Femenino,11.6,1.8,True,2023-12-04,Contra reembolso,Bilbao,19.0,False,4.3
+700,76.0,205.12,5.0,Electrónica,Prefiero no decir,41.3,7.5,True,2023-01-15,Efectivo,Barcelona,1.0,True,
+10,47.0,144.68,2.0,Hogar,Prefiero no decir,6.5,5.9,False,2022-07-25,Criptomoneda,Las Palmas,7.0,False,3.8
+898,34.0,207.66,10.0,Belleza,No binario,30.2,0.4,False,2022-09-25,Tarjeta de débito,,12.0,True,1.6
+851,23.0,199.27,3.0,Mascotas,No binario,0.9,,True,2023-09-06,Transferencia,Barcelona,19.0,,3.8
+20,76.0,246.35,9.0,Belleza,,,3.2,False,2023-10-28,Criptomoneda,Valencia,29.0,True,2.7
+189,67.0,348.6,7.0,Ropa,No binario,45.4,7.4,False,2022-08-12,Contra reembolso,Las Palmas,67.0,False,4.0
+525,45.0,315.16,9.0,Electrónica,No binario,27.4,1.8,True,2023-11-16,Efectivo,Málaga,21.0,True,2.7
+182,102.0,39.47,1.0,Hogar,Prefiero no decir,16.9,9.8,True,2022-08-15,Transferencia,Palma,25.0,True,3.4
+1015,51.0,288.01,2.0,Juguetes,No binario,25.5,3.7,True,2022-05-12,PayPal,Palma,1.0,False,3.6
+154,76.0,4.04,5.0,Jardín,Femenino,30.8,5.6,True,2024-03-03,Transferencia,Madrid,29.0,True,
+68,43.0,208.82,6.0,Libros,No binario,5.2,0.5,,2023-07-09,Transferencia,Murcia,13.0,True,
+400,52.0,345.76,1.0,Libros,No binario,38.8,8.5,False,,Tarjeta de crédito,Sevilla,4.0,True,2.3
+1027,62.0,367.69,5.0,Juguetes,Prefiero no decir,31.4,3.9,False,,Tarjeta de débito,Murcia,,True,2.4
+185,56.0,117.45,8.0,Electrónica,No binario,29.4,3.3,True,2022-12-06,,Zaragoza,3.0,False,2.3
+1173,28.0,154.02,5.0,Jardín,Prefiero no decir,6.8,3.9,True,2022-11-18,Tarjeta de débito,Zaragoza,30.0,False,2.6
+303,,107.46,5.0,Belleza,Prefiero no decir,16.6,6.8,True,2023-12-19,Contra reembolso,Las Palmas,15.0,False,1.3
+1144,47.0,274.41,2.0,,Prefiero no decir,11.4,9.3,True,2022-12-30,Transferencia,Málaga,26.0,False,1.9
+1124,33.0,,3.0,Belleza,Masculino,11.8,6.8,False,2023-07-28,PayPal,Madrid,11.0,True,1.6
+1005,,70.2,1.0,Electrónica,No binario,0.5,3.6,True,2022-10-09,Efectivo,Bilbao,16.0,True,3.0
+971,72.0,101.64,5.0,Hogar,No binario,15.5,2.7,False,2023-12-01,Tarjeta de débito,Palma,17.0,True,1.1
+1007,43.0,82.85,80.0,Belleza,Masculino,26.8,7.4,False,2022-07-07,PayPal,Málaga,7.0,True,2.5
+600,55.0,358.41,2.0,Deportes,No binario,37.7,9.3,True,2023-08-28,Tarjeta de débito,Bilbao,,False,1.1
+866,46.0,255.45,1.0,Hogar,No binario,39.5,6.5,True,2022-10-10,Efectivo,Valencia,8.0,False,2.4
+910,39.0,1639.93,3.0,Mascotas,Femenino,38.9,3.2,True,2023-06-10,Criptomoneda,Madrid,24.0,False,4.5
+152,20.0,272.69,6.0,Hogar,No binario,5.1,5.7,True,2023-09-04,Criptomoneda,Zaragoza,9.0,False,3.5
+252,66.0,22.16,4.0,Mascotas,No binario,5.8,2.4,True,2022-07-30,Tarjeta de crédito,Las Palmas,6.0,False,2.2
